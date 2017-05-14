@@ -2,11 +2,10 @@
 ;; All rights reserved.
 
 (ns cognitect.xform.spec
-  (:require [clojure.spec :as s]))
+  (:require [clojure.spec.alpha :as s]))
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; spec helpers
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; for documentation only, no validation
+(s/def ::spec any?)
 
 (s/fdef conform!
         :args (s/cat :spec ::spec :x ::any :msg (s/? string?))

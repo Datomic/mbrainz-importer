@@ -3,15 +3,8 @@
 
 (ns cognitect.xform.async
   (:require
-   [clojure.core.async :as a :refer (<! >! >!! close! go go-loop thread timeout)]
-   [clojure.spec :as s]))
+   [clojure.core.async :as a :refer (<! >! >!! close! go go-loop thread timeout)]))
 
-;; for documentation only
-(s/def ::channel any?)
-
-(s/fdef drain
-        :args (s/cat :ch ::channel)
-        :ret nil?)
 (defn drain
   "Close ch and discard all items on it. Returns nil."
   [ch]
@@ -21,8 +14,9 @@
   nil)
 
 (defn threaded-onto
-  "Like onto-chan but uses a real thread."
-  ([ch coll] (threaded-onto ch coll true))
+  "Like c.c.a/onto-chan but uses a real thread."
+  ([ch coll]
+     (threaded-onto ch coll true))
   ([ch coll close?]
      (let [vs (seq coll)]
        (thread
@@ -32,15 +26,13 @@
             (when close?
               (close! ch))))))))
 
-(s/fdef top
-        :args (s/cat :ch ::channel :n nat-int?)
-        :ret ::channel)
 (defn top
-  "Returns a channel with the first n items on ch, closing ch."
-  [ch n]
-  (go
-   (<! (timeout 1000))
-   (close! ch))
-  (go
-   (let [result (<! (a/into [] (a/take n ch)))]
-     result)))
+  "Returns a channel with the first n items on ch, closing ch after msec."
+  ([ch n] (top ch n 1000))
+  ([ch n msec]
+     (go
+      (<! (timeout msec))
+      (close! ch))
+     (go
+      (let [result (<! (a/into [] (a/take n ch)))]
+        result))))

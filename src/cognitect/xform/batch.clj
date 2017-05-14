@@ -4,20 +4,13 @@
 (ns cognitect.xform.batch
   (:require
    [clojure.core.async :as a :refer (<! <!! >! >!! close! go go-loop thread timeout)]
-   [clojure.spec :as s]
+   [clojure.spec.alpha :as s]
    [clojure.string :as str]
-   [cognitect.xform.async :refer (drain)]))
+   [cognitect.anomalies :as anom]
+   [cognitect.xform.async :refer (drain)]
+   [datomic.client.api.alpha :as client]))
 
 (set! *warn-on-reflection* true)
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; core.async helpers
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;; for documentation only, no validation
-(s/def ::spec any?)
-(s/def ::readable any?)
-(s/def ::writeable any?)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Datomic semantic helpers
@@ -65,7 +58,7 @@ or an anomaly map"
                   :args [(client/db conn) batch-id-attr]})
        (a/transduce
         (comp
-         (halt-when client/error?)
+         (halt-when ::anom/category)
          (map #(map first %)))
         into
         #{})))
@@ -78,7 +71,7 @@ or an anomaly. Drains and closes ch if an error is encountered."
   (a/transduce
    (comp
     (map #(<!! (client/transact conn {:tx-data %})))
-    (halt-when client/error? (fn [result bad-input]
+    (halt-when ::anom/category (fn [result bad-input]
                                (drain ch)
                                (assoc bad-input ::completed result))))
    (completing (fn [m {:keys [tx-data]}]
@@ -101,7 +94,7 @@ or an anomaly. Drains and closes ch if an error is encountered."
           (go (>! ach (<! txch)) (close! ach))))
       ch)
      (a/transduce
-      (halt-when client/error? (fn [result bad-input]
+      (halt-when ::anom/category (fn [result bad-input]
                                  (drain tx-result-ch)
                                  (drain ch)
                                  (assoc bad-input :completed result)))

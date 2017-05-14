@@ -3,7 +3,7 @@
 
 (ns cognitect.xform.transducers
   (:require
-   [clojure.spec :as s]
+   [clojure.spec.alpha :as s]
    [cognitect.anomalies :as anom]))
 
 (def ok (halt-when ::anom/category))

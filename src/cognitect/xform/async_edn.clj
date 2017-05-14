@@ -7,7 +7,7 @@
   (:require
    [clojure.core.async :as a :refer (<!! >! >!! close! go thread)]
    [clojure.java.io :as io]
-   [clojure.spec :as s]
+   [clojure.spec.alpha :as s]
    [clojure.edn :as edn]
    [cognitect.anomalies :as anom]))
 
