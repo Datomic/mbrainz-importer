@@ -234,7 +234,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
 (defn create-importer
   "Creates the master importer for data in basedir."
   [basedir]
-  (let [conv (let [load #(-> (io/file basedir "data" %) slurp edn/read-string)]
+  (let [conv (let [load #(-> (io/file basedir "entities" %) slurp edn/read-string)]
                (->ImporterImpl
                 basedir
                 (load "enums.edn")
@@ -260,7 +260,8 @@ the reader and writer threads."
   (go
    (try
     (let [xform (comp (entity-data->tx-data importer type)
-                      (tx-data->batches batch-size BATCH_ID (name type)))
+                      (tx-data->batches batch-size BATCH_ID (name type))
+                      (dot 1000))
           ch (chan 1000 xform)
           inthread (entity-data->ch importer type ch)
           outthread (aedn/writer ch (batch-file importer type))]
@@ -279,7 +280,7 @@ the reader and writer threads."
        (if (::anom/category extant-batch-ids)
          extant-batch-ids
          (let [ch (chan 100 (comp
-                             (map dot)
+                             (dot)
                              (batches->txes BATCH_ID extant-batch-ids)))
                rdr (aedn/reader (batch-file importer type) ch)
                loader (load-parallel n conn ch)]

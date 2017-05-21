@@ -70,7 +70,7 @@ number of :forms written."
   [ch writeable]
   (thread
    (with-ex-anom
-     (with-open [writer (io/writer writeable :append true)]
+     (with-open [writer (io/writer writeable)]
        (binding [*print-length* nil
                  *print-level* nil
                  *out* writer]

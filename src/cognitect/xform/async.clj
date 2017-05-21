@@ -14,25 +14,18 @@
   nil)
 
 (defn threaded-onto
-  "Like c.c.a/onto-chan but uses a real thread."
+  "Like c.c.a/onto-chan but uses a real thread and returns a map with :forms"
   ([ch coll]
      (threaded-onto ch coll true))
   ([ch coll close?]
      (let [vs (seq coll)]
        (thread
-        (loop [vs vs]
+        (loop [vs vs n 0]
           (if (and vs (>!! ch (first vs)))
-            (recur (next vs))
-            (when close?
-              (close! ch))))))))
+            (recur (next vs) (inc n))
+            (do
+              (when close?
+                (close! ch))
+              {:forms n})))))))
 
-(defn top
-  "Returns a channel with the first n items on ch, closing ch after msec."
-  ([ch n] (top ch n 1000))
-  ([ch n msec]
-     (go
-      (<! (timeout msec))
-      (close! ch))
-     (go
-      (let [result (<! (a/into [] (a/take n ch)))]
-        result))))
+
