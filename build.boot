@@ -4,6 +4,7 @@
  :dependencies
  '[[com.cognitect/transcriptor "0.1.4"]
    [com.datomic/client-impl-pro "0.8.5" :exclusions [com.fasterxml.jackson.core/jackson-core]]
+   [com.datomic/client-impl-shared "0.8.6"]
    [org.clojure/core.async "0.3.442"]
    [org.clojure/test.check "0.9.0"]
    [org.clojure/tools.namespace "0.2.11"]])

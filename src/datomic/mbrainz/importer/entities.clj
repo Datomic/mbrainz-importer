@@ -1,8 +1,8 @@
 ;; Copyright (c) Cognitect, Inc.
 ;; All rights reserved.
 
-(ns datomic.mbrainz.importer.input
-  (:require [clojure.spec :as s]))
+(ns datomic.mbrainz.importer.entities
+  (:require [clojure.spec.alpha :as s]))
 
 (s/def ::non-empty-string (and string? #(not-empty %)))
 

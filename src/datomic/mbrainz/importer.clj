@@ -6,14 +6,15 @@
    [clojure.core.async :refer (<! <!! >!! chan go promise-chan)]
    [clojure.edn :as edn]
    [clojure.java.io :as io]
-   [clojure.spec :as s]
+   [clojure.spec.alpha :as s]
    [cognitect.anomalies :as anom]
-   [cognitect.xform.batch :as batch :refer (already-transacted batches->txes conform!
+   [cognitect.xform.batch :as batch :refer (already-transacted batches->txes
                                             load-parallel reverse? tx-data->batches)]
    [cognitect.xform.async :refer (threaded-onto)]
    [cognitect.xform.async-edn :as aedn :refer (with-ex-anom)]
    [cognitect.xform.transducers :refer (dot)]
-   [datomic.mbrainz.importer.input :as in]))
+   [cognitect.xform.spec :refer (conform!)]
+   [datomic.mbrainz.importer.entities :as ent]))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; data and schema
@@ -23,10 +24,10 @@
 (s/def :db/ident keyword?)
 
 (s/def ::enum-type symbol?)
-(s/def ::enums (s/map-of ::enum-type (s/map-of ::in/name ::attr-name)))
+(s/def ::enums (s/map-of ::enum-type (s/map-of ::ent/name ::attr-name)))
 
 (s/def ::super-type keyword?)
-(s/def ::super-enum (s/map-of ::in/name (s/keys :req [:db/ident])))
+(s/def ::super-enum (s/map-of ::ent/name (s/keys :req [:db/ident])))
 (s/def ::super-enums (s/map-of ::super-type ::super-enum))
 (s/def ::importer (s/keys :req-un [::enums ::super-enums]))
 
@@ -140,13 +141,13 @@ of that type."
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (defprotocol Importer
-  (data-file [_ type] "Returns the io/file for input data of type.")
+  (entities-file [_ type] "Returns the io/file for entity data of type.")
   (batch-file [_ type] "Returns the io/file for batch data of type.")
   (could-not-import [_ entity k] "Report and die on a problem converting key k under entity")
   (as-enum [_ ent attr-name v] "Convert value v for attr-name in ent into an enum keyword.")
   (as-super-enum [_ ent attr-name v] "Convert value v for attr-name in ent into a super-enum keyword.")
-  (input-data->tx-data [_ type] "Return the transducer for entity type")
-  (input-data->ch [_ type ch] "Puts input data for type onto ch, closing ch when data is done."))
+  (entity-data->tx-data [_ type] "Given an entity type, return a transducer from that type into tx-data.")
+  (entity-data->ch [_ type ch] "Puts entity data for type onto ch, closing ch when data is done."))
 
 (defn transform-entity
   "Transform entity e from input format to tx-data map.
@@ -187,9 +188,9 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
 (defrecord ImporterImpl
   [basedir enums super-enums]
   Importer
-  (data-file
+  (entities-file
    [_ type]
-   (io/file basedir "data" (str (name type) ".edn")))
+   (io/file basedir "entities" (str (name type) ".edn")))
   (batch-file
    [_ type]
    (io/file basedir "batches" (str (name type) ".edn")))
@@ -197,7 +198,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
    [_ entity k]
    (throw (ex-info "Importer failed" {:entity entity :problem-key k})))
   (as-enum
- [this ent attr-name v]
+   [this ent attr-name v]
    (when-let [lookup (some-> attr-name enum-attrs enums)]
      (or (get lookup v)
          (could-not-import this ent attr-name))))
@@ -206,7 +207,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
    (when-let [lookup (some-> attr-name super-attrs super-enums)]
      (or (-> (get lookup v) :db/ident)
          (could-not-import this ent attr-name))))
-  (input-data->tx-data
+  (entity-data->tx-data
    [this type]
    (case type
          :schema cat
@@ -223,12 +224,12 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
                      (transform-entity this ent track-attrs))))
          :releases-artists (map #(transform-entity this % release-artist-attrs))
          :areleases-artists (map #(transform-entity this % arelease-artist-attrs))))
-  (input-data->ch
+  (entity-data->ch
    [this type ch]
    (case type
          :enums (threaded-onto ch (:enums this))
          :super-enums (threaded-onto ch (:super-enums this))
-         (aedn/reader (data-file this type) ch))))
+         (aedn/reader (entities-file this type) ch))))
 
 (defn create-importer
   "Creates the master importer for data in basedir."
@@ -253,18 +254,18 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
 
 (defn create-batch-file
   "Use the importer to make transaction data for entities of type,
-with batch size of batch-size. Returns a channel that will get a map
-with results from job threads."
+with batch size of batch-size. Returns a map with the results from
+the reader and writer threads."
   [importer batch-size type]
   (go
    (try
-    (let [xform (comp (input-data->tx-data importer type)
+    (let [xform (comp (entity-data->tx-data importer type)
                       (tx-data->batches batch-size BATCH_ID (name type)))
           ch (chan 1000 xform)
-          inthread (input-data->ch importer type ch)
+          inthread (entity-data->ch importer type ch)
           outthread (aedn/writer ch (batch-file importer type))]
-      {:in (<! inthread)
-       :out (<! outthread)})
+      {:reader (<! inthread)
+       :writer (<! outthread)})
     (catch Throwable t
       {::anom/category ::anom/fault
        ::anom/message (.getMessage t)}))))

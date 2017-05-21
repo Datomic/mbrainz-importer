@@ -12,12 +12,13 @@
   "Returns a pasthru transducer that will validate spec against every
 input, halting reduction with an anomaly map if input fails."
   [spec]
-  (halt-when
-   #(not (s/valid? spec %))
-   (fn [result problem]
-     (assoc (s/explain-data spec problem)
-       ::partial-result result
-       ::invalid-step problem))))
+  (let [spec (s/spec spec)]
+    (halt-when
+     #(not (s/valid? spec %))
+     (fn [result problem]
+       (assoc (s/explain-data spec problem)
+         ::partial-result result
+         ::invalid-step problem)))))
 
 (defn counter
   "Reducing function that counts inputs."
