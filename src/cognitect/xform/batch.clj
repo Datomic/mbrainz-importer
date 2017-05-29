@@ -67,10 +67,10 @@ or an anomaly map"
   "Loads transaction data from ch serially onto conn. Returns
 a channel that will get a map with :txes and :datoms counts
 or an anomaly. Drains and closes ch if an error is encountered."
-  [conn ch]
+  [conn tx-timeout ch]
   (a/transduce
    (comp
-    (map #(<!! (client/transact conn {:tx-data %})))
+    (map #(<!! (client/transact conn {:tx-data % :timeout tx-timeout})))
     (halt-when ::anom/category (fn [result bad-input]
                                (drain ch)
                                (assoc bad-input ::completed result))))
@@ -80,17 +80,17 @@ or an anomaly. Drains and closes ch if an error is encountered."
    ch))
 
 (defn load-parallel
-  "Loads transaction data from ch onto conn with parallelism. Returns
+  "Loads transaction data from ch onto conn with parallelism n. Returns
 a channel that will get a map with :txes and :datoms counts
 or an anomaly. Drains and closes ch if an error is encountered."
-  ([n conn ch]
-     (load-parallel n conn (a/chan 1000) ch))
-  ([n conn tx-result-ch ch]
+  ([n conn tx-timeout ch]
+     (load-parallel n conn tx-timeout (a/chan 1000) ch))
+  ([n conn tx-timeout tx-result-ch ch]
      (a/pipeline-async
       n
       tx-result-ch
       (fn [tx ach]
-        (let [txch (client/transact conn {:tx-data tx})]
+        (let [txch (client/transact conn {:tx-data tx :timeout tx-timeout})]
           (go (>! ach (<! txch)) (close! ach))))
       ch)
      (a/transduce

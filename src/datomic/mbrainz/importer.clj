@@ -283,7 +283,7 @@ the reader and writer threads."
                              (dot)
                              (batches->txes BATCH_ID extant-batch-ids)))
                rdr (aedn/reader (batch-file importer type) ch)
-               loader (load-parallel n conn ch)]
+               loader (load-parallel n conn (* 10 60 1000) ch)]
            {:process (<! rdr)
             :result (<! loader)}))))))
 
