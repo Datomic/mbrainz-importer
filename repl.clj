@@ -5,6 +5,7 @@
  '[clojure.pprint :as pp]
  '[clojure.repl :refer :all]
  '[clojure.spec.alpha :as s]
+ '[clojure.string :as str]
  '[cognitect.anomalies :as anom]
  '[cognitect.xform.async-edn :as aedn]
  '[cognitect.xform.batch :as batch]
