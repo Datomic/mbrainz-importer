@@ -79,6 +79,37 @@ or an anomaly. Drains and closes ch if an error is encountered."
    {:txes 0 :datoms 0}
    ch))
 
+
+(defn create-backoff
+  "Returns a backoff function that will return increasing backoffs from
+start up to max by multiplicative factor, then nil."
+  [start max factor]
+  (let [a (atom (/ start factor))]
+    #(let [backoff (long (swap! a * factor))]
+       (when (<= backoff max)
+         backoff))))
+
+(defn busy?
+  [resp]
+  (print "-") (flush)
+  (or (::anom/busy (:anom/category resp))
+      (#{429 503} (:datomic.client/http-error-status resp))))
+
+(defn retrying
+  "Retries f, a channel returning fn, using backoff to retry. Puts result on ch
+and closes ch"
+  [f backoff ch]
+  (go-loop []
+   (let [res (<! (f))]
+     (if (busy? res)
+       (if-let [msec (backoff)]
+         (do
+           (println {:backoff msec})
+           (<! (timeout msec))
+           (recur))
+         (doto ch (>! res) close!))
+       (doto ch (>! res) close!)))))
+
 (defn load-parallel
   "Loads transaction data from ch onto conn with parallelism n. Returns
 a channel that will get a map with :txes and :datoms counts
@@ -90,8 +121,9 @@ or an anomaly. Drains and closes ch if an error is encountered."
       n
       tx-result-ch
       (fn [tx ach]
-        (let [txch (client/transact conn {:tx-data tx :timeout tx-timeout})]
-          (go (>! ach (<! txch)) (close! ach))))
+        (retrying #(client/transact conn {:tx-data tx :timeout tx-timeout})
+                  (create-backoff 100 tx-timeout 2)
+                  ach))
       ch)
      (a/transduce
       (halt-when ::anom/category (fn [result bad-input]
