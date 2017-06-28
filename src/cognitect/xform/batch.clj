@@ -8,7 +8,7 @@
    [clojure.string :as str]
    [cognitect.anomalies :as anom]
    [cognitect.xform.async :refer (drain)]
-   [datomic.client.api.alpha :as client]))
+   [datomic.client.api.async.alpha :as d]))
 
 (set! *warn-on-reflection* true)
 
@@ -50,12 +50,12 @@ identified by its tx-attr value"
   "Returns the set of values for batch-id-attr already in the database,
 or an anomaly map"
   [conn batch-id-attr]
-  (->> (client/q conn
+  (->> (d/q conn
                  {:query '[:find ?v
                            :in $ ?batch-id-attr
                            :where [_ ?batch-id-attr ?v]]
                   :limit -1
-                  :args [(client/db conn) batch-id-attr]})
+                  :args [(d/db conn) batch-id-attr]})
        (a/transduce
         (comp
          (halt-when ::anom/category)
@@ -70,7 +70,7 @@ or an anomaly. Drains and closes ch if an error is encountered."
   [conn tx-timeout ch]
   (a/transduce
    (comp
-    (map #(<!! (client/transact conn {:tx-data % :timeout tx-timeout})))
+    (map #(<!! (d/transact conn {:tx-data % :timeout tx-timeout})))
     (halt-when ::anom/category (fn [result bad-input]
                                (drain ch)
                                (assoc bad-input ::completed result))))
@@ -91,8 +91,7 @@ start up to max by multiplicative factor, then nil."
 
 (defn busy?
   [resp]
-  (print "-") (flush)
-  (or (::anom/busy (:anom/category resp))
+  (or (::anom/busy (::anom/category resp))
       (#{429 503} (:datomic.client/http-error-status resp))))
 
 (defn retrying
@@ -102,12 +101,13 @@ and closes ch"
   (go-loop []
    (let [res (<! (f))]
      (if (busy? res)
-       (if-let [msec (backoff)]
-         (do
-           (println {:backoff msec})
-           (<! (timeout msec))
-           (recur))
-         (doto ch (>! res) close!))
+       (let [msec (backoff)]
+         (println {:backoff msec})
+         (if msec
+           (do
+             (<! (timeout msec))
+             (recur))
+           (doto ch (>! res) close!)))
        (doto ch (>! res) close!)))))
 
 (defn load-parallel
@@ -115,13 +115,14 @@ and closes ch"
 a channel that will get a map with :txes and :datoms counts
 or an anomaly. Drains and closes ch if an error is encountered."
   ([n conn tx-timeout ch]
-     (load-parallel n conn tx-timeout (a/chan 1000) ch))
+     (load-parallel n conn tx-timeout (a/chan n) ch))
   ([n conn tx-timeout tx-result-ch ch]
      (a/pipeline-async
       n
       tx-result-ch
       (fn [tx ach]
-        (retrying #(client/transact conn {:tx-data tx :timeout tx-timeout})
+        (print ">") (flush)
+        (retrying #(d/transact conn {:tx-data tx :timeout tx-timeout})
                   (create-backoff 100 tx-timeout 2)
                   ach))
       ch)

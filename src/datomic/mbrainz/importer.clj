@@ -211,6 +211,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
    [this type]
    (case type
          :schema cat
+         :schema-cloud cat
          :enums enums->tx-data
          :super-enums super-enums->tx-data
          :artists (map #(transform-entity this % artist-attrs))

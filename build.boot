@@ -3,8 +3,10 @@
  :source-paths #{"test"}
  :dependencies
  '[[com.cognitect/transcriptor "0.1.4"]
-   [com.datomic/client-impl-pro "0.8.5" :exclusions [com.fasterxml.jackson.core/jackson-core]]
-   [com.datomic/client-impl-shared "0.8.6"]
+   #_[com.datomic/client-impl-pro "0.8.5" :exclusions [com.fasterxml.jackson.core/jackson-core]]
+   #_[com.datomic/client-impl-shared "0.8.6"]
+   [com.datomic/client "0.8.11"]
+   [com.datomic/client-impl-cloud "0.8.22"]
    [org.clojure/core.async "0.3.442"]
    [org.clojure/test.check "0.9.0"]
    [org.clojure/tools.namespace "0.2.11"]])
