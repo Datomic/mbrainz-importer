@@ -110,6 +110,18 @@ and closes ch"
            (doto ch (>! res) close!)))
        (doto ch (>! res) close!)))))
 
+(defn transact-xform
+  "Creates a transducer from tx-data to tx-result"
+  [conn timeout]
+  (map
+   (fn [tx-data]
+     (let [ch (a/chan 1)]
+       (retrying
+        #(d/transact conn {:tx-data tx-data :timeout timeout})
+        (create-backoff 100 timeout 2)
+        ch)
+       (<!! ch)))))
+
 (defn load-parallel
   "Loads transaction data from ch onto conn with parallelism n. Returns
 a channel that will get a map with :txes and :datoms counts
@@ -117,14 +129,10 @@ or an anomaly. Drains and closes ch if an error is encountered."
   ([n conn tx-timeout ch]
      (load-parallel n conn tx-timeout (a/chan n) ch))
   ([n conn tx-timeout tx-result-ch ch]
-     (a/pipeline-async
+     (a/pipeline-blocking
       n
       tx-result-ch
-      (fn [tx ach]
-        (print ">") (flush)
-        (retrying #(d/transact conn {:tx-data tx :timeout tx-timeout})
-                  (create-backoff 100 tx-timeout 2)
-                  ach))
+      (transact-xform conn tx-timeout)
       ch)
      (a/transduce
       (halt-when ::anom/category (fn [result bad-input]
