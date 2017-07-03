@@ -82,16 +82,15 @@ or an anomaly. Drains and closes ch if an error is encountered."
 
 (defn create-backoff
   "Returns a backoff function that will return increasing backoffs from
-start up to max by multiplicative factor, then nil."
-  [start max factor]
+start up "
+  [start end factor]
   (let [a (atom (/ start factor))]
-    #(let [backoff (long (swap! a * factor))]
-       (when (<= backoff max)
-         backoff))))
+    #(swap! a (fn [x] (let [nxt (* x factor)]
+                        (min nxt end))))))
 
 (defn busy?
   [resp]
-  (or (::anom/busy (::anom/category resp))
+  (or (= ::anom/busy (::anom/category resp))
       (#{429 503} (:datomic.client/http-error-status resp))))
 
 (defn retrying
@@ -118,7 +117,7 @@ and closes ch"
      (let [ch (a/chan 1)]
        (retrying
         #(d/transact conn {:tx-data tx-data :timeout timeout})
-        (create-backoff 100 timeout 2)
+        (create-backoff 100 30000 2)
         ch)
        (<!! ch)))))
 
