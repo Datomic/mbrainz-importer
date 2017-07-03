@@ -1,15 +1,21 @@
+(System/setProperty "org.eclipse.jetty.util.log.class"
+                    "org.eclipse.jetty.util.log.Slf4jLog")
+(System/setProperty "org.eclipse.jetty.LEVEL" "DEBUG")
+
 (set-env!
- :resource-paths #{"src"}
+ :resource-paths #{"src" "resources"}
  :source-paths #{"test"}
  :dependencies
- '[[com.cognitect/transcriptor "0.1.4"]
-   #_[com.datomic/client-impl-pro "0.8.5" :exclusions [com.fasterxml.jackson.core/jackson-core]]
-   #_[com.datomic/client-impl-shared "0.8.6"]
-   [com.datomic/client "0.8.11"]
-   [com.datomic/client-impl-cloud "0.8.22"]
+ '[[ch.qos.logback/logback-classic "1.0.13"]
+   [com.cognitect/transcriptor "0.1.4"]
+   [com.datomic/client-impl-pro "0.8.7" :exclusions [com.fasterxml.jackson.core/jackson-core]]
+   [com.datomic/client "0.8.14"]
+   [com.datomic/client-impl-cloud "0.8.24"]
+   [com.datomic/client-impl-shared "0.8.17"]
    [org.clojure/core.async "0.3.442"]
    [org.clojure/test.check "0.9.0"]
-   [org.clojure/tools.namespace "0.2.11"]])
+   [org.clojure/tools.namespace "0.2.11"]
+   [seesaw "1.4.5"]])
 
 (deftask vanilla-repl
   "Vanilla Clojure REPL."

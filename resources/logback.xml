@@ -1,0 +1,22 @@
+<configuration>
+
+  <!-- prevent per-message overhead for jul logging calls, e.g. Hornet -->
+  <contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+    <resetJUL>true</resetJUL>
+  </contextListener>
+
+  <appender name="MAIN" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>${DATOMIC_LOG_DIR:-log}/%d{yyyy-MM-dd}.log</fileNamePattern>
+      <maxHistory>72</maxHistory> 
+    </rollingPolicy>
+    <prudent>true</prudent> <!-- multi jvm safe, slower -->
+    <encoder>
+      <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %-10contextName %logger{36} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <root level="debug">
+    <appender-ref ref="MAIN"/>
+  </root>
+</configuration>
