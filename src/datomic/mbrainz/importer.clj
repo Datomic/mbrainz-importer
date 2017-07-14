@@ -8,7 +8,7 @@
    [clojure.java.io :as io]
    [clojure.spec.alpha :as s]
    [cognitect.anomalies :as anom]
-   [cognitect.xform.batch :as batch :refer (already-transacted batches->txes
+   [cognitect.xform.batch :as batch :refer (already-transacted filter-batches
                                             load-parallel reverse? tx-data->batches)]
    [cognitect.xform.async :refer (threaded-onto)]
    [cognitect.xform.async-edn :as aedn :refer (with-ex-anom)]
@@ -278,13 +278,14 @@ the reader and writer threads."
   (go
    (with-ex-anom
      (let [extant-batch-ids (<! (already-transacted conn BATCH_ID))]
+       (println "Batches already completed: " (count extant-batch-ids))
        (if (::anom/category extant-batch-ids)
          extant-batch-ids
          (let [ch (chan 100 (comp
                              (dot)
-                             (batches->txes BATCH_ID extant-batch-ids)))
+                             (filter-batches BATCH_ID extant-batch-ids)))
                rdr (aedn/reader (batch-file importer type) ch)
-               loader (load-parallel n conn (* 10 60 1000) ch)]
+               loader (load-parallel n conn (* 30 1000) ch)]
            {:process (<! rdr)
             :result (<! loader)}))))))
 

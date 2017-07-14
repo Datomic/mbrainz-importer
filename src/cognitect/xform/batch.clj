@@ -39,12 +39,9 @@ identified by its tx-attr value"
      (partition-all batch-size)
      (map (fn [data] {:batch-ident (next-id) :data data})))))
 
-(defn batches->txes
+(defn filter-batches
   [batch-id-attr remove-batch-ids]
-  (comp
-   (remove #(contains? remove-batch-ids (get-in % [:batch-ident batch-id-attr])))
-   (map (fn [{:keys [batch-ident data]}]
-          (cons batch-ident data)))))
+  (remove #(contains? remove-batch-ids (get-in % [:batch-ident batch-id-attr]))))
 
 (defn already-transacted
   "Returns the set of values for batch-id-attr already in the database,
@@ -63,26 +60,9 @@ or an anomaly map"
         into
         #{})))
 
-(defn load-serial
-  "Loads transaction data from ch serially onto conn. Returns
-a channel that will get a map with :txes and :datoms counts
-or an anomaly. Drains and closes ch if an error is encountered."
-  [conn tx-timeout ch]
-  (a/transduce
-   (comp
-    (map #(<!! (d/transact conn {:tx-data % :timeout tx-timeout})))
-    (halt-when ::anom/category (fn [result bad-input]
-                               (drain ch)
-                               (assoc bad-input ::completed result))))
-   (completing (fn [m {:keys [tx-data]}]
-                 (-> m (update :txes inc) (update :datoms + (count tx-data)))))
-   {:txes 0 :datoms 0}
-   ch))
-
-
 (defn create-backoff
   "Returns a backoff function that will return increasing backoffs from
-start up "
+start up to end, multiplying by factor"
   [start end factor]
   (let [a (atom (/ start factor))]
     #(swap! a (fn [x] (let [nxt (* x factor)]
@@ -91,6 +71,7 @@ start up "
 (defn busy?
   [resp]
   (or (= ::anom/busy (::anom/category resp))
+      (= ::anom/unavailable (::anom/category resp))
       (#{429 503} (:datomic.client/http-error-status resp))))
 
 (defn retrying
@@ -101,7 +82,7 @@ and closes ch"
    (let [res (<! (f))]
      (if (busy? res)
        (let [msec (backoff)]
-         (println {:backoff msec})
+         (print "B") (flush)
          (if msec
            (do
              (<! (timeout msec))
@@ -109,20 +90,30 @@ and closes ch"
            (doto ch (>! res) close!)))
        (doto ch (>! res) close!)))))
 
-(defn transact-xform
+(defn transact-batch*
+  [conn {:keys [batch-ident data]} timeout]
+  (go
+   (let [result (<! (d/transact conn {:tx-data (cons batch-ident data) :timeout timeout}))]
+     (if (= ::anom/conflict (::anom/category result))
+       (do
+         (print "C") (flush)
+         {:tx-data nil})
+       result))))
+
+(defn transact-batch
   "Creates a transducer from tx-data to tx-result"
   [conn timeout]
   (map
-   (fn [tx-data]
+   (fn [batch]
      (let [ch (a/chan 1)]
        (retrying
-        #(d/transact conn {:tx-data tx-data :timeout timeout})
+        #(transact-batch* conn batch timeout)
         (create-backoff 100 30000 2)
         ch)
        (<!! ch)))))
 
 (defn load-parallel
-  "Loads transaction data from ch onto conn with parallelism n. Returns
+  "Loads batches from ch onto conn with parallelism n. Returns
 a channel that will get a map with :txes and :datoms counts
 or an anomaly. Drains and closes ch if an error is encountered."
   ([n conn tx-timeout ch]
@@ -131,7 +122,7 @@ or an anomaly. Drains and closes ch if an error is encountered."
      (a/pipeline-blocking
       n
       tx-result-ch
-      (transact-xform conn tx-timeout)
+      (transact-batch conn tx-timeout)
       ch)
      (a/transduce
       (halt-when ::anom/category (fn [result bad-input]
