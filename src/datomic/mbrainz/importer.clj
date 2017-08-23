@@ -6,6 +6,7 @@
    [clojure.core.async :refer (<! <!! >!! chan go promise-chan)]
    [clojure.edn :as edn]
    [clojure.java.io :as io]
+   [clojure.pprint :as pp]
    [clojure.spec.alpha :as s]
    [cognitect.anomalies :as anom]
    [cognitect.xform.batch :as batch :refer (already-transacted filter-batches
@@ -14,6 +15,7 @@
    [cognitect.xform.async-edn :as aedn :refer (with-ex-anom)]
    [cognitect.xform.transducers :refer (dot)]
    [cognitect.xform.spec :refer (conform!)]
+   [datomic.client.api.alpha :as d]
    [datomic.mbrainz.importer.entities :as ent]))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -30,6 +32,8 @@
 (s/def ::super-enum (s/map-of ::ent/name (s/keys :req [:db/ident])))
 (s/def ::super-enums (s/map-of ::super-type ::super-enum))
 (s/def ::importer (s/keys :req-un [::enums ::super-enums]))
+
+(s/def ::manifest (s/keys :req-un [::client-cfg ::db-name ::basedir ::batch-size ::concurrency]))
 
 (def import-order
   "Order of import for data types."
@@ -289,4 +293,34 @@ the reader and writer threads."
            {:process (<! rdr)
             :result (<! loader)}))))))
 
+(defn -main
+  "Run an mbrainz import. Manifest file must have
 
+:client-cfg        args for d/client
+:db-name           database name
+:basedir           directory with entity data
+:batch-size        number of entities per batch, suggest 100
+:concurrency       number of batches in flight at a time, suggest 3
+
+The subsets directory of this project is a suitable basedir.
+
+Do not call with different batch-size settings against the same db.
+
+Idempotent. Prints to stdout as it goes, throws on error."
+  [manifest-file]
+  (let [manifest (-> manifest-file slurp edn/read-string)]
+    (conform! ::manifest manifest)
+    (let [{:keys [client-cfg db-name basedir batch-size concurrency]} manifest
+          client (d/client client-cfg)
+          importer (create-importer basedir)]
+      (doseq [type import-order]
+        (println "batching up " type)
+        (println (<!! (create-batch-file importer batch-size type))))
+      (d/create-database client {:db-name db-name})
+      (let [conn (d/connect client {:db-name db-name})]
+        (d/transact conn {:tx-data import-schema})
+        (time
+         (doseq [type import-order]
+           (println "Loading batch file for " type)
+           (time
+            (pp/pprint (<!! (load-type concurrency conn importer type))))))))))

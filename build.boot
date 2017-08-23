@@ -30,6 +30,13 @@
          '[clojure.tools.namespace.find :as find]
          '[clojure.java.io :as io])
 
+(require 'datomic.mbrainz.importer)
+(deftask run
+  [m manifest FILE str "import manifest"]
+  (with-pass-thru
+    [_]
+    (datomic.mbrainz.importer/-main manifest)))
+
 (deftask run-examples
   "Runs transcriptor examples in dir, which need not be on classpath."
   [d dir DIR str "directory to test"
