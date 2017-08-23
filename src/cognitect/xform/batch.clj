@@ -72,6 +72,8 @@ start up to end, multiplying by factor"
   [resp]
   (or (= ::anom/busy (::anom/category resp))
       (= ::anom/unavailable (::anom/category resp))
+      (and (= ::anom/fault (::anom/category resp))
+           (do (prn resp) (print "F") (flush) true))
       (#{429 503} (:datomic.client/http-error-status resp))))
 
 (defn retrying
