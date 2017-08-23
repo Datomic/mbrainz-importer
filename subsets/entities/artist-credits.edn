@@ -1,0 +1,4642 @@
+{:acid 596923, :name "De Krakers"}
+{:acid 701814, :name "Mad Curry"}
+{:acid 510292, :name "Miller's Blackhawks Musical Corps, Dayton, Ohio"}
+{:acid 268381, :name "Egg"}
+{:acid 45695, :name "David Peel & The Lower East Side"}
+{:acid 807576, :name "George Jones & Tammy Wynette"}
+{:acid 33951, :name "Guy Lombardo"}
+{:acid 573622, :name "Dallas Frazier"}
+{:acid 34596, :name "Chubby Checker"}
+{:acid 121240, :name "Ollie & The Nightingales"}
+{:acid 262143, :name "Blue Sharks"}
+{:acid 520964, :name "Mieczysław Kosz Trio"}
+{:acid 65598, :name "Claes-Göran Hederström"}
+{:acid 272332, :name "Benny Johnson"}
+{:acid 380668, :name "Los tres sudamericanos"}
+{:acid 569718, :name "Jordi Sabatés & Toti Soler"}
+{:acid 126512, :name "Øystein Sunde"}
+{:acid 146019, :name "Art Jerry Miller"}
+{:acid 788112, :name "Zalla"}
+{:acid 114944, :name "Ron Holden"}
+{:acid 706224, :name "Brave Belt"}
+{:acid 193372, :name "The Aynsley Dunbar Retaliation"}
+{:acid 241320, :name "Fórmula V"}
+{:acid 217444, :name "Alan Lee Jazz Quartet"}
+{:acid 306391, :name "San Francisco's"}
+{:acid 272595, :name "Aunt Mary"}
+{:acid 481377, :name "Jumbo"}
+{:acid 232066, :name "The Moving Sidewalks"}
+{:acid 513431, :name "Moses Dillard & the Tex-Town Display"}
+{:acid 805995, :name "Antonello Venditti & Francesco De Gregori"}
+{:acid 98456, :name "Juan y Junior"}
+{:acid 471602, :name "Dennis Stoner"}
+{:acid 494748, :name "Tramline"}
+{:acid 261286, :name "Ricardo Ray Orchestra"}
+{:acid 299952, :name "Jim & Ingrid Croce"}
+{:acid 241130, :name "Joseph Beuys"}
+{:acid 687052,
+ :name "M.A. Numminen ja Jani Uhleniuksen uusrahvaanomainen orkesteri"}
+{:acid 129613, :name "The Third Guitar"}
+{:acid 3562, :name "Renaissance"}
+{:acid 437946, :name "Food Brain"}
+{:acid 55297, :name "Elza Soares"}
+{:acid 33982, :name "Martin Denny"}
+{:acid 14540, :name "Novalis"}
+{:acid 219685, :name "Heino Eller"}
+{:acid 91323, :name "Amazing Blondel"}
+{:acid 685157, :name "Klan"}
+{:acid 559773, :name "The Pandamonium"}
+{:acid 858763, :name "Ranmadou"}
+{:acid 235717, :name "Junipher Greene"}
+{:acid 130268, :name "Gary McFarland"}
+{:acid 67710, :name "Candi Staton"}
+{:acid 938048, :name "Röda Kapellet / Unga Gardet"}
+{:acid 21538, :name "Atlantis"}
+{:acid 4305, :name "Bill Coleman"}
+{:acid 85205, :name "Adamo"}
+{:acid 56393, :name "Charlie Musselwhite"}
+{:acid 2169, :name "Harry Belafonte"}
+{:acid 342367, :name "The Mothers of Invention"}
+{:acid 805596, :name "Peggy Scott & Jo Jo Benson"}
+{:acid 40184, :name "Henry Cow"}
+{:acid 343, :name "The Ventures"}
+{:acid 130823, :name "Gun"}
+{:acid 69056, :name "The Trip"}
+{:acid 615219, :name "Walter Carlos"}
+{:acid 173767, :name "Max Bygraves"}
+{:acid 1605, :name "Scorpions"}
+{:acid 6441, :name "Conway Twitty"}
+{:acid 283898, :name "Jean-Michel Caradec"}
+{:acid 1762, :name "UFO"}
+{:acid 127721, :name "Sui Generis"}
+{:acid 2390, :name "Nina Simone"}
+{:acid 107797, :name "Wilson Simonal"}
+{:acid 3462, :name "Dizzy Gillespie"}
+{:acid 16177, :name "The Fortunes"}
+{:acid 1672, :name "Bachman-Turner Overdrive"}
+{:acid 50544, :name "Rex Gildo"}
+{:acid 31299, :name "Betty Carter"}
+{:acid 130234, :name "Jim Dickinson"}
+{:acid 241750, :name "Barry Hay"}
+{:acid 12311, :name "Phil Keaggy"}
+{:acid 697905, :name "Papo Felix and Ray Rodriguez"}
+{:acid 346636, :name "Ismael Rivera y Sus Cachimbos"}
+{:acid 469206, :name "Human Race"}
+{:acid 155627, :name "Roy Ayers Ubiquity"}
+{:acid 49463, :name "Al Kooper"}
+{:acid 373741, :name "Abstract Truth"}
+{:acid 272329, :name "Julius Brockington"}
+{:acid 720597, :name "The Mike Morton Congregation"}
+{:acid 104610, :name "The Show Stoppers"}
+{:acid 431125, :name "Bonnie Owens"}
+{:acid 37585, :name "Bergendy"}
+{:acid 130563, :name "Grin"}
+{:acid 773780, :name "Nicolas Skorsky"}
+{:acid 385446, :name "Leif Wager"}
+{:acid 37983, :name "Los Jaivas"}
+{:acid 433066, :name "Arrival"}
+{:acid 305579, :name "Michael Stanley"}
+{:acid 712282, :name "Ibliss"}
+{:acid 31090, :name "The Persuaders"}
+{:acid 331052, :name "Sy Mann"}
+{:acid 35741, :name "John Kay"}
+{:acid 499100, :name "Tim Dawe"}
+{:acid 35224, :name "Carey Bell"}
+{:acid 82101, :name "Gerard Cox"}
+{:acid 805296, :name "Pekka Streng & Tasavallan Presidentti"}
+{:acid 278144, :name "Monk Montgomery"}
+{:acid 538170, :name "Jesse Harper"}
+{:acid 58970, :name "Plus"}
+{:acid 467792, :name "Capitolo 6"}
+{:acid 807578, :name "Jane Birkin & Serge Gainsbourg"}
+{:acid 823225, :name "Astor Piazzolla & Aníbal Troilo"}
+{:acid 2125, :name "Supertramp"}
+{:acid 769286, :name "High Broom"}
+{:acid 116159, :name "Manfred Krug"}
+{:acid 833743, :name "María Dolores"}
+{:acid 6649, :name "John Fahey"}
+{:acid 77989, :name "Jerry Reed"}
+{:acid 853967, :name "The Singing End"}
+{:acid 155752, :name "Flaming Ember"}
+{:acid 34010, :name "Roy Buchanan"}
+{:acid 40763, :name "The Cannonball Adderley Quintet"}
+{:acid 137341, :name "Willy Alberti"}
+{:acid 44984, :name "Lucio Dalla"}
+{:acid 60355, :name "Con Funk Shun"}
+{:acid 60537, :name "Jan Akkerman"}
+{:acid 30407, :name "The Exciters"}
+{:acid 4343, :name "Richard Rodgers"}
+{:acid 110026, :name "Clifford T. Ward"}
+{:acid 197497, :name "Sun Ra and His Astro Infinity Arkestra"}
+{:acid 76713, :name "Cymande"}
+{:acid 42062, :name "Dave Van Ronk"}
+{:acid 12100, :name "Etta James"}
+{:acid 10341, :name "Claude Debussy"}
+{:acid 37917, :name "The Stylistics"}
+{:acid 9971, :name "Status Quo"}
+{:acid 1021, :name "Ludwig van Beethoven"}
+{:acid 76892, :name "Chicory Tip"}
+{:acid 372043, :name "Tony (T.S.) McPhee"}
+{:acid 20334, :name "The New Seekers"}
+{:acid 14125, :name "Piero Umiliani"}
+{:acid 14584, :name "Lee Michaels"}
+{:acid 132741, :name "Fugi"}
+{:acid 415709, :name "Marion Brown"}
+{:acid 38833, :name "The Blues Project"}
+{:acid 207437, :name "Reginaldo Rossi"}
+{:acid 693860, :name "Anima"}
+{:acid 774611, :name "Walter Bishop, Jr.'s 4th Cycle"}
+{:acid 108204, :name "Renft"}
+{:acid 316300, :name "Frank Lowe"}
+{:acid 108690, :name "Eric Mercury"}
+{:acid 32394, :name "Sonny Sharrock"}
+{:acid 809983, :name "Janko Nilovic & Dave Sucky"}
+{:acid 15933, :name "Stampeders"}
+{:acid 90946, :name "Zjef Vanuytsel"}
+{:acid 547652, :name "Otarus"}
+{:acid 199540, :name "Tear Gas"}
+{:acid 436222, :name "De De Lind"}
+{:acid 259362, :name "Älgarnas Trädgård"}
+{:acid 121263, :name "The Artistics"}
+{:acid 324925, :name "Frédérik Mey"}
+{:acid 390706, :name "Fuchsia"}
+{:acid 720182, :name "Jimmy Nabbie"}
+{:acid 41128, :name "Dudley Moore"}
+{:acid 50728, :name "J.B. Hutto & The Hawks"}
+{:acid 471980, :name "Gary William Friedman"}
+{:acid 417153, :name "The Section"}
+{:acid 540281, :name "Stamps Quartet"}
+{:acid 272882, :name "McCully Workshop"}
+{:acid 193323, :name "Boeing Duveen & The Beautiful Soup"}
+{:acid 619597, :name "Taylor Smith"}
+{:acid 131985, :name "Malcolm Roberts"}
+{:acid 596414, :name "Johnny Ace with Johnny Otis Orchestra"}
+{:acid 146312, :name "Bola Sete"}
+{:acid 220259, :name "Schytts"}
+{:acid 98469, :name "Massiel"}
+{:acid 4509, :name "Stuff Smith"}
+{:acid 51710, :name "Ken Hensley"}
+{:acid 131621, :name "Edmundo Ros"}
+{:acid 30237, :name "The Sandpipers"}
+{:acid 96478, :name "Ivano Fossati"}
+{:acid 94901, :name "Shankar Jaikishan"}
+{:acid 516357, :name "Hugo Winterhalter"}
+{:acid 43230, :name "Deuter"}
+{:acid 876393, :name "Dr. Nico & L'Orchestre African Fiesta Sukisa"}
+{:acid 61522, :name "The Electric Prunes"}
+{:acid 59001, :name "Bobby \"Blue\" Bland"}
+{:acid 40185, :name "Steam"}
+{:acid 363721, :name "Artur Rinne"}
+{:acid 68183, :name "Fotheringay"}
+{:acid 21389, :name "Phoenix"}
+{:acid 33989, :name "Boots Randolph"}
+{:acid 36710, :name "The Maytals"}
+{:acid 192071, :name "Carl and Pearl Butler"}
+{:acid 5350, :name "Johnny Shines"}
+{:acid 63400, :name "Robert Broberg"}
+{:acid 11721, :name "Larry Norman"}
+{:acid 3406, :name "Mike James Kirkland"}
+{:acid 985299, :name "Arthur Grumiaux, István Hajdu"}
+{:acid 458793, :name "Materia Gris"}
+{:acid 69481, :name "Ahmad Jamal Trio"}
+{:acid 130711, :name "I Giganti"}
+{:acid 2172, :name "Isaac Hayes"}
+{:acid 971561, :name "Freddy Robinson"}
+{:acid 9711, :name "Sir Peter Maxwell Davies"}
+{:acid 873612,
+ :name "Shivkumar Sharma, Brij Bhushan Kabra and Hariprasad Chaurasia"}
+{:acid 6595, :name "Bo Diddley"}
+{:acid 31429, :name "Suzi Quatro"}
+{:acid 122653, :name "Пётр Ильич Чайковский"}
+{:acid 94951, :name "Johnny Rebel"}
+{:acid 345511, :name "Panama Limited"}
+{:acid 67845, :name "Peter Allen"}
+{:acid 20691, :name "Ray Bryant"}
+{:acid 412589, :name "Kako y Totico"}
+{:acid 481593, :name "Trio Heesbeen"}
+{:acid 469192, :name "Jeremy Storch"}
+{:acid 143246, :name "Danny Bonaduce"}
+{:acid 593407, :name "Lava"}
+{:acid 14290, :name "Brewers Droop"}
+{:acid 811119, :name "Cortijo y Kako"}
+{:acid 603102, :name "Appalachian Grass"}
+{:acid 374000, :name "Josefus"}
+{:acid 204029, :name "Delta Blues Band"}
+{:acid 791069, :name "Charles Magnante"}
+{:acid 92624, :name "Fripp & Eno"}
+{:acid 55510, :name "Ustad Vilayat Khan"}
+{:acid 52335, :name "Moacir Santos"}
+{:acid 101994, :name "The United States of America"}
+{:acid 684598, :name "Heikki Sarmanto Quintet"}
+{:acid 302643, :name "Richard Barnes"}
+{:acid 63430, :name "NJA-Gruppen"}
+{:acid 46044, :name "Jim and Jesse"}
+{:acid 121727, :name "Eldridge Holmes"}
+{:acid 158142, :name "The Latin Blues Band"}
+{:acid 73308, :name "Alive 'n Kickin'"}
+{:acid 454768, :name "Khan"}
+{:acid 272859, :name "Quarteto 1111"}
+{:acid 563749, :name "The Queen's Nectarine Machine"}
+{:acid 517785, :name "Lt. Garcia's Magic Music Box"}
+{:acid 491227, :name "Index"}
+{:acid 54734, :name "McDonald and Giles"}
+{:acid 479298, :name "Bernard Estardy"}
+{:acid 23449, :name "Old & In the Way"}
+{:acid 456344, :name "Ruedi Krebs"}
+{:acid 415657, :name "Andrés do Barro"}
+{:acid 263806, :name "Ford Theatre"}
+{:acid 98881, :name "Junior Mance"}
+{:acid 149263, :name "The Factory"}
+{:acid 21193, :name "Magna Carta"}
+{:acid 5503, :name "Gary Burton"}
+{:acid 193524, :name "Chicken Bones"}
+{:acid 222702, :name "Gila"}
+{:acid 32938, :name "Neu!"}
+{:acid 99573, :name "Little Brother Montgomery"}
+{:acid 60968, :name "Dominguinhos"}
+{:acid 832384, :name "Richard \"Groove\" Holmes & Ernie Watts"}
+{:acid 466600, :name "MU"}
+{:acid 33040, :name "Mose Allison"}
+{:acid 91970, :name "Bill Monroe and The Bluegrass Boys"}
+{:acid 44913, :name "Lindisfarne"}
+{:acid 854427, :name "Mythology"}
+{:acid 2557, :name "Syd Barrett"}
+{:acid 860154, :name "Little Carl Carlton"}
+{:acid 486549, :name "De Limburgse Zusjes"}
+{:acid 873780, :name "Homer"}
+{:acid 874364,
+ :name
+ "Модест Петрович Мусоргский / Александр Порфирьевич Бородин / Николай Андреевич Римский-Корсаков"}
+{:acid 301611, :name "? and the Mysterians"}
+{:acid 10794, :name "Three Dog Night"}
+{:acid 3564, :name "Rick Wakeman"}
+{:acid 931428, :name "Ikarus"}
+{:acid 53565, :name "Jay & The Americans"}
+{:acid 39567, :name "Jacques Dutronc"}
+{:acid 101941, :name "The Idle Race"}
+{:acid 933949, :name "Neerlands Hoop in Bange Dagen"}
+{:acid 157872, :name "Moğollar"}
+{:acid 70207, :name "David Rose"}
+{:acid 12686, :name "Yvonne Elliman"}
+{:acid 33554, :name "Bandolero"}
+{:acid 183892, :name "John Keating"}
+{:acid 37380, :name "Howard Blake"}
+{:acid 419521, :name "Bert Kaempfert & His Orchestra"}
+{:acid 128304, :name "Neerlands Hoop in Bange Dagen"}
+{:acid 441089, :name "Neon Rose"}
+{:acid 6234, :name "Augustus Pablo"}
+{:acid 6076, :name "Billy Joe Shaver"}
+{:acid 21668, :name "Helen Reddy"}
+{:acid 14585, :name "Free"}
+{:acid 49169, :name "Bettye LaVette"}
+{:acid 5411, :name "Dick Hyman"}
+{:acid 73012, :name "The Free Pop Electronic Concept"}
+{:acid 479874, :name "Bobby Whitlock"}
+{:acid 436437, :name "Tony Hazzard"}
+{:acid 131784, :name "Huck Daniels"}
+{:acid 76262, :name "Finbar Furey"}
+{:acid 115165, :name "George Jackson"}
+{:acid 532008, :name "The Floating Opera"}
+{:acid 281977, :name "Janet Lawson"}
+{:acid 293054, :name "Rocky Roberts"}
+{:acid 670364, :name "John Mills-Cockell"}
+{:acid 118155, :name "Taste"}
+{:acid 516900, :name "The Purple Fox"}
+{:acid 101939, :name "July"}
+{:acid 73905, :name "Fraternity of Man"}
+{:acid 368771, :name "Iron Mountain String Band"}
+{:acid 34452, :name "Bobby Byrd"}
+{:acid 617238, :name "Areno Boys"}
+{:acid 526764, :name "The Road"}
+{:acid 327607, :name "Walter Bishop, Jr."}
+{:acid 221091, :name "Yatha Sidhra"}
+{:acid 59090, :name "Tony Marshall"}
+{:acid 548986, :name "Süpergrup"}
+{:acid 65735, :name "The Cowsills"}
+{:acid 514168, :name "Pedro Sertanejo"}
+{:acid 129376, :name "Andy Pratt"}
+{:acid 42045, :name "The Temprees"}
+{:acid 177541, :name "Jacula"}
+{:acid 558613, :name "Stomu Yamashta & Come to the Edge"}
+{:acid 57487, :name "Shirley Collins"}
+{:acid 469191, :name "H.P. Riot"}
+{:acid 104613, :name "The Mad Lads"}
+{:acid 450699, :name "A Bolha"}
+{:acid 95671, :name "Bobby Valentín"}
+{:acid 498788, :name "Paul Kelly"}
+{:acid 428300, :name "あがた森魚"}
+{:acid 381587, :name "Englishe & Leete"}
+{:acid 450914, :name "Elvin Jones & Richard Davis"}
+{:acid 33654, :name "The Herd"}
+{:acid 6488, :name "Paul Kantner"}
+{:acid 381198, :name "Cem Karaca & Ferdy Klein Orkester"}
+{:acid 281071, :name "Claudio Rocchi"}
+{:acid 173470, :name "Munir Bashir"}
+{:acid 10960, :name "Tanya Tucker"}
+{:acid 837900, :name "Canarios / Pop-Tops"}
+{:acid 396958, :name "The Mike Sammes Singers"}
+{:acid 511471, :name "Cass Elliot"}
+{:acid 14641, :name "Badfinger"}
+{:acid 12179, :name "David Bromberg"}
+{:acid 47596, :name "Milt Jackson"}
+{:acid 123166, :name "Ohio Players"}
+{:acid 1758, :name "The Statler Brothers"}
+{:acid 64732, :name "Roy Harper"}
+{:acid 42938, :name "Peter Maffay"}
+{:acid 33532, :name "Françoise Hardy"}
+{:acid 35794, :name "Gasolin'"}
+{:acid 886991, :name "Tony Kinsey & Pete Winslow"}
+{:acid 74871, :name "Enrique Morente"}
+{:acid 22241, :name "Adriano Celentano"}
+{:acid 36341, :name "Mitch Miller"}
+{:acid 9535, :name "Ry Cooder"}
+{:acid 104628, :name "Dyke & The Blazers"}
+{:acid 42075, :name "Nektar"}
+{:acid 589885, :name "Gert Kruse"}
+{:acid 12141, :name "P.D.Q. Bach"}
+{:acid 9618, :name "Bill Evans"}
+{:acid 23552, :name "Bobby Womack"}
+{:acid 45896, :name "Alan Stivell"}
+{:acid 36247, :name "Maxime Le Forestier"}
+{:acid 181532, :name "John Roberts & Tony Barrand"}
+{:acid 11523, :name "Joe Farrell"}
+{:acid 120067, :name "Choir of King's College, Cambridge"}
+{:acid 15942, :name "Valdy"}
+{:acid 84062, :name "Lucifer's Friend"}
+{:acid 34317, :name "Tammy Wynette"}
+{:acid 763110, :name "泉谷しげる"}
+{:acid 690683, :name "Les Variations"}
+{:acid 1676, :name "The Lovin' Spoonful"}
+{:acid 36518, :name "Tom Paxton"}
+{:acid 102743, :name "Helmut Zacharias"}
+{:acid 6454, :name "Gene Vincent"}
+{:acid 12651, :name "The Hollies"}
+{:acid 620031, :name "L'uovo di Colombo"}
+{:acid 572700, :name "Sílvio Caldas"}
+{:acid 111725, :name "Nick DeCaro"}
+{:acid 411528, :name "Siren"}
+{:acid 489667, :name "Föreningen Til Livets Beskyttelse"}
+{:acid 647159, :name "Pop mašina"}
+{:acid 116351, :name "Rex Garvin & The Mighty Cravers"}
+{:acid 507980, :name "Golden Kids"}
+{:acid 674128, :name "Jazz Q Praha"}
+{:acid 48735, :name "Labi Siffre"}
+{:acid 817607, :name "Johnny Pacheco & Pete \"El Conde\" Rodríguez"}
+{:acid 129100, :name "Richard de Bordeaux"}
+{:acid 379742, :name "Werner Müller and his Orchestra"}
+{:acid 64508, :name "Wynder K. Frog"}
+{:acid 153396, :name "The Mighty Hannibal"}
+{:acid 374108, :name "Merle Haggard & The Strangers"}
+{:acid 821646, :name "Toots Thielemans & Elis Regina"}
+{:acid 116257, :name "\"Spider\" John Koerner"}
+{:acid 518898, :name "Dedalus"}
+{:acid 83849, :name "Graham Gouldman"}
+{:acid 696030, :name "Angel Rene & Johnny Rodriguez Orchestra"}
+{:acid 354041, :name "Kuno & The Marihuana Brass"}
+{:acid 654519, :name "The Memphis Soul Band"}
+{:acid 811551, :name "Ismael Miranda con Orchestra Harlow"}
+{:acid 214575, :name "Yellow Sunshine"}
+{:acid 815989, :name "Σταύρος Ξαρχάκος & Σταμάτης Κόκοτας"}
+{:acid 589338, :name "Shades of Brown"}
+{:acid 44888, :name "Les McCann & Eddie Harris"}
+{:acid 255803, :name "Fresh Maggots"}
+{:acid 651982, :name "Kossie Gardner"}
+{:acid 51778, :name "Mike Brant"}
+{:acid 359345, :name "Oliver Lake"}
+{:acid 820990, :name "Robert Pete Williams & Roosevelt Sykes"}
+{:acid 361129, :name "Brasilia Modern Six"}
+{:acid 7541, :name "Dumisani Maraire"}
+{:acid 529274, :name "Big Lost Rainbow"}
+{:acid 130008, :name "Lloyd Parks"}
+{:acid 741355, :name "The Grease Band"}
+{:acid 43474, :name "Stories"}
+{:acid 3196, :name "Joan Armatrading"}
+{:acid 33411, :name "Patty Pravo"}
+{:acid 123477, :name "Rod McKuen"}
+{:acid 164436, :name "Harvey Andrews"}
+{:acid 41537, :name "Illinois Jacquet"}
+{:acid 221033, :name "Stormy Six"}
+{:acid 43169, :name "Tommy Dorsey & His Orchestra"}
+{:acid 128832, :name "Riz Ortolani"}
+{:acid 2990, :name "The Velvet Underground"}
+{:acid 214163, :name "Buck Owens and His Buckaroos"}
+{:acid 817, :name "Mike Oldfield"}
+{:acid 803710, :name "Eiliff"}
+{:acid 33945, :name "Herbie Mann"}
+{:acid 390227, :name "Henry Mancini & His Orchestra"}
+{:acid 966739,
+ :name "Joseph Haydn, Paul Hindemith, Jaan Rääts, Arvo Pärt"}
+{:acid 966750, :name "Bruno Lukk"}
+{:acid 4028, :name "The Clancy Brothers and Tommy Makem"}
+{:acid 206721, :name "Arik Brauer"}
+{:acid 99847, :name "Geno Washington & The Ram Jam Band"}
+{:acid 257480, :name "Metro"}
+{:acid 9756, :name "Arlo Guthrie"}
+{:acid 131988, :name "Robin McNamara"}
+{:acid 108557, :name "Three Souls in My Mind"}
+{:acid 75450, :name "Svante Thuresson"}
+{:acid 44946, :name "Willie Dixon"}
+{:acid 704055, :name "Neil Merryweather"}
+{:acid 57212, :name "The New Lost City Ramblers"}
+{:acid 4473, :name "Benny Goodman"}
+{:acid 16187, :name "Eddie Cochran"}
+{:acid 12438, :name "Franz Schubert"}
+{:acid 2327, :name "Johann Sebastian Bach"}
+{:acid 125974, :name "John Kander"}
+{:acid 405740, :name "Don Sanders"}
+{:acid 560614, :name "The Discothèque Sound"}
+{:acid 808715, :name "The Clancy Brothers and Louis Killen"}
+{:acid 501007, :name "Blue Epitaph"}
+{:acid 66051, :name "Ricardo Ray"}
+{:acid 137723, :name "Northwind"}
+{:acid 741008, :name "Lied des Teufels"}
+{:acid 40766, :name "Otto Waalkes"}
+{:acid 417633, :name "Ramatam"}
+{:acid 166884, :name "Freddie Hart"}
+{:acid 603526, :name "Hard Meat"}
+{:acid 704494, :name "The Arnold Corns"}
+{:acid 271580, :name "Ginger Baker's Air Force"}
+{:acid 658517, :name "Eric Swan"}
+{:acid 575842, :name "Wilkinson Tri Cycle"}
+{:acid 652331, :name "Otis Goodwin & The Casternetts"}
+{:acid 792232, :name "Don \"Uncle Donnie\" Miller"}
+{:acid 480852, :name "The San Sebastian Strings"}
+{:acid 104630, :name "The Radiants"}
+{:acid 91924, :name "Bintangs"}
+{:acid 654186, :name "Ken Munson"}
+{:acid 216655, :name "Larry Lurex"}
+{:acid 95840, :name "The American Breed"}
+{:acid 143102, :name "Seatrain"}
+{:acid 815955, :name "Tony Conrad with Faust"}
+{:acid 358711, :name "Juan Dela Cruz Band"}
+{:acid 45875, :name "Edwin Hawkins Singers"}
+{:acid 147980, :name "Linda van Dyck"}
+{:acid 614371, :name "Paul Beaver"}
+{:acid 90261, :name "Crabby Appleton"}
+{:acid 76076, :name "Pepper Adams"}
+{:acid 415452, :name "The Unemployed"}
+{:acid 490877, :name "Peps & Blues Quality"}
+{:acid 421745, :name "Raulzito e os Panteras"}
+{:acid 70358, :name "Rolf Bergström & Pyhimykset"}
+{:acid 84959, :name "Barbara Acklin"}
+{:acid 151546, :name "Martin Circus"}
+{:acid 809060, :name "Ralph Towner & Glen Moore"}
+{:acid 35371, :name "Cozy Powell"}
+{:acid 195073, :name "Sabicas"}
+{:acid 99363, :name "Antônio Carlos e Jocáfi"}
+{:acid 456115, :name "Hana Hegerová"}
+{:acid 31816, :name "Sérgio Mendes & Brasil '66"}
+{:acid 99518, :name "The Kingstonians"}
+{:acid 31494, :name "Hound Dog Taylor & The HouseRockers"}
+{:acid 5371, :name "Maynard Ferguson"}
+{:acid 4696, :name "Rita Coolidge"}
+{:acid 873221, :name "Helen Merrill & Dick Katz"}
+{:acid 38829, :name "James Gang"}
+{:acid 22878, :name "Ramsey Lewis"}
+{:acid 280416, :name "Will Glahé"}
+{:acid 54632, :name "Budgie"}
+{:acid 5436, :name "Ron Carter"}
+{:acid 59834, :name "Udo Lindenberg"}
+{:acid 39377, :name "Buckingham Nicks"}
+{:acid 16563, :name "Kurt Weill"}
+{:acid 11051, :name "Faust"}
+{:acid 982947, :name "John Woodhouse & His Magic Accordion"}
+{:acid 264640, :name "Angélica María"}
+{:acid 448984, :name "Chicago Transit Authority"}
+{:acid 3759, :name "J.B. Lenoir"}
+{:acid 89677, :name "Horslips"}
+{:acid 46580, :name "Sylvie Vartan"}
+{:acid 548654, :name "Tomaž Domicelj"}
+{:acid 4376, :name "Maurice Jarre"}
+{:acid 10439, :name "Ricky Nelson"}
+{:acid 12076, :name "Manfred Mann's Earth Band"}
+{:acid 5040, :name "Hawkwind"}
+{:acid 1587, :name "Deep Purple"}
+{:acid 15916, :name "Ten Years After"}
+{:acid 5199, :name "The Heptones"}
+{:acid 816461, :name "Vader Abraham & Wilma"}
+{:acid 653689, :name "Artie Kane"}
+{:acid 315342, :name "Cor Steyn"}
+{:acid 87816, :name "Elf"}
+{:acid 673627, :name "Edwin Starr & Blinky"}
+{:acid 80256, :name "Billy Thorpe & The Aztecs"}
+{:acid 216043, :name "Giorgio Gaslini"}
+{:acid 569458, :name "Georges Jouvin"}
+{:acid 329918, :name "Odmenn"}
+{:acid 218698, :name "Ivan 'Boogaloo Joe' Jones"}
+{:acid 637840, :name "Air"}
+{:acid 114002, :name "Nucleus"}
+{:acid 164022, :name "Paul Siebel"}
+{:acid 112482, :name "Z.Z. Hill"}
+{:acid 808222, :name "Jean-Jacques Perrey & Harry Breuer"}
+{:acid 93035, :name "King Stitt"}
+{:acid 56458, :name "Hector"}
+{:acid 196401, :name "Gene Parsons"}
+{:acid 405589, :name "Daddy Maxfield"}
+{:acid 36593, :name "Blue Mitchell"}
+{:acid 527221, :name "Jonesy"}
+{:acid 214725, :name "Night Sun"}
+{:acid 434107, :name "Circus 2000"}
+{:acid 271118, :name "Tony Oxley"}
+{:acid 59055, :name "Wilkins"}
+{:acid 203718, :name "Creations Unlimited"}
+{:acid 295184, :name "溶け出したガラス箱"}
+{:acid 63485, :name "Fläsket Brinner"}
+{:acid 175255, :name "Harlem River Drive"}
+{:acid 722967, :name "Rev. Carl J. Presnell & Allen's Creek Quartet"}
+{:acid 139775, :name "Amaryllis"}
+{:acid 198023, :name "Aorta"}
+{:acid 44178, :name "Sha Na Na"}
+{:acid 321636, :name "The Younghearts"}
+{:acid 10115, :name "Steve Reich"}
+{:acid 468292, :name "Chris McGregor's Brotherhood of Breath"}
+{:acid 37906, :name "Sugarloaf"}
+{:acid 76524, :name "The Lettermen"}
+{:acid 69494, :name "Bobby Rydell"}
+{:acid 842637, :name "The Psycheground Group"}
+{:acid 31682, :name "Lynsey de Paul"}
+{:acid 157842, :name "Caterina Caselli"}
+{:acid 39177, :name "Climax Blues Band"}
+{:acid 837295, :name "Paul & Linda McCartney"}
+{:acid 164620, :name "Ronald Stein"}
+{:acid 868823, :name "Sven Libaek and His Orchestra"}
+{:acid 868994, :name "Ameslariak"}
+{:acid 5039, :name "Gary Glitter"}
+{:acid 15889, :name "John Cale"}
+{:acid 9456, :name "Strawbs"}
+{:acid 211569, :name "Heinz Kiessling Orchestra"}
+{:acid 11072, :name "Jim Croce"}
+{:acid 952647, :name "Bill Box & The Dixie Drifters"}
+{:acid 109973, :name "The Cats"}
+{:acid 50630, :name "Ralph McTell"}
+{:acid 940530, :name "Ellen Niit / Jaan Kross"}
+{:acid 480851, :name "The Candy Store"}
+{:acid 449342, :name "Esmeray"}
+{:acid 284593, :name "Pucho & The Latin Soul Brothers"}
+{:acid 11593, :name "Karlheinz Stockhausen"}
+{:acid 21009, :name "The Sir Douglas Quintet"}
+{:acid 5189, :name "Grant Green"}
+{:acid 1128, :name "Jacques Brel"}
+{:acid 34996, :name "Banco del Mutuo Soccorso"}
+{:acid 1663, :name "Joe Walsh"}
+{:acid 38151, :name "Melba Moore"}
+{:acid 209576, :name "Jerry Bock"}
+{:acid 815606, :name "Jean Yanne & Michel Magne"}
+{:acid 226125, :name "The Music Improvisation Company"}
+{:acid 195882, :name "The Afro-American Ensemble"}
+{:acid 436146, :name "The Clique"}
+{:acid 435953, :name "Jellybread"}
+{:acid 39608, :name "Willis Alan Ramsey"}
+{:acid 467315, :name "Nancy Ford"}
+{:acid 221546, :name "Ron Banks and The Dramatics"}
+{:acid 534389, :name "Mazhar ve Fuat"}
+{:acid 547762, :name "King Eric & His Knights"}
+{:acid 121576, :name "The Ambers"}
+{:acid 148340, :name "Arthur Adams"}
+{:acid 624202, :name "Nati Mistral"}
+{:acid 81089, :name "Sandy Bull"}
+{:acid 206978, :name "Billy Butler"}
+{:acid 809199, :name "Neil Ardley, Ian Carr & Don Rendell"}
+{:acid 122373, :name "Jon Lord"}
+{:acid 316299, :name "Marzette Watts"}
+{:acid 727731, :name "Ιωνάθαν"}
+{:acid 355254, :name "Calvin Leavy"}
+{:acid 573644, :name "Sir Edward"}
+{:acid 205251, :name "Pepe & Paradise"}
+{:acid 611562, :name "Pedro & Capricious"}
+{:acid 51416, :name "Bubble Puppy"}
+{:acid 547804, :name "The Magic Mixture"}
+{:acid 951220, :name "Waldo De Los Rios"}
+{:acid 137645, :name "The Joe Jeffrey Group"}
+{:acid 467560, :name "Billy Butler"}
+{:acid 15934, :name "Mashmakhan"}
+{:acid 651021, :name "Neal Creque"}
+{:acid 38354, :name "Tyrone Davis"}
+{:acid 433040, :name "Michal Prokop & Framus Five"}
+{:acid 135257, :name "Fever Tree"}
+{:acid 205869, :name "Neal Ford & the Fanatics"}
+{:acid 147516, :name "Blackfoot Sue"}
+{:acid 826935, :name "Carlos Santana & Buddy Miles"}
+{:acid 59241, :name "Dana Gillespie"}
+{:acid 21359, :name "The Dramatics"}
+{:acid 623769, :name "Niagara"}
+{:acid 81930, :name "Shark Wilson & The Basement Heaters"}
+{:acid 98450, :name "Los Brincos"}
+{:acid 5883, :name "Shawn Phillips"}
+{:acid 3455, :name "Cleo Laine"}
+{:acid 207866, :name "Sven Libaek"}
+{:acid 125, :name "Dan Fogelberg"}
+{:acid 16164, :name "Margie Joseph"}
+{:acid 176160, :name "Commodores"}
+{:acid 45914, :name "Heinrich Schütz"}
+{:acid 5075, :name "Tiny Tim"}
+{:acid 110517, :name "Livingston Taylor"}
+{:acid 50347, :name "Robert Goulet"}
+{:acid 612748, :name "ザ・タイガース"}
+{:acid 36567, :name "Kovács Kati"}
+{:acid 2230, :name "Chick Corea"}
+{:acid 83404, :name "Good Rats"}
+{:acid 3873, :name "Tower of Power"}
+{:acid 349, :name "Yes"}
+{:acid 36961, :name "Judy Collins"}
+{:acid 52672, :name "Porter Wagoner"}
+{:acid 96694, :name "Anita Kerr Singers"}
+{:acid 85693, :name "Het Cocktail Trio"}
+{:acid 974241, :name "Raymond Guiot / Luis Conti"}
+{:acid 977591, :name "The Tigers"}
+{:acid 40061, :name "Billy Fury"}
+{:acid 22155, :name "Dr. Hook"}
+{:acid 89738, :name "Yoko Ono"}
+{:acid 2122, :name "Paul McCartney"}
+{:acid 6448, :name "Loleatta Holloway"}
+{:acid 387, :name "Johnny Cash"}
+{:acid 296135, :name "Rudolph Johnson"}
+{:acid 333500, :name "Marco Paulo"}
+{:acid 185688, :name "Fria Proteatern"}
+{:acid 3697, :name "James Moody"}
+{:acid 373426, :name "D.R. Hooker"}
+{:acid 178969, :name "The Banana Splits"}
+{:acid 61243, :name "Clara Nunes"}
+{:acid 110227, :name "Keith Kessler"}
+{:acid 353348, :name "Geronimo Black"}
+{:acid 633464, :name "Edith Picht-Axenfeld"}
+{:acid 651882, :name "Appaloosa"}
+{:acid 415538, :name "Harley \"Red\" Allen"}
+{:acid 50034, :name "John Wayne"}
+{:acid 482368, :name "Tillsammans"}
+{:acid 125708, :name "Ballin' Jack"}
+{:acid 526154, :name "Five Flights Up"}
+{:acid 120005, :name "Mark-Almond"}
+{:acid 236413, :name "Nirvana"}
+{:acid 486541, :name "Larry Marks"}
+{:acid 387536, :name "Vinegar Joe"}
+{:acid 324048, :name "Werner Jundt"}
+{:acid 47879, :name "Bill Anderson"}
+{:acid 254165, :name "Curt Boettcher"}
+{:acid 622140, :name "Catfish"}
+{:acid 134993, :name "Ismael Quintana"}
+{:acid 639080, :name "Sonoma"}
+{:acid 594642, :name "De Paniekzaaiers"}
+{:acid 426526, :name "Handgjort"}
+{:acid 329701, :name "Boa"}
+{:acid 156971, :name "Victor Assis Brasil"}
+{:acid 174837, :name "Nick Ingman"}
+{:acid 2011, :name "Dalida"}
+{:acid 99608, :name "David Bedford"}
+{:acid 107802, :name "Milton Banana Trio"}
+{:acid 15917, :name "Cheech & Chong"}
+{:acid 122137, :name "Rocío Jurado"}
+{:acid 39486, :name "Fausto Papetti"}
+{:acid 40909, :name "The Horace Silver Quintet"}
+{:acid 150660, :name "Rust"}
+{:acid 811429, :name "Catherine Ribeiro + Alpes"}
+{:acid 49166, :name "Syreeta"}
+{:acid 878824, :name "Juha \"Watt\" Vaino ja Pertti Metsärinteen yhtye"}
+{:acid 9758, :name "The Doobie Brothers"}
+{:acid 24288, :name "Bernard Herrmann"}
+{:acid 62141, :name "Jo Jo Gunne"}
+{:acid 279297, :name "La Trinca"}
+{:acid 195176, :name "Leslie Bricusse"}
+{:acid 20293, :name "Paul Revere and The Raiders"}
+{:acid 88515, :name "Anne Sylvestre"}
+{:acid 932543, :name "Manuel & The Music of the Mountains"}
+{:acid 16332, :name "John Mayall"}
+{:acid 538458, :name "Jackie Lee"}
+{:acid 913365, :name "I teoremi"}
+{:acid 132461, :name "Finn Kalvik"}
+{:acid 98716, :name "Nino Bravo"}
+{:acid 161038, :name "Marek Grechuta"}
+{:acid 160803, :name "Maryla Rodowicz"}
+{:acid 14564, :name "Small Faces"}
+{:acid 4759, :name "Miriam Makeba"}
+{:acid 35675, :name "Tee-Set"}
+{:acid 3270, :name "Tri Yann"}
+{:acid 938738, :name "Haymarket Square"}
+{:acid 1068, :name "Leonard Nimoy"}
+{:acid 940471, :name "Kalju Terasmaa & Emil Laansoo"}
+{:acid 686520, :name "The Neighborhood"}
+{:acid 53224, :name "The Manhattans"}
+{:acid 48872, :name "Amon Düül II"}
+{:acid 82815, :name "The Whispers"}
+{:acid 265205, :name "T-Bone Walker"}
+{:acid 824, :name "Lynyrd Skynyrd"}
+{:acid 1786, :name "Ella Fitzgerald"}
+{:acid 15747, :name "Richard Wagner"}
+{:acid 4192, :name "Savoy Brown"}
+{:acid 105906, :name "Sixto Rodriguez"}
+{:acid 6290, :name "El Chicano"}
+{:acid 472220, :name "Willy Derby"}
+{:acid 82525, :name "Nuova Compagnia di Canto Popolare"}
+{:acid 298779, :name "Ferris"}
+{:acid 639859, :name "Guy de Fatto"}
+{:acid 138282, :name "Ruby Andrews"}
+{:acid 450704, :name "Spectrum"}
+{:acid 456342, :name "Berner Troubadours"}
+{:acid 335052, :name "Mississippi Banjo Band"}
+{:acid 749667, :name "The Congress Of Wonders"}
+{:acid 153108, :name "Mari Trini"}
+{:acid 473288, :name "Sweet Love"}
+{:acid 411979, :name "Karthago"}
+{:acid 632924, :name "Mike Absalom"}
+{:acid 724801, :name "Margaret Friskey"}
+{:acid 62371, :name "Fabulous Souls"}
+{:acid 44069, :name "Albert Ayler"}
+{:acid 180768, :name "Johnny Griffith"}
+{:acid 642239, :name "Ben"}
+{:acid 362311, :name "Johan Cruijff"}
+{:acid 1997, :name "Golden Earring"}
+{:acid 194560, :name "The Masked Marauders"}
+{:acid 261568, :name "Aktuala"}
+{:acid 39855, :name "Tom Rush"}
+{:acid 511612, :name "Robin Wilson"}
+{:acid 689745, :name "Ακρίτας"}
+{:acid 104618, :name "Howard Tate"}
+{:acid 130230, :name "Michael Chapman"}
+{:acid 129181, :name "Myra Barnes"}
+{:acid 132339, :name "Duke Pearson"}
+{:acid 221122, :name "The Big Beats"}
+{:acid 807643, :name "Astor Piazzolla & Roberto Goyeneche"}
+{:acid 651214, :name "Savage Grace"}
+{:acid 39432, :name "Daddy Cool"}
+{:acid 777227, :name "Alfredo Linares y su salsa star"}
+{:acid 671192, :name "The Fourth Way"}
+{:acid 114767, :name "United 8"}
+{:acid 107166, :name "Jack Wilkins"}
+{:acid 202622, :name "The Poppy Family"}
+{:acid 557320, :name "Tarantula"}
+{:acid 38188, :name "Rufus"}
+{:acid 558202, :name "Mother Tucker's Yellow Duck"}
+{:acid 87560, :name "Jonathan King"}
+{:acid 209916, :name "Zulema"}
+{:acid 5439, :name "Art Blakey & The Jazz Messengers"}
+{:acid 6874, :name "Wolfe Tones"}
+{:acid 30121, :name "The Stooges"}
+{:acid 63223, :name "Affinity"}
+{:acid 67155, :name "Nomadi"}
+{:acid 508201, :name "Dark"}
+{:acid 307711, :name "Irish Coffee"}
+{:acid 777077, :name "Jacques Thollot"}
+{:acid 124850, :name "Mary Hopkin"}
+{:acid 10279, :name "Walter Wanderley"}
+{:acid 11922, :name "New Grass Revival"}
+{:acid 9386, :name "Diana Ross"}
+{:acid 127, :name "James Taylor"}
+{:acid 380925, :name "Jorge Ben"}
+{:acid 1677, :name "Al Green"}
+{:acid 16167, :name "King Curtis"}
+{:acid 33717, :name "Slim Harpo"}
+{:acid 35680, :name "Jeannie C. Riley"}
+{:acid 887457, :name "Jorge Ben"}
+{:acid 1840, :name "Astrud Gilberto"}
+{:acid 481144, :name "Dust"}
+{:acid 1748, :name "Otis Redding"}
+{:acid 106892, :name "Michel Fugain"}
+{:acid 148336, :name "Cressida"}
+{:acid 175319, :name "Magali Noël"}
+{:acid 36566, :name "Omega"}
+{:acid 205526, :name "Σωτηρία Μπέλλου"}
+{:acid 493289, :name "Spectrum"}
+{:acid 5032, :name "Jimmy Page"}
+{:acid 21368, :name "Sonny & Cher"}
+{:acid 432220, :name "Candeia"}
+{:acid 49710, :name "João Gilberto"}
+{:acid 787935, :name "Pretty Purdie & The Playboys"}
+{:acid 613281, :name "The Swordsmen"}
+{:acid 364492, :name "Top Drawer"}
+{:acid 707963, :name "Shungo Sawada"}
+{:acid 125414, :name "Karina"}
+{:acid 153194, :name "Mike Harding"}
+{:acid 317196, :name "Crosstown Bus"}
+{:acid 49878, :name "Art Farmer"}
+{:acid 201742, :name "Ghetto Brothers"}
+{:acid 99364, :name "Hugh Masekela & The Union of South Africa"}
+{:acid 48249, :name "Lani Hall"}
+{:acid 138718, :name "The Free Movement"}
+{:acid 490625, :name "Music Inc."}
+{:acid 140656, :name "The Latinaires"}
+{:acid 551316, :name "柳田ヒロ"}
+{:acid 238137, :name "Clementina de Jesus"}
+{:acid 445817, :name "Splash"}
+{:acid 195936, :name "Sun Ra and the Arkestra"}
+{:acid 530877, :name "Victor Brady"}
+{:acid 327661, :name "Nolan Porter"}
+{:acid 224812, :name "Moloch"}
+{:acid 125522, :name "Hugo Montenegro and His Orchestra"}
+{:acid 457924, :name "The Bobby Cook Quartette"}
+{:acid 39357, :name "Mae West"}
+{:acid 110307, :name "Gail Laughton"}
+{:acid 238843, :name "Micki Grant"}
+{:acid 484674, :name "CTI All-Stars"}
+{:acid 237503, :name "Orchester Roland Kovac"}
+{:acid 621535, :name "Seidat"}
+{:acid 5406, :name "Roger Kellaway"}
+{:acid 821981, :name "Bobbie Gentry and Glen Campbell"}
+{:acid 683605, :name "Living Jazz"}
+{:acid 432791, :name "Think"}
+{:acid 412526, :name "Nero Brandenburg"}
+{:acid 774609, :name "The Awakening"}
+{:acid 33981, :name "Liberace"}
+{:acid 106960, :name "Michael Gibbs"}
+{:acid 85355, :name "The Awakening"}
+{:acid 94515, :name "Tito Rodríguez"}
+{:acid 137590, :name "Waldo de los Ríos"}
+{:acid 844150, :name "The Far Cry"}
+{:acid 837665, :name "Los Soñadores"}
+{:acid 280144, :name "ZBS Foundation"}
+{:acid 273030, :name "If"}
+{:acid 9316, :name "The Association"}
+{:acid 527225, :name "Joy Unlimited"}
+{:acid 14869, :name "Curtis Mayfield"}
+{:acid 20886, :name "Johnny Pearson"}
+{:acid 1127, :name "Barry White"}
+{:acid 276929, :name "José Luis Perales"}
+{:acid 863081, :name "Planetarium"}
+{:acid 36245, :name "Barbara"}
+{:acid 932405, :name "Φώτης Δήμας"}
+{:acid 469807, :name "Frank Chacksfield & His Orchestra"}
+{:acid 281143, :name "Los Gatos"}
+{:acid 980255, :name "Lumbee"}
+{:acid 87241, :name "Fania All-Stars"}
+{:acid 11386, :name "Eagles"}
+{:acid 33661, :name "Murray Head"}
+{:acid 821971, :name "André van Duin & Ferry de Groot"}
+{:acid 80198, :name "Hamza El Din"}
+{:acid 69444, :name "Kenny Rogers & The First Edition"}
+{:acid 16249, :name "Paul Winter Consort"}
+{:acid 354044, :name "Orchester Frank Pleyer"}
+{:acid 2193, :name "The Moody Blues"}
+{:acid 56580, :name "Bobbi Humphrey"}
+{:acid 935566, :name "Messieurs Richard de Bordeaux et Daniel Beretta"}
+{:acid 5188, :name "Joe Tex"}
+{:acid 6999, :name "The Skatalites"}
+{:acid 2065, :name "Strawberry Alarm Clock"}
+{:acid 238569, :name "John Williams"}
+{:acid 950508, :name "Dave Arthur & Toni Arthur"}
+{:acid 207475, :name "Nine Days Wonder"}
+{:acid 85503, :name "Roy Acuff"}
+{:acid 345, :name "Yves Montand"}
+{:acid 311, :name "Cher"}
+{:acid 22990, :name "The 5th Dimension"}
+{:acid 6437, :name "Roger Whittaker"}
+{:acid 47648, :name "Ted Gärdestad"}
+{:acid 94, :name "John Williams"}
+{:acid 73292, :name "Faron Young"}
+{:acid 116022, :name "Vader Abraham"}
+{:acid 130319, :name "Collegium Musicum"}
+{:acid 95675, :name "Johnny Colón"}
+{:acid 318797, :name "Os Mundi"}
+{:acid 342735, :name "Sameti"}
+{:acid 600292, :name "De Labanda's"}
+{:acid 38152, :name "Fatback Band"}
+{:acid 69931, :name "Danielle Darrieux"}
+{:acid 787743, :name "Bengt Sändh & Rune Andersson"}
+{:acid 22043, :name "It's a Beautiful Day"}
+{:acid 67020, :name "Oskar Sala"}
+{:acid 651147, :name "Yoko Ono Plastic Ono Band"}
+{:acid 183387, :name "Cold Grits"}
+{:acid 521472, :name "Wim Overgaauw"}
+{:acid 125772, :name "Ronnie Aldrich"}
+{:acid 90663, :name "Jan Garbarek Quartet"}
+{:acid 132740, :name "Clarence Reid"}
+{:acid 156721, :name "Laxmikant Pyarelal"}
+{:acid 281193, :name "Kebnekajse"}
+{:acid 235576, :name "The Brothers and Sisters"}
+{:acid 553082, :name "Sand"}
+{:acid 558083, :name "Stomu Yamashta's East Wind"}
+{:acid 254365, :name "Jackie Jackson"}
+{:acid 514873, :name "Med Kærlig Hilsen"}
+{:acid 210412, :name "Augusto Algueró"}
+{:acid 594878, :name "Han Grevelt"}
+{:acid 556939, :name "New Potatoes"}
+{:acid 270304, :name "三上寛"}
+{:acid 178459, :name "Saint Just"}
+{:acid 55431, :name "Jane"}
+{:acid 99351, :name "Mel & Tim"}
+{:acid 524327, :name "Cash & Carry"}
+{:acid 591689, :name "SST"}
+{:acid 71785, :name "Monk Higgins"}
+{:acid 80975, :name "S.O.U.L."}
+{:acid 76532, :name "The Brooklyn Bridge"}
+{:acid 529467, :name "Ofege"}
+{:acid 53785, :name "The Paul Butterfield Blues Band"}
+{:acid 12069, :name "Mason Williams"}
+{:acid 260571, :name "Σταύρος Ξαρχάκος"}
+{:acid 339766, :name "Dżamble"}
+{:acid 819823, :name "Neil Young & The Stray Gators"}
+{:acid 6665, :name "Jon Lucien"}
+{:acid 832348, :name "Gato Barbieri & Dollar Brand"}
+{:acid 359047, :name "Bobby Brown"}
+{:acid 683164, :name "Νίκος Ξανθόπουλος"}
+{:acid 201549, :name "Silverhead"}
+{:acid 951547, :name "N.T. Atomic System"}
+{:acid 175633, :name "Tommy Boyce & Bobby Hart"}
+{:acid 73628, :name "Gábor Szabó"}
+{:acid 14530, :name "Grobschnitt"}
+{:acid 49408, :name "Jerry Butler"}
+{:acid 98476, :name "Los Bravos"}
+{:acid 109999, :name "Love Affair"}
+{:acid 102264, :name "Janne Schaffer"}
+{:acid 21822, :name "Hannes Wader"}
+{:acid 235172, :name "Warhorse"}
+{:acid 24338, :name "Amen Corner"}
+{:acid 123970, :name "Beck, Bogert & Appice"}
+{:acid 4943, :name "Brainticket"}
+{:acid 46549, :name "Mireille Mathieu"}
+{:acid 30342, :name "Bobby Bloom"}
+{:acid 73177, :name "Kevin Ayers"}
+{:acid 137685, :name "English Congregation"}
+{:acid 45259, :name "Milva"}
+{:acid 92617, :name "Alain Chamfort"}
+{:acid 142954, :name "Paco Ibáñez"}
+{:acid 147317, :name "Sam Gopal"}
+{:acid 129530, :name "D.J. Rogers"}
+{:acid 108466, :name "Hudson and Landry"}
+{:acid 853853, :name "Γιάννης Πάριος / Θόδωρος Κατσαρής"}
+{:acid 36835, :name "John Patton"}
+{:acid 294012, :name "Eric Burdon and the Animals"}
+{:acid 74157, :name "The Four Seasons"}
+{:acid 1, :name "Various Artists"}
+{:acid 1051, :name "Andrew Lloyd Webber"}
+{:acid 938, :name "Eric Clapton"}
+{:acid 169053, :name "George M. Cohan"}
+{:acid 2642, :name "REO Speedwagon"}
+{:acid 2116, :name "Electric Light Orchestra"}
+{:acid 2489, :name "Shirley Bassey"}
+{:acid 1954, :name "Miles Davis"}
+{:acid 345133, :name "Los Angeles"}
+{:acid 131216, :name "Pete Rodríguez y su Conjunto"}
+{:acid 104377, :name "Ekseption"}
+{:acid 143232, :name "Prudence"}
+{:acid 107863, :name "Ben & the Platano Group"}
+{:acid 813112, :name "Richie Ray & Bobby Cruz"}
+{:acid 42072, :name "Agitation Free"}
+{:acid 5306, :name "Hal Galper"}
+{:acid 809351, :name "上條恒彦＋六文銭"}
+{:acid 377819, :name "Wooden Horse"}
+{:acid 61553, :name "The Buddy Rich Big Band"}
+{:acid 50535, :name "Los Panchos"}
+{:acid 797635, :name "Morning"}
+{:acid 950952,
+ :name "Elizeth Cardoso, Zimbo Trio, Jacob do Bandolim & Época de Ouro"}
+{:acid 87734, :name "Carl Anderson"}
+{:acid 246527, :name "Catharsis"}
+{:acid 188257, :name "Peggy March"}
+{:acid 99722, :name "Willie Mitchell"}
+{:acid 93331, :name "Alex Harvey"}
+{:acid 120478, :name "John Kongos"}
+{:acid 5527, :name "Randy Brecker"}
+{:acid 703357, :name "Δημήτρης Ψαριανός"}
+{:acid 786235, :name "Alex Harvey"}
+{:acid 346913, :name "The City"}
+{:acid 627195, :name "Braen's Machine"}
+{:acid 651045, :name "Bronc-Glows"}
+{:acid 140797, :name "High Tide"}
+{:acid 561181, :name "Ladi Geisler"}
+{:acid 175127, :name "Svend Asmussen"}
+{:acid 51776, :name "Wallace Collection"}
+{:acid 61307, :name "Christian Vander"}
+{:acid 798496, :name "Amado Maita"}
+{:acid 141435, :name "Jackson Sisters"}
+{:acid 288776, :name "Marcello Giombini"}
+{:acid 10925, :name "Ray Stevens"}
+{:acid 338540, :name "Jericho"}
+{:acid 809407, :name "Σταύρος Κουγιουμτζής & Γιώργος Νταλάρας"}
+{:acid 826459, :name "Keith Jarrett & Jack DeJohnette"}
+{:acid 9040, :name "Anthony Braxton"}
+{:acid 8314, :name "Cecil Taylor"}
+{:acid 102174, :name "Long John Baldry"}
+{:acid 807070, :name "Lee \"Scratch\" Perry & The Upsetters"}
+{:acid 74761, :name "Billy Preston"}
+{:acid 104616, :name "Barbara Mason"}
+{:acid 16159, :name "Carla Thomas"}
+{:acid 70772, :name "Willie Rosario"}
+{:acid 36790, :name "Colin Blunstone"}
+{:acid 41651, :name "Max Roach"}
+{:acid 853920, :name "Neutral Spirits"}
+{:acid 398596, :name "Mighty Baby"}
+{:acid 865769, :name "The Kilima Hawaiians"}
+{:acid 868814, :name "Sven Libaek & His Orchestra"}
+{:acid 871022,
+ :name "Joe Williams & The Thad Jones & Mel Lewis Orchestra"}
+{:acid 33058, :name "Toots & The Maytals"}
+{:acid 6436, :name "Dr. John"}
+{:acid 2173, :name "Joe Cocker"}
+{:acid 5375, :name "Lee Konitz"}
+{:acid 40217, :name "Buck Owens"}
+{:acid 16334, :name "The Modern Jazz Quartet"}
+{:acid 276946, :name "Raphael"}
+{:acid 7342, :name "Houston Person"}
+{:acid 257491, :name "Trúbrot"}
+{:acid 475747, :name "Heinrich Walcher"}
+{:acid 950545, :name "Polyteknikkojen Kuoro"}
+{:acid 158830, :name "Linda Lewis"}
+{:acid 189154, :name "Amon Düül"}
+{:acid 89929, :name "Thad Jones/Mel Lewis Orchestra"}
+{:acid 120625, :name "Mick Abrahams"}
+{:acid 825493, :name "Björn Ulvaeus & Benny Andersson"}
+{:acid 118342, :name "Van Dyke Parks"}
+{:acid 114063, :name "Robert Klein"}
+{:acid 15666, :name "Tony Bennett"}
+{:acid 171863, :name "Secos & Molhados"}
+{:acid 120040, :name "Dusko Goykovich"}
+{:acid 937439, :name "Bob Dylan & George Harrison"}
+{:acid 340951, :name "Chris Darrow"}
+{:acid 15770, :name "Gil Scott-Heron"}
+{:acid 105832, :name "Dave Dudley"}
+{:acid 47631, :name "Ornella Vanoni"}
+{:acid 37544, :name "Carl Maria von Weber"}
+{:acid 1743, :name "Louis Armstrong"}
+{:acid 236, :name "Elton John"}
+{:acid 21662, :name "Daniel Boone"}
+{:acid 73502, :name "Georg Friedrich Händel"}
+{:acid 3467, :name "Petula Clark"}
+{:acid 299, :name "Fleetwood Mac"}
+{:acid 35446, :name "Mud"}
+{:acid 462889, :name "Sadri Alışık"}
+{:acid 653515, :name "Brainchild"}
+{:acid 362223, :name "Donal Leace"}
+{:acid 260570, :name "Second Hand"}
+{:acid 252305, :name "Justin Heathcliff"}
+{:acid 507346, :name "Chelsea"}
+{:acid 208041, :name "Henry Wolff & Nancy Hennings"}
+{:acid 516542, :name "Sam Neely"}
+{:acid 628475, :name "Trzy Korony"}
+{:acid 307594, :name "The Soul Tops"}
+{:acid 245626, :name "Freddie McCoy"}
+{:acid 96721, :name "Daliah Lavi"}
+{:acid 557600, :name "The Family Tree"}
+{:acid 327375, :name "Head Machine"}
+{:acid 220887, :name "The Vibrating Vibrations"}
+{:acid 384086, :name "Pholas Dactylus"}
+{:acid 7612, :name "Hank Thompson"}
+{:acid 7370, :name "Dakota Staton"}
+{:acid 96219, :name "Vesa-Matti Loiri"}
+{:acid 814843, :name "Johnny Pacheco y Justo Betancourt"}
+{:acid 381444, :name "Eric Kaz"}
+{:acid 257454, :name "After Tea"}
+{:acid 768721, :name "Terry Baxter & His Orchestra"}
+{:acid 315544, :name "Jamie Redfern"}
+{:acid 5450, :name "Peter Nero"}
+{:acid 5022, :name "Trapeze"}
+{:acid 162856, :name "Osanna"}
+{:acid 36570, :name "Zalatnay Sarolta"}
+{:acid 361866, :name "Tyrannosaurus Rex"}
+{:acid 106484, :name "The Parliaments"}
+{:acid 554213, :name "Rich Buddy & Alla Rakha"}
+{:acid 129599, :name "Tony Alvon & The Belairs"}
+{:acid 359829, :name "Andromeda"}
+{:acid 222913, :name "Xhol Caravan"}
+{:acid 377828, :name "Bob Thiele"}
+{:acid 23004, :name "Paul Horn"}
+{:acid 395992, :name "Rolf Lundqvist & Arbete & fritid"}
+{:acid 219445, :name "Aardvark"}
+{:acid 129610, :name "Simtec & Wylie"}
+{:acid 252001, :name "Arie Ribbens"}
+{:acid 144879, :name "Fernand Raynaud"}
+{:acid 104406, :name "Young-Holt Unlimited"}
+{:acid 211588, :name "Skaldowie"}
+{:acid 641439, :name "荒井由実"}
+{:acid 1745, :name "Marty Robbins"}
+{:acid 849074, :name "Memphis Slim & Buddy Guy"}
+{:acid 100549, :name "Sebastian"}
+{:acid 96598, :name "Vladimir Cosma"}
+{:acid 2970, :name "Don McLean"}
+{:acid 48504, :name "Ringo Starr"}
+{:acid 12714, :name "The Five Stairsteps"}
+{:acid 302214, :name "Veljo Tormis"}
+{:acid 921119, :name "13th Floor Elevators"}
+{:acid 818627, :name "Kris Kristofferson & Rita Coolidge"}
+{:acid 106905, :name "Klaus Wunderlich"}
+{:acid 832465, :name "Eno"}
+{:acid 5033, :name "Jeff Beck"}
+{:acid 45441, :name "Bukka White"}
+{:acid 36014, :name "Mahavishnu Orchestra"}
+{:acid 8807, :name "Fairport Convention"}
+{:acid 43161, :name "Gal Costa"}
+{:acid 150507, :name "Nynningen"}
+{:acid 22922, :name "Camarón de la Isla"}
+{:acid 43231, :name "Donny Osmond"}
+{:acid 813, :name "Bruce Springsteen"}
+{:acid 12783, :name "Four Tops"}
+{:acid 47801, :name "José Feliciano"}
+{:acid 104806, :name "Cindy & Bert"}
+{:acid 174664, :name "Trifle"}
+{:acid 149068,
+ :name "The \"Gorch-Fock-Chor\" and Orchestra, Conductor Hans Herzberg"}
+{:acid 628094, :name "The Johannesburg Street Band"}
+{:acid 588727, :name "Rabbit"}
+{:acid 476999, :name "Jukin' Bone"}
+{:acid 33674, :name "Family Dogg"}
+{:acid 200656, :name "Henry Franklin"}
+{:acid 518935, :name "Sahara"}
+{:acid 191381, :name "Freddy Hart"}
+{:acid 218050, :name "Limbus 4"}
+{:acid 6029, :name "Goose Creek Symphony"}
+{:acid 626469, :name "The Shiver"}
+{:acid 353822, :name "Alipio Martins"}
+{:acid 163951, :name "Ken Thorne"}
+{:acid 445113, :name "Fred Karlin"}
+{:acid 214585, :name "Gary Byrd"}
+{:acid 83842, :name "Träd, Gräs och Stenar"}
+{:acid 680553, :name "The Jazz Fiddlers"}
+{:acid 35874, :name "Jackie Moore"}
+{:acid 481319, :name "Ibis"}
+{:acid 472452, :name "Bloomfield, Hammond, Dr.John"}
+{:acid 877608, :name "Deena Webster"}
+{:acid 483095, :name "Taste of Blues"}
+{:acid 39449, :name "Roy Book Binder"}
+{:acid 8692, :name "Freddie King"}
+{:acid 59040, :name "Mel Brooks"}
+{:acid 170412, :name "Jeremy Steig"}
+{:acid 110311, :name "Baby Huey"}
+{:acid 809319, :name "Mimi Fariña & Tom Jans"}
+{:acid 53285, :name "The Seldom Scene"}
+{:acid 118097, :name "Tina Britt"}
+{:acid 180985, :name "Freddie Robinson"}
+{:acid 23210, :name "Colosseum"}
+{:acid 9303, :name "Klaus Schulze"}
+{:acid 61508, :name "The Chocolate Watch Band"}
+{:acid 65570, :name "Linda Lyndell"}
+{:acid 173661, :name "The Plastic Ono Band"}
+{:acid 264304, :name "Wild Man Fischer"}
+{:acid 50776, :name "Triumvirat"}
+{:acid 117945, :name "Joe McPhee"}
+{:acid 36025, :name "Robert Charlebois"}
+{:acid 72104, :name "Mia Martini"}
+{:acid 38100, :name "Francesco Guccini"}
+{:acid 143832, :name "Certain Lions & Tigers"}
+{:acid 66183, :name "Kin Ping Meh"}
+{:acid 72320, :name "Doc & Merle Watson"}
+{:acid 159527, :name "Jade Warrior"}
+{:acid 23945, :name "Rufus Thomas"}
+{:acid 6816, :name "Country Joe McDonald"}
+{:acid 9041, :name "Pharoah Sanders"}
+{:acid 34598, :name "Lynn Anderson"}
+{:acid 89887, :name "Apollo 100"}
+{:acid 46088, :name "Gil Evans"}
+{:acid 32092, :name "Mina"}
+{:acid 191, :name "Pink Floyd"}
+{:acid 1047, :name "George Carlin"}
+{:acid 30460, :name "Rory Gallagher"}
+{:acid 49656, :name "Orquesta Aragón"}
+{:acid 4542, :name "Woody Herman"}
+{:acid 809297, :name "Ron Geesin & Roger Waters"}
+{:acid 30049, :name "Freddie Hubbard"}
+{:acid 5689, :name "Gilberto Gil"}
+{:acid 237502, :name "Barney Wilen"}
+{:acid 1197, :name "Randy Newman"}
+{:acid 38091, :name "Screamin' Jay Hawkins"}
+{:acid 22483, :name "Pat Martino"}
+{:acid 970325, :name "Various"}
+{:acid 3143, :name "Janis Joplin"}
+{:acid 2715, :name "America"}
+{:acid 713777, :name "Lion Kwintet"}
+{:acid 502488, :name "Love Song"}
+{:acid 3800, :name "Lightnin' Rod"}
+{:acid 381201, :name "Cem Karaca & Kardaşlar"}
+{:acid 469575, :name "Yesterday's Obsession"}
+{:acid 290575, :name "Γιώργος Ρωμανός"}
+{:acid 579508, :name "The Fat Albert Orchestra and Chorus"}
+{:acid 509076, :name "Michael Garrick Band"}
+{:acid 249214, :name "Eddie Simpson"}
+{:acid 84373, :name "We All Together"}
+{:acid 425840, :name "Janus"}
+{:acid 222704, :name "Emtidi"}
+{:acid 49570, :name "Homer & Jethro"}
+{:acid 421400, :name "Steve Young"}
+{:acid 360073, :name "Indian Summer"}
+{:acid 37446, :name "Richard Harris"}
+{:acid 142600, :name "Johnny Almond Music Machine"}
+{:acid 300518, :name "Africa"}
+{:acid 241247, :name "The Ambassadors"}
+{:acid 494749, :name "Clouds"}
+{:acid 794796, :name "John Warren"}
+{:acid 114630, :name "Clemilda"}
+{:acid 353742, :name "Ben Monroe"}
+{:acid 335197, :name "Mary Travers"}
+{:acid 683296, :name "Λίνος Κόκοτος"}
+{:acid 221031, :name "Canzoniere del Lazio"}
+{:acid 819651, :name "John Cale & Terry Riley"}
+{:acid 503702, :name "Bodacious D.F."}
+{:acid 59011, :name "Luis Eduardo Aute"}
+{:acid 89377, :name "New York City"}
+{:acid 1359, :name "Leo Kottke"}
+{:acid 199291, :name "Las Grecas"}
+{:acid 3273, :name "Patsy Cline"}
+{:acid 210133, :name "The Blackbirds"}
+{:acid 205377, :name "Mike Stuart Span"}
+{:acid 104743, :name "The Bunch"}
+{:acid 866343, :name "Danny Kalb & Stefan Grossman"}
+{:acid 125255, :name "The Osmonds"}
+{:acid 231191, :name "Jan Dukes de Grey"}
+{:acid 815377, :name "Al Kooper & Mike Bloomfield"}
+{:acid 56094, :name "Timmy Thomas"}
+{:acid 2943, :name "Charles Mingus"}
+{:acid 155023, :name "Stone the Crows"}
+{:acid 91506, :name "France Gall"}
+{:acid 52108, :name "Candido"}
+{:acid 471853, :name "Heaven & Earth"}
+{:acid 227, :name "Carly Simon"}
+{:acid 53180, :name "Lee Hazlewood"}
+{:acid 21829, :name "Hank Williams, Jr."}
+{:acid 34104, :name "Desmond Dekker"}
+{:acid 23950, :name "Murray McLauchlan"}
+{:acid 3577, :name "April Wine"}
+{:acid 991, :name "Bee Gees"}
+{:acid 106981, :name "François de Roubaix"}
+{:acid 59290, :name "Charles Aznavour"}
+{:acid 32262, :name "Georges Brassens"}
+{:acid 2726, :name "Chicago"}
+{:acid 50636, :name "Tony Christie"}
+{:acid 9860, :name "Giacomo Puccini"}
+{:acid 31845, :name "Weather Report"}
+{:acid 825, :name "The Rolling Stones"}
+{:acid 1655, :name "John Lee Hooker"}
+{:acid 592779, :name "Brimstone"}
+{:acid 578460, :name "La Pesada"}
+{:acid 434999, :name "Rumplestiltskin"}
+{:acid 192631, :name "Simon Park Orchestra"}
+{:acid 240113, :name "Pacific Sound"}
+{:acid 33348, :name "Pure Prairie League"}
+{:acid 338372, :name "Top Topham"}
+{:acid 288052, :name "Alphataurus"}
+{:acid 452378, :name "Señor Soul"}
+{:acid 181069, :name "Michel Fugain & Le Big Bazar"}
+{:acid 325678, :name "Mick Grabham"}
+{:acid 809797, :name "Γιάννης Μαρκόπουλος & Νίκος Ξυλούρης"}
+{:acid 613664, :name "Cobra"}
+{:acid 759511, :name "Emmanuel Nicolaïdes"}
+{:acid 185674, :name "The New Dawn"}
+{:acid 233707, :name "Wicked Lester"}
+{:acid 520207, :name "Jimmy Lane & The Incredible Five"}
+{:acid 750820, :name "Incredible Hog"}
+{:acid 147971, :name "Georg Kreisler"}
+{:acid 203342, :name "All the People"}
+{:acid 347800, :name "Main Attraction"}
+{:acid 129743, :name "Hank Thompson & His Brazos Valley Boys"}
+{:acid 489015, :name "The Weathermen"}
+{:acid 235697, :name "Krokodil"}
+{:acid 655693, :name "Michael McEwan"}
+{:acid 7366, :name "Lucky Thompson"}
+{:acid 129614, :name "Pleasure Web"}
+{:acid 731093, :name "Neil Harpe"}
+{:acid 139633, :name "Raoul de Godewarsvelde"}
+{:acid 404487, :name "Eclection"}
+{:acid 627754, :name "Suely e Os Kantikus"}
+{:acid 511650, :name "Don Preston"}
+{:acid 33067, :name "Robert Hunter"}
+{:acid 65766, :name "Medicine Head"}
+{:acid 8825, :name "Jimmy Raney"}
+{:acid 113872, :name "Little Sister"}
+{:acid 169758, :name "Brute Force"}
+{:acid 411050, :name "The Third Estate"}
+{:acid 60783, :name "Dorival Caymmi"}
+{:acid 292345, :name "Made in Germany"}
+{:acid 876277, :name "Stars and Stripes"}
+{:acid 876303, :name "Cynara"}
+{:acid 182, :name "Alice Cooper"}
+{:acid 2626, :name "Kim Carnes"}
+{:acid 47331, :name "The Beginning of the End"}
+{:acid 822197, :name "Johnny Cash & June Carter Cash"}
+{:acid 22096, :name "Lucio Battisti"}
+{:acid 167651, :name "Curtis Fuller"}
+{:acid 37435, :name "Sandy Denny"}
+{:acid 23342, :name "Nana Mouskouri"}
+{:acid 23252, :name "Antônio Carlos Jobim"}
+{:acid 408301, :name "Joe Loss"}
+{:acid 889224, :name "Tomorrow's Gift"}
+{:acid 23121, :name "Christy Moore"}
+{:acid 16290, :name "Jackie DeShannon"}
+{:acid 123396, :name "The Dillards"}
+{:acid 83179, :name "Brainbox"}
+{:acid 55146, :name "Junior Parker"}
+{:acid 50697, :name "Leon Thomas"}
+{:acid 158642, :name "Heartsfield"}
+{:acid 1460, :name "Aretha Franklin"}
+{:acid 52727, :name "Joan Manuel Serrat"}
+{:acid 105874, :name "Il rovescio della medaglia"}
+{:acid 2107, :name "Leonard Cohen"}
+{:acid 974218, :name "Georges Chatelain, Hervé Roy & Gilles Peram"}
+{:acid 33800, :name "Duke Ellington & His Orchestra"}
+{:acid 924, :name "Van Morrison"}
+{:acid 23980, :name "Grover Washington, Jr."}
+{:acid 1492, :name "Genesis"}
+{:acid 134784, :name "Kasenetz-Katz Super Circus"}
+{:acid 504768, :name "Second Life"}
+{:acid 488873, :name "John Killigrew"}
+{:acid 120924, :name "Tamba 4"}
+{:acid 310603, :name "Lawrence Welk and His Champagne Music"}
+{:acid 156882, :name "Pesky Gee!"}
+{:acid 96216, :name "Isokynä Lindholm"}
+{:acid 76530, :name "Mercy"}
+{:acid 65368, :name "Kraan"}
+{:acid 613662, :name "Mailer MacKenzie Band"}
+{:acid 202810, :name "Albert Mangelsdorff"}
+{:acid 176436, :name "Sharon Cash"}
+{:acid 599151, :name "Analfabitles"}
+{:acid 165068, :name "Donald Height"}
+{:acid 225341, :name "The Great Society"}
+{:acid 534611, :name "The Glitterhouse"}
+{:acid 269571, :name "The Har You Percussion Group"}
+{:acid 432521, :name "眞鍋理一郎"}
+{:acid 137688, :name "Bobbi Martin"}
+{:acid 433537, :name "Judas Jump"}
+{:acid 323590, :name "The Zoo"}
+{:acid 811506, :name "Tilsley & Gray"}
+{:acid 386751, :name "Christian Adam"}
+{:acid 820925, :name "Terry Riley with Don Cherry"}
+{:acid 9991, :name "Art Ensemble of Chicago"}
+{:acid 517519, :name "8 Days in April"}
+{:acid 489055, :name "The People's Victory Orchestra and Chorus"}
+{:acid 691242, :name "Emmy Margaret"}
+{:acid 807663, :name "Jackie Wilson & Count Basie"}
+{:acid 707940, :name "Brave New World"}
+{:acid 274270, :name "Univeria Zekt"}
+{:acid 343214, :name "Synanthesia"}
+{:acid 130175, :name "Pierre Vassiliu"}
+{:acid 34847, :name "Wizzard"}
+{:acid 35410, :name "Ralph Towner"}
+{:acid 825907, :name "Fela Kuti"}
+{:acid 837854, :name "Alacrán"}
+{:acid 140591, :name "The International Submarine Band"}
+{:acid 132554, :name "The Voices of East Harlem"}
+{:acid 15740, :name "井上陽水"}
+{:acid 35926, :name "Kevin Burke"}
+{:acid 56741, :name "Ultimate Spinach"}
+{:acid 397830, :name "Godfried Bomans"}
+{:acid 104605, :name "The Capitols"}
+{:acid 5232, :name "Kenny Burrell"}
+{:acid 871587, :name "Prokofiev / Britten"}
+{:acid 87179, :name "The J. Geils Band"}
+{:acid 40557, :name "Ripple"}
+{:acid 35150, :name "Franz Josef Degenhardt"}
+{:acid 308926, :name "A.R. & Machines"}
+{:acid 6774, :name "The Dubliners"}
+{:acid 38551, :name "Ornette Coleman"}
+{:acid 48658, :name "William Bell"}
+{:acid 138, :name "Billy Joel"}
+{:acid 38419, :name "Fela Kuti"}
+{:acid 57202, :name "The Tams"}
+{:acid 39619, :name "Nancy Sinatra"}
+{:acid 12022, :name "The King's Singers"}
+{:acid 14331, :name "Francesco De Gregori"}
+{:acid 974247, :name "Raymond Guiot & Maurice Plessac"}
+{:acid 9764, :name "Earth, Wind & Fire"}
+{:acid 7494, :name "New Riders of the Purple Sage"}
+{:acid 142686, :name "Jeff Beck Group"}
+{:acid 18, :name "10cc"}
+{:acid 1616, :name "Tina Turner"}
+{:acid 282181, :name "O Terço"}
+{:acid 231597, :name "Metamorfosi"}
+{:acid 299508, :name "Frank Wright"}
+{:acid 541017, :name "Keith Blake & Lynn Tait Band"}
+{:acid 334809, :name "Tim Hollier"}
+{:acid 229942, :name "Cem Karaca"}
+{:acid 202562, :name "Kissing Spell"}
+{:acid 109255, :name "Leo Addeo and His Orchestra"}
+{:acid 383764, :name "Bill Nash"}
+{:acid 813977, :name "Lloyd Charmers with Byron Lee & The Dragonaires"}
+{:acid 51408, :name "Dave Davies"}
+{:acid 329486, :name "Piero Ciampi"}
+{:acid 452335, :name "Terry Manning"}
+{:acid 496344, :name "Subway"}
+{:acid 387480, :name "Paul Mauriat & His Orchestra"}
+{:acid 87700, :name "Mitch Ryder"}
+{:acid 44974, :name "Stompin' Tom Connors"}
+{:acid 107351, :name "Eddie Bo"}
+{:acid 534172, :name "2nd Generation"}
+{:acid 316916, :name "Canterbury Fair"}
+{:acid 194780, :name "Kashmere Stage Band"}
+{:acid 469226, :name "The Mystic Number National Bank"}
+{:acid 520507, :name "The Cowboys 'N' Indians"}
+{:acid 63424, :name "Blå tåget"}
+{:acid 376763, :name "John Simon"}
+{:acid 132560, :name "Debbie Taylor"}
+{:acid 278758, :name "Gracious!"}
+{:acid 400554, :name "The Colonials"}
+{:acid 131999, :name "Joey Pastrana & His Orchestra"}
+{:acid 94971, :name "Cheo Feliciano"}
+{:acid 534736, :name "Daisy Clan"}
+{:acid 5615, :name "Planxty"}
+{:acid 307247, :name "Eivets Rednow"}
+{:acid 136834, :name "Danny White"}
+{:acid 626619, :name "Cargoe"}
+{:acid 341072, :name "Joakim Skogsberg"}
+{:acid 282303, :name "Circle"}
+{:acid 192088, :name "Fons Jansen"}
+{:acid 538869, :name "Kingbird Singers"}
+{:acid 639852, :name "The New Cactus Band"}
+{:acid 727753, :name "Γιάννης Κιουρκτσόγλου"}
+{:acid 79473, :name "Richard O'Brien"}
+{:acid 825160, :name "Arawak"}
+{:acid 409606, :name "Λίτσα Διαμάντη"}
+{:acid 327923, :name "Γιάννης Πουλόπουλος"}
+{:acid 36884, :name "Eddie Kendricks"}
+{:acid 622679, :name "Веселые ребята"}
+{:acid 819421, :name "Tim Hart and Maddy Prior"}
+{:acid 68350, :name "Steve Goodman"}
+{:acid 882095, :name "Little Richard & Quincy Jones"}
+{:acid 567140, :name "The Parlour Band"}
+{:acid 201816, :name "El Polen"}
+{:acid 126032, :name "John Addison"}
+{:acid 546024, :name "Forever More"}
+{:acid 870382, :name "Keith Mansfield & John Cameron"}
+{:acid 31703, :name "Franco Battiato"}
+{:acid 37455, :name "Michel Berger"}
+{:acid 39431, :name "Freda Payne"}
+{:acid 813532, :name "Diana Ross & The Supremes and The Temptations"}
+{:acid 46945, :name "Jacques Loussier"}
+{:acid 64525, :name "The Jimmy Castor Bunch"}
+{:acid 170220, :name "Quartette Trés Bien"}
+{:acid 22988, :name "The Youngbloods"}
+{:acid 960537, :name "Eva"}
+{:acid 35679, :name "Bobby Goldsboro"}
+{:acid 15686, :name "Marie Osmond"}
+{:acid 21264, :name "Jimmy Ruffin"}
+{:acid 44193, :name "The Flirtations"}
+{:acid 4111, :name "Flamin' Groovies"}
+{:acid 107557, :name "Hoyt Axton"}
+{:acid 463827, :name "John Woodhouse"}
+{:acid 1736, :name "Cat Stevens"}
+{:acid 85070, :name "Cuby + Blizzards"}
+{:acid 37672, :name "Milton Nascimento"}
+{:acid 6215, :name "Skip James"}
+{:acid 21058, :name "Julien Clerc"}
+{:acid 34100, :name "Napoleon XIV"}
+{:acid 197761, :name "Kim Larsen"}
+{:acid 73841, :name "Heintje"}
+{:acid 9759, :name "Grand Funk Railroad"}
+{:acid 1626, :name "Jimmy Cliff"}
+{:acid 199309, :name "The Edgar Winter Group"}
+{:acid 12711, :name "Richie Havens"}
+{:acid 55045, :name "Sonora Ponceña"}
+{:acid 38891, :name "The Spencer Davis Group"}
+{:acid 192, :name "Queen"}
+{:acid 63428, :name "Turid"}
+{:acid 194314, :name "Cervello"}
+{:acid 71557, :name "Arthur Brown"}
+{:acid 132000, :name "Jimmy Sabater"}
+{:acid 195571, :name "Machito & His Afro-Cuban Jazz Ensemble"}
+{:acid 39868, :name "Buffalo"}
+{:acid 378400, :name "Bunalımlar"}
+{:acid 295183, :name "Jacks"}
+{:acid 808722, :name "Cem Karaca & Moğollar"}
+{:acid 573872, :name "The Illusion"}
+{:acid 87576, :name "Alan Price"}
+{:acid 603302, :name "Jo Mama"}
+{:acid 296698, :name "Joseph"}
+{:acid 560402, :name "Lee Allen & The Dew Mountain Boys"}
+{:acid 606206, :name "Tonio Rubio"}
+{:acid 192605, :name "Dzyan"}
+{:acid 462613, :name "Room"}
+{:acid 122942, :name "Isaac Hayes Movement"}
+{:acid 652325, :name "The Establishment"}
+{:acid 496581, :name "Marília Medalha"}
+{:acid 536536, :name "Sacros"}
+{:acid 249215, :name "Charlie Whitehead"}
+{:acid 486121, :name "Spring"}
+{:acid 137290, :name "Gert Timmerman"}
+{:acid 717684, :name "Delle Haensch"}
+{:acid 632811, :name "Armageddon"}
+{:acid 63510, :name "Louis 'Sabu' Martinez"}
+{:acid 600966, :name "After All"}
+{:acid 617007, :name "Whiskey Howl"}
+{:acid 271816, :name "Seth Gaaikema"}
+{:acid 560934, :name "Zarathustra"}
+{:acid 403481, :name "Smokin' Willie"}
+{:acid 761790, :name "Pacífico"}
+{:acid 101843, :name "Povl Dissing & Benny Andersen"}
+{:acid 483046, :name "Dalton"}
+{:acid 5372, :name "Les McCann"}
+{:acid 68662, :name "Os Originais do Samba"}
+{:acid 834962, :name "Ruben & The Jets"}
+{:acid 21683, :name "Country Joe and the Fish"}
+{:acid 838371, :name "Hank Williams, Jr. & The Mike Curb Congregation"}
+{:acid 495781, :name "The Universals"}
+{:acid 846624, :name "Louie López"}
+{:acid 170788, :name "The Lewis Family"}
+{:acid 73341, :name "Mellow Candle"}
+{:acid 3691, :name "Dominic Frontiere"}
+{:acid 89737, :name "The Free Design"}
+{:acid 119043, :name "Scott English"}
+{:acid 113554, :name "Brinsley Schwarz"}
+{:acid 444484, :name "Michael Heltau"}
+{:acid 47490, :name "Joe Dassin"}
+{:acid 149193, :name "S.D. Burman"}
+{:acid 10264, :name "Elis Regina"}
+{:acid 11558, :name "David Allan Coe"}
+{:acid 21832, :name "Sonny Rollins"}
+{:acid 101, :name "Frank Sinatra"}
+{:acid 969672, :name "Dov Seltzer"}
+{:acid 219813, :name "Luigi Nono"}
+{:acid 11820, :name "Jane Birkin"}
+{:acid 541149, :name "Perigeo"}
+{:acid 3413, :name "Jesse Colin Young"}
+{:acid 10624, :name "Caetano Veloso"}
+{:acid 31296, :name "Joe Henderson"}
+{:acid 124661, :name "Love Sculpture"}
+{:acid 179780, :name "Philippe Sarde"}
+{:acid 108644, :name "Little Sonny"}
+{:acid 106106, :name "Martin Carthy"}
+{:acid 216905, :name "Claude Denjean"}
+{:acid 148332, :name "Velha Guarda da Portela"}
+{:acid 976132,
+ :name "Cannonball Adderley feat. Nancy Wilson & Lou Rawls"}
+{:acid 376676, :name "Smokey Robinson & The Miracles"}
+{:acid 41515, :name "Dave \"Baby\" Cortez"}
+{:acid 15102, :name "Art Garfunkel"}
+{:acid 3417, :name "Sarah Vaughan"}
+{:acid 875032, :name "John & Beverley Martyn"}
+{:acid 306568, :name "Stanley Z. Daniels, M.D."}
+{:acid 221719, :name "Ovidi Montllor"}
+{:acid 73299, :name "Dickey Lee"}
+{:acid 800935, :name "Pluto"}
+{:acid 350320, :name "Buddy McKnight"}
+{:acid 521894, :name "Jacobs Creek"}
+{:acid 821848, :name "Bill Dana & Joey Forman"}
+{:acid 611975, :name "Golem"}
+{:acid 449361, :name "Berkant"}
+{:acid 446123, :name "Amos Key"}
+{:acid 482102, :name "The Fuzz"}
+{:acid 181400, :name "The Village Callers"}
+{:acid 2852, :name "Gino Vannelli"}
+{:acid 448252, :name "Mal Waldron Trio"}
+{:acid 327766, :name "Jo Ann Garrett"}
+{:acid 5884, :name "B.J. Thomas"}
+{:acid 535055, :name "The Sermon"}
+{:acid 510937, :name "Mad Dog"}
+{:acid 83854, :name "Vashti Bunyan"}
+{:acid 537548, :name "Ecology"}
+{:acid 206968, :name "Smokey Brooks"}
+{:acid 554774, :name "Tomasz Stańko Quintet"}
+{:acid 978838, :name "Ronney Abramson"}
+{:acid 580176, :name "Los Gritos"}
+{:acid 53429, :name "Yusef Lateef"}
+{:acid 82572, :name "Steamhammer"}
+{:acid 446826, :name "Mitch Mitchell & Gene King"}
+{:acid 818532, :name "Eddie Bo & Inez Cheatham"}
+{:acid 9746, :name "Chuck Mangione"}
+{:acid 131522, :name "Johnny Zamot"}
+{:acid 61686, :name "Fruupp"}
+{:acid 30356, :name "Rick Nelson & The Stone Canyon Band"}
+{:acid 152873, :name "Joy of Cooking"}
+{:acid 822747, :name "Canned Heat & John Lee Hooker"}
+{:acid 456347, :name "Peter Krähenbühl"}
+{:acid 196556, :name "Joey Gilmore"}
+{:acid 599765, :name "Борис Рубашкин"}
+{:acid 123028, :name "Jeanne Pruett"}
+{:acid 177426, :name "Arzachel"}
+{:acid 677226, :name "Bob Desper"}
+{:acid 454820, :name "Don Ciccone"}
+{:acid 89166, :name "Ramses Shaffy"}
+{:acid 1802, :name "Gerry Rafferty"}
+{:acid 14241, :name "Ton Steine Scherben"}
+{:acid 355033, :name "The Chosen Few"}
+{:acid 104351, :name "Alexander Curly"}
+{:acid 176776, :name "Derek Bailey"}
+{:acid 2410, :name "Peter Frampton"}
+{:acid 375845, :name "Scotty"}
+{:acid 3722, :name "Clarence Carter"}
+{:acid 706984, :name "Ρίτα Σακελλαρίου"}
+{:acid 881602, :name "Far Out"}
+{:acid 5300, :name "Mongo Santamaría"}
+{:acid 33387, :name "Funkadelic"}
+{:acid 228558, :name "Tonton Macoute"}
+{:acid 195377, :name "Black Cat Bones"}
+{:acid 62345, :name "Cactus"}
+{:acid 11078, :name "Olivia Newton-John"}
+{:acid 85171, :name "Leroy Hutson"}
+{:acid 129887, :name "Gene Harris & The Three Sounds"}
+{:acid 70824, :name "The Sensational Alex Harvey Band"}
+{:acid 149241, :name "The Koobas"}
+{:acid 5035, :name "Judge Dread"}
+{:acid 46638, :name "Agnes Chan"}
+{:acid 21318, :name "Albert Collins"}
+{:acid 4686, :name "John Martyn"}
+{:acid 194761, :name "Elly en Rikkert"}
+{:acid 14652, :name "The Upsetters"}
+{:acid 126110, :name "Fela Kuti & Afrika 70"}
+{:acid 57532, :name "Pierre Henry"}
+{:acid 41728, :name "Peter Hammill"}
+{:acid 467448, :name "Tony Bass"}
+{:acid 4326, :name "Chet Baker"}
+{:acid 944551, :name "Gene Williams und die Dieter Reith Combo"}
+{:acid 9892, :name "The Foundations"}
+{:acid 5498, :name "Dave Brubeck"}
+{:acid 132104, :name "Pete Brown & Piblokto!"}
+{:acid 75443, :name "Anita Lindblom"}
+{:acid 7407, :name "Koerner, Ray & Glover"}
+{:acid 253276, :name "Música dispersa"}
+{:acid 542595, :name "Manduka"}
+{:acid 134798, :name "Daddy Dewdrop"}
+{:acid 205376, :name "Velvett Fogg"}
+{:acid 56977, :name "George \"Harmonica\" Smith"}
+{:acid 31052, :name "Richard Clapton"}
+{:acid 63513, :name "Gläns över sjö & strand"}
+{:acid 150506, :name "Arbete & fritid"}
+{:acid 701372, :name "Bernie Hayes"}
+{:acid 164147, :name "Franco De Gemini"}
+{:acid 375466, :name "Hammer"}
+{:acid 372244, :name "Fire"}
+{:acid 80851, :name "Ellen McIlwaine"}
+{:acid 57588, :name "Kenny Wheeler"}
+{:acid 504809, :name "The Merchants of Dream"}
+{:acid 165023, :name "Mary Jane Hooper"}
+{:acid 56955, :name "La Revolución de Emiliano Zapata"}
+{:acid 83057, :name "Fusion Orchestra"}
+{:acid 554731, :name "Hamilton Streetcar"}
+{:acid 218043, :name "Exmagma"}
+{:acid 426162, :name "Suck"}
+{:acid 467460, :name "Praatpalen"}
+{:acid 668941, :name "Andrew Rudin"}
+{:acid 48806, :name "H.P. Lovecraft"}
+{:acid 84956, :name "Rodger Collins"}
+{:acid 481849, :name "Fire"}
+{:acid 326344, :name "Brown Brothers of Soul"}
+{:acid 674533, :name "Bobby Atkins & The Countrymen"}
+{:acid 5614, :name "R. Crumb and His Cheap Suit Serenaders"}
+{:acid 353323, :name "The Sacred Mushroom"}
+{:acid 558568, :name "Time Machine"}
+{:acid 644329, :name "Linda Ronstadt & The Stone Poneys"}
+{:acid 582464, :name "Horse"}
+{:acid 48876, :name "Dick Gaughan"}
+{:acid 84164, :name "Mike Cooper"}
+{:acid 252318, :name "Hunger"}
+{:acid 63484, :name "Risken finns"}
+{:acid 76513, :name "We Five"}
+{:acid 540345, :name "Willie Henderson and the Soul Explosions"}
+{:acid 210790, :name "Mantovani"}
+{:acid 16521, :name "Fabrizio De André"}
+{:acid 34116, :name "Brian Hyland"}
+{:acid 5512, :name "Stanley Turrentine"}
+{:acid 3625, :name "Ant Trip Ceremony"}
+{:acid 868863, :name "Leviathan"}
+{:acid 872898, :name "Jimi Hendrix & Larry Young"}
+{:acid 864741, :name "Smetana / Dvořák"}
+{:acid 452910, :name "André Verchuren"}
+{:acid 73990, :name "The Staple Singers"}
+{:acid 32888, :name "Archie Bell & The Drells"}
+{:acid 482331, :name "Μίκης Θεοδωράκης"}
+{:acid 216618, :name "J. J. Johnson"}
+{:acid 11201, :name "The Nitty Gritty Dirt Band"}
+{:acid 3981, :name "Bobby Charles"}
+{:acid 37532, :name "Laurel Aitken"}
+{:acid 887139, :name "Magnificient Malochi"}
+{:acid 35977, :name "Edwin Starr"}
+{:acid 104801, :name "Howard Carpendale"}
+{:acid 4100, :name "MC5"}
+{:acid 23, :name "Tom Waits"}
+{:acid 76960, :name "Guido e Maurizio De Angelis"}
+{:acid 4194, :name "The Chambers Brothers"}
+{:acid 3451, :name "Champion Jack Dupree"}
+{:acid 41242, :name "The Scaffold"}
+{:acid 950, :name "The Guess Who"}
+{:acid 39360, :name "Tennessee Ernie Ford"}
+{:acid 240653, :name "Claude Engel"}
+{:acid 3696, :name "Big Joe Turner"}
+{:acid 648421, :name "Lenny Dee"}
+{:acid 97546, :name "[unknown]"}
+{:acid 37921, :name "Hall & Oates"}
+{:acid 3534, :name "Canned Heat"}
+{:acid 35674, :name "Don Fardon"}
+{:acid 31747, :name "Quincy Jones"}
+{:acid 39422, :name "Spooky Tooth"}
+{:acid 183385, :name "Houseguests"}
+{:acid 42058, :name "Gordon Haskell"}
+{:acid 172467, :name "Les Enfants Terribles"}
+{:acid 520522, :name "Hallelujah"}
+{:acid 526705, :name "Gash"}
+{:acid 349971, :name "Eero Koivistoinen"}
+{:acid 81480, :name "Manolo Sanlúcar"}
+{:acid 277466, :name "Howard Roberts Quartet"}
+{:acid 48581, :name "Joe South"}
+{:acid 330185, :name "De Wiko's"}
+{:acid 237203, :name "Mel Wynn & The Rhythm Aces"}
+{:acid 30290, :name "The Seeds"}
+{:acid 65569, :name "Gloria Jones"}
+{:acid 438049, :name "The Indo-British Ensemble"}
+{:acid 742372, :name "Pedrinho Rodrigues e Os Nacionais"}
+{:acid 30341, :name "Sailcat"}
+{:acid 3607, :name "John Sebastian"}
+{:acid 447315, :name "Ricordi d'infanzia"}
+{:acid 185652, :name "Knutna nävar"}
+{:acid 792025, :name "Eric Salzman"}
+{:acid 212408, :name "The Elves"}
+{:acid 496988, :name "The Fallen Angels"}
+{:acid 106847, :name "Luiz Melodia"}
+{:acid 253279, :name "The Roundtable"}
+{:acid 390211, :name "Orquesta Colón"}
+{:acid 479773, :name "Boscoe"}
+{:acid 504486, :name "The Eight Minutes"}
+{:acid 817774, :name "Lambert & Nuttycombe"}
+{:acid 640221, :name "Pookah"}
+{:acid 671732, :name "J J Barnes"}
+{:acid 535777, :name "Martine Clémenceau"}
+{:acid 3477, :name "Malo"}
+{:acid 5260, :name "Marlena Shaw"}
+{:acid 721372, :name "Roland Kovac New Set"}
+{:acid 844698, :name "John Paul Joans"}
+{:acid 813088, :name "אריק איינשטיין ומיקי גבריאלוב"}
+{:acid 42065, :name "Dollar Brand"}
+{:acid 38327, :name "Mandrill"}
+{:acid 47973, :name "Grapefruit"}
+{:acid 87227, :name "Mac & Katie Kissoon"}
+{:acid 2639, :name "The Pointer Sisters"}
+{:acid 37604, :name "Loggins & Messina"}
+{:acid 5616, :name "John Renbourn"}
+{:acid 169913, :name "Linda Perhacs"}
+{:acid 35991, :name "Alain Bashung"}
+{:acid 39465, :name "Scott Joplin"}
+{:acid 68644, :name "Giorgio Gaber"}
+{:acid 10681, :name "Melanie"}
+{:acid 24162, :name "Burt Bacharach"}
+{:acid 104713, :name "Chairmen of the Board"}
+{:acid 746011, :name "Πάνος Κόκκινος"}
+{:acid 10427, :name "Elmer Bernstein"}
+{:acid 9366, :name "Carpenters"}
+{:acid 39406, :name "Ivan Rebroff"}
+{:acid 896344, :name "David Munrow & Early Music Consort of London"}
+{:acid 4356, :name "Georges Delerue"}
+{:acid 1418, :name "Tangerine Dream"}
+{:acid 446107, :name "Bedia Akartürk"}
+{:acid 6025, :name "Vassar Clements"}
+{:acid 44991, :name "Julie London"}
+{:acid 104808, :name "Chris Roberts"}
+{:acid 962, :name "Marvin Gaye"}
+{:acid 31535, :name "The Mills Brothers"}
+{:acid 40576, :name "Byron Lee & The Dragonaires"}
+{:acid 193319, :name "The Cedars"}
+{:acid 3231, :name "Asleep at the Wheel"}
+{:acid 5263, :name "Stan Getz"}
+{:acid 1629, :name "James Brown"}
+{:acid 558959, :name "Frank Howard & the Continentals"}
+{:acid 441982, :name "Markley"}
+{:acid 242406, :name "Bernard \"Pretty\" Purdie"}
+{:acid 327550, :name "Jack Traylor and Steelwind"}
+{:acid 432173, :name "Luciano Perrone e Seus Ritmistas Brasileiros"}
+{:acid 529272, :name "Batteaux"}
+{:acid 116043, :name "Los Incas"}
+{:acid 377179, :name "Os Brasas"}
+{:acid 539853, :name "Gurney Adkins & The Fox Valley Boys"}
+{:acid 132105, :name "Edgar Broughton Band"}
+{:acid 557534, :name "Union Blue"}
+{:acid 220731, :name "Phil Everly"}
+{:acid 809630, :name "Leslie Bricusse & Anthony Newley"}
+{:acid 295179, :name "Apryl Fool"}
+{:acid 271543, :name "Lennart Grahn & Nya Shanes"}
+{:acid 813800, :name "Candi Staton & Clarence Carter"}
+{:acid 129108, :name "Philippe Nicaud"}
+{:acid 65507, :name "Povel Ramel"}
+{:acid 142282, :name "The Frost"}
+{:acid 46123, :name "Brian Auger's Oblivion Express"}
+{:acid 497773, :name "Lee Bates"}
+{:acid 238951, :name "Capsicum Red"}
+{:acid 183366, :name "Alexander von Schlippenbach"}
+{:acid 105027, :name "Dee Felice Trio"}
+{:acid 705473, :name "The Running Man"}
+{:acid 144480, :name "Oliver Sain"}
+{:acid 121560, :name "Skull Snaps"}
+{:acid 468405, :name "Jade"}
+{:acid 570951, :name "Bit' a Sweet"}
+{:acid 130626, :name "Hubert Laws"}
+{:acid 795090, :name "Freddie Allen"}
+{:acid 151500, :name "Aquelarre"}
+{:acid 191392, :name "The Electric Indian"}
+{:acid 251439, :name "Olympic"}
+{:acid 8234, :name "The Feminine Complex"}
+{:acid 515311, :name "Frosted Flakes"}
+{:acid 534692, :name "Faraway Folk"}
+{:acid 249668, :name "Los Tamara"}
+{:acid 35302, :name "Rare Earth"}
+{:acid 447511, :name "Sun Ra and His Arkestra"}
+{:acid 825613,
+ :name "Tony Nolte & Televisie Orkest \"Een van de Acht\""}
+{:acid 46691, :name "Yma Sumac"}
+{:acid 834777, :name "Technical Space Composer's Crew"}
+{:acid 44132, :name "Paul Bley"}
+{:acid 863382, :name "Albert Ayler & Don Cherry"}
+{:acid 154300, :name "Ache"}
+{:acid 463910, :name "Eddy Christiani"}
+{:acid 6238, :name "Steeleye Span"}
+{:acid 198746, :name "Margo Guryan"}
+{:acid 8744, :name "U-Roy"}
+{:acid 378172, :name "山本リンダ"}
+{:acid 30956, :name "Jean-Jacques Perrey"}
+{:acid 41129, :name "Faces"}
+{:acid 939095, :name "Contraluz"}
+{:acid 131187, :name "Don Partridge"}
+{:acid 833266, :name "Весёлые ребята"}
+{:acid 35044, :name "Camilo Sesto"}
+{:acid 16186, :name "Sly & The Family Stone"}
+{:acid 46992, :name "Tino Rossi"}
+{:acid 109840, :name "Amália Rodrigues"}
+{:acid 21358, :name "The Grass Roots"}
+{:acid 30386, :name "Tony Orlando & Dawn"}
+{:acid 3259, :name "Giuseppe Verdi"}
+{:acid 6083, :name "Willie Nelson"}
+{:acid 53135, :name "Esther Phillips"}
+{:acid 46604, :name "Curved Air"}
+{:acid 327566, :name "Blackwater Park"}
+{:acid 167750, :name "The Collectors"}
+{:acid 528580, :name "Soul Soup"}
+{:acid 131783, :name "Marvin Holmes and The Uptights"}
+{:acid 121367, :name "The Four Larks"}
+{:acid 551573, :name "頭脳警察"}
+{:acid 170905, :name "The Intrigues"}
+{:acid 747050, :name "Ken Dodd and the Diddymen"}
+{:acid 548988, :name "Harold McNair Quartet"}
+{:acid 236388, :name "Marie-Paule Belle"}
+{:acid 119604, :name "Ronnie Foster"}
+{:acid 36521, :name "David Gates"}
+{:acid 320464, :name "Wally Richardson"}
+{:acid 509925,
+ :name "Academy of the Immaculate Conception, Oldenburg, Indiana"}
+{:acid 176549, :name "Kako"}
+{:acid 156837, :name "Doris Duke"}
+{:acid 577563, :name "The Soul Toranodoes"}
+{:acid 480412, :name "Chain"}
+{:acid 366507, :name "Paul Jeffrey"}
+{:acid 91015, :name "Lefty Frizzell"}
+{:acid 745331, :name "Les 5 Saisons"}
+{:acid 471068, :name "Alexander Lucas"}
+{:acid 165057, :name "Thelma Jones"}
+{:acid 63323, :name "John Klemmer"}
+{:acid 21116, :name "Raul Seixas"}
+{:acid 346340, :name "Rufus Zuphall"}
+{:acid 223910, :name "Werner Müller"}
+{:acid 6681, :name "Tommy Makem"}
+{:acid 94975, :name "Orquesta Dicupé"}
+{:acid 108638, :name "The T.S.U. Toronadoes"}
+{:acid 353727, :name "Don Bryant"}
+{:acid 379878, :name "Eric Quincy Tate"}
+{:acid 951236, :name "The Williams Brothers"}
+{:acid 582856, :name "Jeronimo"}
+{:acid 356817, :name "Tetragon"}
+{:acid 121628, :name "Los Canarios"}
+{:acid 191991, :name "The Bob Seger System"}
+{:acid 878002, :name "Ilous & Decuyper"}
+{:acid 147419, :name "Sonny Red"}
+{:acid 314835, :name "Spontaneous Music Ensemble"}
+{:acid 30172, :name "King Floyd"}
+{:acid 627933, :name "Máquina!"}
+{:acid 61431, :name "Cliff Richard & The Shadows"}
+{:acid 24502, :name "Paul Mauriat"}
+{:acid 20408, :name "Woody Allen"}
+{:acid 195779, :name "The Soulful Strings"}
+{:acid 20641, :name "El Gran Combo de Puerto Rico"}
+{:acid 858235, :name "Bandido"}
+{:acid 89654, :name "Comus"}
+{:acid 158906, :name "Pescado Rabioso"}
+{:acid 226630, :name "Vince Guaraldi"}
+{:acid 562002, :name "Ihre Kinder"}
+{:acid 22462, :name "Ralph Vaughan Williams"}
+{:acid 7973, :name "Chris Spedding"}
+{:acid 5444, :name "The Dave Brubeck Quartet"}
+{:acid 1644, :name "Emmylou Harris"}
+{:acid 209089, :name "The Shoes"}
+{:acid 36480, :name "Van der Graaf Generator"}
+{:acid 893054, :name "Dave Barker meets The Upsetters"}
+{:acid 56759, :name "Nara Leão"}
+{:acid 68653, :name "The Ozark Mountain Daredevils"}
+{:acid 70423, :name "Dandy Livingstone"}
+{:acid 22276, :name "Inti-Illimani"}
+{:acid 129397, :name "Mr. Fox"}
+{:acid 626178, :name "浅川マキ"}
+{:acid 1528, :name "Grateful Dead"}
+{:acid 5437, :name "Cal Tjader"}
+{:acid 34563, :name "Jean-Luc Ponty"}
+{:acid 167216, :name "Embryo"}
+{:acid 209680, :name "Giorgio"}
+{:acid 21927, :name "Michel Delpech"}
+{:acid 24517, :name "Johann Strauss II"}
+{:acid 3452, :name "Memphis Slim"}
+{:acid 566561, :name "Los Diablos"}
+{:acid 606517, :name "Bobak, Jons, Malone"}
+{:acid 183502, :name "Manfred Schoof"}
+{:acid 250171, :name "Trio Eugster"}
+{:acid 141002, :name "Sérgio Godinho"}
+{:acid 273029, :name "B.B. Blunder"}
+{:acid 722236, :name "Melvin Jackson"}
+{:acid 136953, :name "Spike Milligan"}
+{:acid 449496, :name "Virus"}
+{:acid 519373, :name "The Unifics"}
+{:acid 493267, :name "Good Times"}
+{:acid 305354, :name "Gino Marinuzzi Jr."}
+{:acid 140449, :name "Ricky Wilde"}
+{:acid 137326, :name "Lowland Trio"}
+{:acid 8668, :name "Rod Piazza"}
+{:acid 24111, :name "The Crazy World of Arthur Brown"}
+{:acid 259230, :name "The Elvin Bishop Group"}
+{:acid 798330, :name "Gruppo 2001"}
+{:acid 7455, :name "George Burns"}
+{:acid 231032, :name "Justin Wilson"}
+{:acid 257334, :name "Indexi"}
+{:acid 362409, :name "Three Man Army"}
+{:acid 228327, :name "Michael Garrick Septet"}
+{:acid 243364, :name "Eric Kloss"}
+{:acid 503627, :name "Ted Wesley"}
+{:acid 390803, :name "The Floating House Band"}
+{:acid 253243, :name "Steve Colt"}
+{:acid 120953, :name "Walter Franco"}
+{:acid 86240, :name "Fernand Gignac"}
+{:acid 732152, :name "Epsilon"}
+{:acid 276955, :name "YU Grupa"}
+{:acid 172220, :name "Merit Hemmingson"}
+{:acid 183190, :name "Paul Parrish"}
+{:acid 9713, :name "Alfred Newman"}
+{:acid 42510, :name "David Ruffin"}
+{:acid 150961, :name "The Baja Marimba Band"}
+{:acid 856521, :name "Alceu Valença & Geraldo Azevedo"}
+{:acid 452384, :name "Charles Tolliver"}
+{:acid 38892, :name "Zager & Evans"}
+{:acid 5198, :name "Stonewall Jackson"}
+{:acid 68658, :name "João Bosco"}
+{:acid 47972, :name "Juicy Lucy"}
+{:acid 6212, :name "Bert Jansch"}
+{:acid 8815, :name "Dexter Gordon"}
+{:acid 138767, :name "The Left Banke"}
+{:acid 409581, :name "Dr. Lonnie Smith"}
+{:acid 386616, :name "Kluster"}
+{:acid 22065, :name "Paul Desmond"}
+{:acid 150058, :name "Sharon Forrester"}
+{:acid 38092, :name "Big Brother & The Holding Company"}
+{:acid 99851, :name "Ruth Copeland"}
+{:acid 43496, :name "Emitt Rhodes"}
+{:acid 195742, :name "Mimi & Richard Fariña"}
+{:acid 628936, :name "Mrs. Mills"}
+{:acid 14408, :name "Leon Russell"}
+{:acid 966089, :name "Harbinger"}
+{:acid 335209, :name "Robbie Basho"}
+{:acid 970387, :name "Improved Sound Limited"}
+{:acid 378243, :name "Pan & Regaliz"}
+{:acid 162979, :name "Владимир Высоцкий"}
+{:acid 31453, :name "Burning Spear"}
+{:acid 34967, :name "Jean Ferrat"}
+{:acid 51780, :name "Nino Ferrer"}
+{:acid 151481, :name "Eddie \"Cleanhead\" Vinson"}
+{:acid 102630, :name "First Choice"}
+{:acid 14411, :name "T. Rex"}
+{:acid 56761, :name "Dave & Ansel Collins"}
+{:acid 21609, :name "Stephen Sondheim"}
+{:acid 314409, :name "Stack Waddy"}
+{:acid 815341, :name "Paul Kantner, Grace Slick & David Freiberg"}
+{:acid 433240, :name "Alan Caddy Orchestra & Singers"}
+{:acid 310940, :name "The Barrino Brothers"}
+{:acid 612905, :name "Under Milkwood"}
+{:acid 436742, :name "Lee Mason"}
+{:acid 651636, :name "The Third Power"}
+{:acid 121517, :name "Michał Urbaniak"}
+{:acid 30402, :name "Ann-Margret"}
+{:acid 763185, :name "A3"}
+{:acid 501693, :name "Cat"}
+{:acid 197660, :name "Larry Ellis & The Black Hammer"}
+{:acid 702084, :name "La Fantastica"}
+{:acid 310225, :name "Chet Ivey & His Fabulous Avengers"}
+{:acid 194454, :name "Meic Stevens"}
+{:acid 203707, :name "Black Merda"}
+{:acid 463885, :name "Blops"}
+{:acid 149853, :name "Henson Cargill"}
+{:acid 121672, :name "Paul Humphrey & His Cool Aid Chemists"}
+{:acid 688486, :name "赤い鳥"}
+{:acid 163117, :name "Lexia"}
+{:acid 124264, :name "Lyn Christopher"}
+{:acid 60229, :name "José Afonso"}
+{:acid 107304, :name "Ernie Agosto & Orchesta La Conspiración"}
+{:acid 84202, :name "The Gentrys"}
+{:acid 9709, :name "Jerry Jeff Walker"}
+{:acid 185156, :name "Les Sinners"}
+{:acid 380666, :name "Tony Ronald"}
+{:acid 559478, :name "The Keith Tippett Group"}
+{:acid 241497, :name "Dennis Walks"}
+{:acid 223873, :name "Mandy More"}
+{:acid 234047, :name "49th Parallel"}
+{:acid 413229, :name "Lolita"}
+{:acid 169920, :name "Finbar and Eddie Furey"}
+{:acid 12071, :name "Arthur Brown's Kingdom Come"}
+{:acid 168669, :name "Bang"}
+{:acid 260295, :name "Ticket"}
+{:acid 822936, :name "Marek Grechuta & Anawa"}
+{:acid 817432, :name "Liesbeth List & Ramses Shaffy"}
+{:acid 104807, :name "Ireen Sheer"}
+{:acid 110176, :name "David Ackles"}
+{:acid 826738, :name "Oscar Peterson & Milt Jackson"}
+{:acid 540091, :name "The Watts 103rd St Rhythm Band"}
+{:acid 33946, :name "Nelson Riddle"}
+{:acid 763045, :name "Listening"}
+{:acid 207755, :name "The Dave Pell Singers"}
+{:acid 51879, :name "The Uniques"}
+{:acid 23629, :name "Ahmad Jamal"}
+{:acid 420380, :name "Odyssey"}
+{:acid 621052, :name "The Ramblers"}
+{:acid 874373, :name "Stravinsky / Mussorgsky / Tchaikovsky"}
+{:acid 874992, :name "Dory Langdon & André Previn"}
+{:acid 16185, :name "Odyssey"}
+{:acid 312, :name "Chet Atkins"}
+{:acid 36824, :name "Lou Donaldson"}
+{:acid 932552, :name "Booker T. & The MG’s"}
+{:acid 3528, :name "Uriah Heep"}
+{:acid 12724, :name "The Main Ingredient"}
+{:acid 30515, :name "Blood, Sweat & Tears"}
+{:acid 5028, :name "Caravan"}
+{:acid 136579, :name "The Dingoes"}
+{:acid 33972, :name "Al Hirt"}
+{:acid 43606, :name "Pee Wee Crayton"}
+{:acid 48274, :name "Janis Ian"}
+{:acid 921508, :name "Sigmund Snopek III"}
+{:acid 37557, :name "Lester Flatt & Earl Scruggs"}
+{:acid 147312, :name "Dillard & Clark"}
+{:acid 77284, :name "The Jesters"}
+{:acid 11444, :name "Gustav Holst"}
+{:acid 944305, :name "Jean Cohen-Solal"}
+{:acid 489931, :name "Franck Pourcel and His Orchestra"}
+{:acid 10536, :name "Os Mutantes"}
+{:acid 23707, :name "Nationalteatern"}
+{:acid 16458, :name "J.J. Cale"}
+{:acid 2586, :name "Serge Gainsbourg"}
+{:acid 303, :name "The Beatles"}
+{:acid 1638, :name "Bonnie Raitt"}
+{:acid 23955, :name "Bill Haley & His Comets"}
+{:acid 34491, :name "Felix Mendelssohn"}
+{:acid 78067, :name "Copperpenny"}
+{:acid 538064, :name "Royal"}
+{:acid 38193, :name "Coven"}
+{:acid 167329, :name "Simon Finn"}
+{:acid 107904, :name "Michael White"}
+{:acid 807940, :name "Alvin Lee & Mylon LeFevre"}
+{:acid 146570, :name "Eire Apparent"}
+{:acid 173365, :name "The Sunday Manoa"}
+{:acid 204607, :name "Charles McPherson"}
+{:acid 137289, :name "Dorus"}
+{:acid 47974, :name "Hardin and York"}
+{:acid 222454, :name "Lori Lieberman"}
+{:acid 147558, :name "Melvin Sparks"}
+{:acid 484762, :name "Chris Harwood"}
+{:acid 140859, :name "Fate"}
+{:acid 11629, :name "A Foot In Coldwater"}
+{:acid 58684, :name "André Brasseur"}
+{:acid 387230, :name "David Lebón"}
+{:acid 476638, :name "Conny Vink"}
+{:acid 123175, :name "Pete Jolly"}
+{:acid 516305, :name "Cliff DeYoung"}
+{:acid 503242, :name "Nelson Angelo & Joyce"}
+{:acid 163263, :name "Osage Tribe"}
+{:acid 278760, :name "May Blitz"}
+{:acid 808800, :name "Blue Effect & Jazz Q Praha"}
+{:acid 373491, :name "Moris"}
+{:acid 819227, :name "Bengt Sändh & Finn Zetterholm"}
+{:acid 320376, :name "Ruth Davis"}
+{:acid 308128, :name "Bolle Jan"}
+{:acid 173964, :name "Tír na nÓg"}
+{:acid 428295, :name "Margaret C. Tyler"}
+{:acid 399579, :name "Jean-Pierre Savelli"}
+{:acid 21198, :name "Poco"}
+{:acid 6473, :name "Edison Lighthouse"}
+{:acid 796798, :name "Korni Grupa"}
+{:acid 123916, :name "The Stone Poneys"}
+{:acid 829811, :name "Les Baxter & 101 Strings Orchestra"}
+{:acid 34720, :name "Herb Alpert & The Tijuana Brass"}
+{:acid 163811, :name "José Mário Branco"}
+{:acid 878300, :name "Baden-Baden Free Jazz Orchestra"}
+{:acid 204041, :name "De Selvera's"}
+{:acid 37948, :name "Focus"}
+{:acid 104809, :name "Heino"}
+{:acid 296437, :name "Elmer Gantry's Velvet Opera"}
+{:acid 285353, :name "Dzeguzīte"}
+{:acid 886778, :name "Bill Le Sage & Tony Kinsey"}
+{:acid 59311, :name "Pink Fairies"}
+{:acid 64522, :name "Moondog"}
+{:acid 14793, :name "The Monkees"}
+{:acid 99366, :name "Letta Mbulu"}
+{:acid 1710, :name "Chuck Berry"}
+{:acid 95812, :name "Formula 3"}
+{:acid 890323, :name "Kazimierz Lux"}
+{:acid 124849, :name "The Undisputed Truth"}
+{:acid 49419, :name "Clifton Chenier"}
+{:acid 239408, :name "Cumulus"}
+{:acid 247503, :name "Denny Doherty"}
+{:acid 33354, :name "Atlanta Rhythm Section"}
+{:acid 109792, :name "Sunbirds"}
+{:acid 4372, :name "Nino Rota"}
+{:acid 63508, :name "Eero Koivistoinen Music Society"}
+{:acid 538876, :name "Ponemah Singers"}
+{:acid 779881, :name "Don Bradshaw-Leather"}
+{:acid 84060, :name "Quatermass"}
+{:acid 185450, :name "Tony"}
+{:acid 166571, :name "The Winstons"}
+{:acid 281370, :name "Peter Brötzmann Octet"}
+{:acid 257952, :name "Four Tak"}
+{:acid 317474, :name "Lucifer"}
+{:acid 284233, :name "Leslie Uggams"}
+{:acid 604602, :name "Jeff Simmons"}
+{:acid 37282, :name "Jim Nabors"}
+{:acid 482138, :name "Bobby Jackson"}
+{:acid 746468, :name "Perth County Conspiracy"}
+{:acid 792676, :name "Elastic Oz Band"}
+{:acid 76711, :name "Chakachas"}
+{:acid 400274, :name "Sage"}
+{:acid 94383, :name "Bobby Taylor & The Vancouvers"}
+{:acid 187016, :name "Geater Davis"}
+{:acid 745297, :name "Alice Brady & The Anpar Trio"}
+{:acid 199063, :name "The Classic Sullivans"}
+{:acid 373025, :name "Tripsichord Music Box"}
+{:acid 114393, :name "Raphy Leavitt y Orquesta La Selecta"}
+{:acid 723327, :name "Country Radio"}
+{:acid 800908, :name "Présence"}
+{:acid 139886, :name "Sweetwater"}
+{:acid 737911, :name "Stonehouse"}
+{:acid 38641, :name "Shusha"}
+{:acid 820198,
+ :name
+ "Nicky Hopkins, Ry Cooder, Mick Jagger, Bill Wyman & Charlie Watts"}
+{:acid 762741, :name "The Storybook Singers"}
+{:acid 553428, :name "Christine Perfect"}
+{:acid 16346, :name "Sweet Smoke"}
+{:acid 43393, :name "Dottie West"}
+{:acid 702068, :name "Chano Martinez Sextet"}
+{:acid 541802, :name "Junior's Eyes"}
+{:acid 236831, :name "Astor Piazzolla y su Quinteto"}
+{:acid 363733, :name "Barry Crocker"}
+{:acid 446574, :name "John Fahey & His Orchestra"}
+{:acid 317017, :name "Alvaro Amici"}
+{:acid 338664, :name "Tina Louise"}
+{:acid 151539, :name "Nico Gomez & His Afro Percussion Inc."}
+{:acid 114644, :name "Clarence Wheeler & The Enforcers"}
+{:acid 64742, :name "The Outsiders"}
+{:acid 120587, :name "Jo Ann Kelly"}
+{:acid 39382, :name "Wet Willie"}
+{:acid 199052, :name "The Peppers"}
+{:acid 162182, :name "Rene y Rene"}
+{:acid 820725, :name "Diana Ross & Marvin Gaye"}
+{:acid 298, :name "Bruce Cockburn"}
+{:acid 104231, :name "Birth Control"}
+{:acid 104819, :name "Roberto Blanco"}
+{:acid 34731, :name "Miguel Ríos"}
+{:acid 827365, :name "Derek Bailey & Dave Holland"}
+{:acid 75742, :name "Graham Nash"}
+{:acid 832101, :name "Vinícius de Moraes, Toquinho & Marília Medalha"}
+{:acid 66927, :name "Sly Stone"}
+{:acid 675605, :name "Michel Bühler"}
+{:acid 100648, :name "Livin' Blues"}
+{:acid 852356, :name "Heintje Simons"}
+{:acid 857246, :name "Hui Buh, das Schloßgespenst"}
+{:acid 4304, :name "Annie Ross"}
+{:acid 33319, :name "Boz Scaggs"}
+{:acid 8667, :name "Solomon Burke"}
+{:acid 6235, :name "John Stewart"}
+{:acid 40328, :name "Lulu"}
+{:acid 10099, :name "Big Star"}
+{:acid 593434, :name "Message"}
+{:acid 153502, :name "The Persuasions"}
+{:acid 56763, :name "The Jamaicans"}
+{:acid 956972, :name "Eduard Artemiev"}
+{:acid 60731, :name "Samla Mammas Manna"}
+{:acid 969833, :name "Ulrik Remy"}
+{:acid 159397, :name "Rusty York"}
+{:acid 57024, :name "Congreso"}
+{:acid 362871, :name "Δόμνα Σαμίου"}
+{:acid 57486, :name "Jan Johansson"}
+{:acid 6447, :name "Sam & Dave"}
+{:acid 229907, :name "Bridget St. John"}
+{:acid 48100, :name "Víctor Manuel"}
+{:acid 942432, :name "Entel-tentel"}
+{:acid 38301, :name "Crosby & Nash"}
+{:acid 35673, :name "Norman Greenbaum"}
+{:acid 54067, :name "Lluís Llach"}
+{:acid 50615, :name "Kinky Friedman"}
+{:acid 137325, :name "Jan Boezeroen"}
+{:acid 228335, :name "Neil Ardley"}
+{:acid 377994, :name "The Bonniwell Music Machine"}
+{:acid 457700, :name "Spirit of John Morgan"}
+{:acid 75417, :name "Paul Pena"}
+{:acid 52303, :name "The Buckinghams"}
+{:acid 502786, :name "Don Rickles"}
+{:acid 137946, :name "Hamilton Bohannon"}
+{:acid 469244, :name "Samson & Delilah"}
+{:acid 237858, :name "The New Colony Six"}
+{:acid 291511, :name "Sunforest"}
+{:acid 707921, :name "Utopia"}
+{:acid 52434, :name "James Cotton Blues Band"}
+{:acid 539116, :name "Madhouse"}
+{:acid 433794, :name "Alejandro Jodorowsky"}
+{:acid 652357, :name "The Fantoms"}
+{:acid 497512, :name "The Chitinous Ensemble"}
+{:acid 434786, :name "Syntonic Research, Inc."}
+{:acid 388190, :name "Detroit"}
+{:acid 115318, :name "Anne Briggs"}
+{:acid 305708, :name "Nat Stuckey"}
+{:acid 117720, :name "Dick Heckstall-Smith"}
+{:acid 114931, :name "24-Carat Black"}
+{:acid 151006, :name "Joe Callicott"}
+{:acid 649412, :name "Ardo Dombec"}
+{:acid 551241, :name "Parish Hall"}
+{:acid 50266, :name "Gene McDaniels"}
+{:acid 805793, :name "Barney Bigard and Art Hodes"}
+{:acid 170396, :name "山口百恵"}
+{:acid 148288, :name "Monomono"}
+{:acid 35022, :name "Earl Scruggs"}
+{:acid 10364, :name "Maceo Parker"}
+{:acid 32902, :name "Blue Cheer"}
+{:acid 833947, :name "Ravi Shankar & Ali Akbar Khan"}
+{:acid 43719, :name "Allen Toussaint"}
+{:acid 328727, :name "Katch 22"}
+{:acid 37735, :name "Scott Walker"}
+{:acid 12726, :name "Stealers Wheel"}
+{:acid 42591, :name "Lee Dorsey"}
+{:acid 60322, :name "André Heller"}
+{:acid 126829, :name "Geoff Love & His Orchestra"}
+{:acid 40140, :name "R. Dean Taylor"}
+{:acid 16296, :name "Illés"}
+{:acid 21355, :name "Harold Melvin & The Blue Notes"}
+{:acid 64108, :name "Johnny Adams"}
+{:acid 47752, :name "Adolphson & Falk"}
+{:acid 55762, :name "Be Bop Deluxe"}
+{:acid 30698, :name "Plainsong"}
+{:acid 122652, :name "The Living Voices"}
+{:acid 280355, :name "Johnny Smith"}
+{:acid 919858, :name "Mirkwood"}
+{:acid 162950, :name "Morton Stevens"}
+{:acid 38930, :name "León Gieco"}
+{:acid 4335, :name "Peggy Lee"}
+{:acid 37928, :name "The Marvelettes"}
+{:acid 841064, :name "Eric Weissberg & Marshall Brickman"}
+{:acid 3643, :name "Stan Kenton and His Orchestra"}
+{:acid 23375, :name "Eric Dolphy"}
+{:acid 10937, :name "Buddy Holly"}
+{:acid 14916, :name "Johnny Nash"}
+{:acid 123, :name "Cliff Richard"}
+{:acid 519, :name "Michael Jackson"}
+{:acid 490958, :name "Robin Scott"}
+{:acid 523306, :name "Dom"}
+{:acid 84917, :name "Greenslade"}
+{:acid 104725, :name "The Sensations"}
+{:acid 3716, :name "Moms Mabley"}
+{:acid 285188, :name "Biff Rose"}
+{:acid 633127, :name "Cosmic Travelers"}
+{:acid 652687, :name "Billy Larkin"}
+{:acid 112069, :name "Sue Thompson"}
+{:acid 340296, :name "Bow Street Runners"}
+{:acid 385232, :name "Jack Wilson"}
+{:acid 529275, :name "Bangor Flying Circus"}
+{:acid 316770, :name "The Walkers"}
+{:acid 363445, :name "Tony Pabón y La Protesta"}
+{:acid 55488, :name "Vainica Doble"}
+{:acid 482355, :name "Grus i dojjan"}
+{:acid 54019, :name "Albert Washington"}
+{:acid 353406, :name "Christiania Fusel & Blaagress"}
+{:acid 810768, :name "Schobert & Black & Ulrich Roski"}
+{:acid 15927, :name "Chilliwack"}
+{:acid 807350, :name "Irwin Goodman & Esa Pakarinen"}
+{:acid 369191, :name "Sugar Creek"}
+{:acid 136002, :name "Timothy McNealy"}
+{:acid 83663, :name "Patti Jo"}
+{:acid 768880, :name "Copains"}
+{:acid 697317, :name "Los Stop"}
+{:acid 352556, :name "Albert Brooks"}
+{:acid 709376, :name "Jackie and Bridie"}
+{:acid 137793, :name "Fifty Foot Hose"}
+{:acid 308434, :name "The Ghost"}
+{:acid 81491, :name "Quintessence"}
+{:acid 229075, :name "American Blues"}
+{:acid 444440, :name "Blue Effect"}
+{:acid 90260, :name "Crow"}
+{:acid 375810, :name "Mark James"}
+{:acid 324887, :name "3 Hürel"}
+{:acid 152799, :name "Orange Bicycle"}
+{:acid 344936, :name "Quicksand"}
+{:acid 725118, :name "The Hooterville Trolley"}
+{:acid 94127, :name "Erkin Koray"}
+{:acid 774289, :name "The Pink Mice"}
+{:acid 386854, :name "Charlie Palmieri"}
+{:acid 241492, :name "Audience"}
+{:acid 34079, :name "Hot Butter"}
+{:acid 825225, :name "David Houston & Barbara Mandrell"}
+{:acid 47131, :name "Larry Young"}
+{:acid 219719, :name "Αρλέτα"}
+{:acid 235, :name "Edgar Winter"}
+{:acid 683030, :name "Νοστράδαμος"}
+{:acid 228330, :name "Harold McNair"}
+{:acid 168262, :name "The West Coast Pop Art Experimental Band"}
+{:acid 853965, :name "The Sidetrack"}
+{:acid 479777, :name "The Camaros"}
+{:acid 858244, :name "Anne Murray & Glen Campbell"}
+{:acid 230752, :name "Ambros Seelos"}
+{:acid 21233, :name "Almendra"}
+{:acid 411439, :name "Charly Antolini's Power Dozen"}
+{:acid 21356, :name "Albert Hammond"}
+{:acid 868769, :name "Dom"}
+{:acid 225369, :name "George Bruns"}
+{:acid 11557, :name "The Turtles"}
+{:acid 937933, :name "Edwin Starr / R. Dean Taylor"}
+{:acid 2735, :name "ZZ Top"}
+{:acid 222703, :name "Floh de Cologne"}
+{:acid 142680, :name "Poll"}
+{:acid 335569, :name "Hanns Dieter Hüsch"}
+{:acid 14873, :name "Jean Knight"}
+{:acid 49763, :name "Josef Locke"}
+{:acid 33930, :name "Bert Kaempfert"}
+{:acid 40831, :name "Ann Peebles"}
+{:acid 63502, :name "The Three Sounds"}
+{:acid 969387, :name "Peter Noone & Herman's Hermits"}
+{:acid 7357, :name "Charles Earland"}
+{:acid 42996, :name "Eloy"}
+{:acid 79331, :name "Tadeusz Woźniak"}
+{:acid 7355, :name "Irene Reid"}
+{:acid 122489, :name "The Norman Luboff Choir"}
+{:acid 132742, :name "Tami Lynn"}
+{:acid 805353, :name "Buddy Guy & Junior Wells"}
+{:acid 30415, :name "Minnie Riperton"}
+{:acid 56749, :name "Vinícius de Moraes"}
+{:acid 87761, :name "Claude François"}
+{:acid 30359, :name "Mac Davis"}
+{:acid 44872, :name "Tomas Ledin"}
+{:acid 141162, :name "Manolo Escobar"}
+{:acid 38542, :name "Léo Delibes"}
+{:acid 3108, :name "Foghat"}
+{:acid 136287, :name "Peter Brötzmann"}
+{:acid 87060, :name "Guy Lombardo & His Royal Canadians"}
+{:acid 196210, :name "Foster Sylvers"}
+{:acid 157878, :name "Cahit Oben"}
+{:acid 270589, :name "Tudor Lodge"}
+{:acid 380311, :name "Orquesta Revolución '70"}
+{:acid 812758, :name "Jack McDuff & David \"Fathead\" Newman"}
+{:acid 524028, :name "Chicken Curry & His Pop Percussion Orchestra"}
+{:acid 321368, :name "The Organ Grinders"}
+{:acid 92566, :name "White Noise"}
+{:acid 817954, :name "Jan Vodňanský & Petr Skoumal"}
+{:acid 469190, :name "坂本スミ子"}
+{:acid 796277, :name "Yuya Uchida and the Flowers"}
+{:acid 188558, :name "Delirium"}
+{:acid 685535, :name "Δάμων & Φιντίας"}
+{:acid 179782, :name "Karl-Heinz Schäfer"}
+{:acid 118100, :name "Jimmy Caravan"}
+{:acid 38222, :name "Norman Blake"}
+{:acid 94407, :name "Hildegard Knef"}
+{:acid 537689, :name "Running Bear & Goldstein"}
+{:acid 77793, :name "Link Wray"}
+{:acid 108641, :name "Ernie Hines"}
+{:acid 605469, :name "Edison Electric Band"}
+{:acid 131533, :name "Rafi Val Y La Diferente"}
+{:acid 172527, :name "Harley Quinne"}
+{:acid 183187, :name "The Advancement"}
+{:acid 502992, :name "David Stoughton"}
+{:acid 66065, :name "Toni Tornado"}
+{:acid 541822, :name "O Grupo"}
+{:acid 190416, :name "Five By Five"}
+{:acid 814639, :name "Astor Piazzolla & Horacio Ferrer"}
+{:acid 166624, :name "Michèle Arnaud"}
+{:acid 244861, :name "The Plastic Cloud"}
+{:acid 30274, :name "David Axelrod"}
+{:acid 87656, :name "P.J. Proby"}
+{:acid 12683, :name "Thelma Houston"}
+{:acid 842428, :name "The New Don Ellis Band"}
+{:acid 5726, :name "Reuben Wilson"}
+{:acid 215409, :name "Burnin Red Ivanhoe"}
+{:acid 836340, :name "Dennis Yost & The Classics IV"}
+{:acid 24281, :name "Ruth Brown"}
+{:acid 782650, :name "Ping Pong"}
+{:acid 854761, :name "Πεταλούδα / Live"}
+{:acid 290717, :name "Διονύσης Σαββόπουλος"}
+{:acid 61875, :name "King Harvest"}
+{:acid 14389, :name "Sparks"}
+{:acid 389925, :name "Bobby Bryant"}
+{:acid 372702, :name "Eve"}
+{:acid 33318, :name "Jermaine Jackson"}
+{:acid 14284, :name "Joan Baez"}
+{:acid 131732, :name "Novos Baianos"}
+{:acid 969407, :name "Rescue Co. No. 1"}
+{:acid 74964, :name "Freddie Scott"}
+{:acid 31297, :name "Abbey Lincoln"}
+{:acid 48577, :name "LGT"}
+{:acid 17, :name "Bob Dylan"}
+{:acid 364067, :name "遠藤賢司"}
+{:acid 175123, :name "Triade"}
+{:acid 234721, :name "Wolf Biermann"}
+{:acid 610381, :name "Furry Lewis"}
+{:acid 278759, :name "Bob Downes"}
+{:acid 648919, :name "G.T. Moore"}
+{:acid 3369, :name "Eddie Harris"}
+{:acid 21320, :name "Albert King"}
+{:acid 948341, :name "Jimmy Swaggart's Christmas Strings"}
+{:acid 129099, :name "Danyel Gérard"}
+{:acid 107856, :name "Mel Brown"}
+{:acid 3450, :name "John Mayall & The Bluesbreakers"}
+{:acid 5305, :name "Gene Harris"}
+{:acid 5187, :name "John Holt"}
+{:acid 48922, :name "Fats Waller"}
+{:acid 815152,
+ :name
+ "Jan Garbarek & Bobo Stenson & Terje Rypdal & Arild Andersen & Jon Christensen"}
+{:acid 229018, :name "James Young"}
+{:acid 449235, :name "Road"}
+{:acid 449063, :name "Nesrin Sipahi"}
+{:acid 807385, :name "Backwards Sam Firk & Delta X"}
+{:acid 547634, :name "Mahogany Rush"}
+{:acid 38184, :name "The Raspberries"}
+{:acid 97858, :name "Rhinoceros"}
+{:acid 129086, :name "Calvin Keys"}
+{:acid 320507, :name "Reg Tilsley"}
+{:acid 510930, :name "Necronomicon"}
+{:acid 99616, :name "Kaleidoscope"}
+{:acid 492483, :name "Gerry & Paul & The Soul Emissaries"}
+{:acid 149875, :name "Michael Nesmith & The First National Band"}
+{:acid 565808, :name "Bobby and I"}
+{:acid 129500, :name "The World"}
+{:acid 186187, :name "Jan Howard"}
+{:acid 45443, :name "Robert Pete Williams"}
+{:acid 520775, :name "Blocco mentale"}
+{:acid 228282, :name "Kellee Patterson"}
+{:acid 158593, :name "November"}
+{:acid 70564, :name "National Lampoon"}
+{:acid 55166, :name "Don Stover"}
+{:acid 48232, :name "O.V. Wright"}
+{:acid 288573, :name "José Larralde"}
+{:acid 5895, :name "Roscoe Robinson"}
+{:acid 515315, :name "The Teri Nelson Group"}
+{:acid 51262, :name "Supersister"}
+{:acid 308699, :name "Kaleidoscope"}
+{:acid 343560, :name "Kaleidoscope"}
+{:acid 134992, :name "Justo Betancourt"}
+{:acid 713655, :name "Light of Darkness"}
+{:acid 411626, :name "Gilberto Cruz"}
+{:acid 309746, :name "Paul Kossoff"}
+{:acid 3725, :name "Dorothy Norwood"}
+{:acid 569430, :name "The Men of No Property"}
+{:acid 377855, :name "John Berberian and the Rock East Ensemble"}
+{:acid 24587, :name "1910 Fruitgum Company"}
+{:acid 825371, :name "Ian Matthews"}
+{:acid 67029, :name "Morton Subotnick"}
+{:acid 11058, :name "Crosby, Stills, Nash & Young"}
+{:acid 50597, :name "The Silvertones"}
+{:acid 4531, :name "Horst Jankowski"}
+{:acid 265043, :name "Nazz"}
+{:acid 821641, :name "Marvin Gaye & Tammi Terrell"}
+{:acid 16179, :name "Jackie Wilson"}
+{:acid 16161, :name "The Impressions"}
+{:acid 46194, :name "Millie Jackson"}
+{:acid 58934, :name "Dave Dee, Dozy, Beaky, Mick & Tich"}
+{:acid 14911, :name "Carole King"}
+{:acid 178596, :name "Wenche Myhre"}
+{:acid 84186, :name "Betty Wright"}
+{:acid 170229, :name "Out of Focus"}
+{:acid 903406, :name "Motke Dagan"}
+{:acid 23898, :name "The Isley Brothers"}
+{:acid 4948, :name "Guru Guru"}
+{:acid 37545, :name "Gaetano Donizetti"}
+{:acid 501949, :name "Schobert & Black"}
+{:acid 918, :name "Rush"}
+{:acid 4293, :name "Michel Legrand"}
+{:acid 310591, :name "Ocean"}
+{:acid 129, :name "Simon & Garfunkel"}
+{:acid 840202, :name "John Lennon & Yoko Ono"}
+{:acid 479087, :name "The Arrows"}
+{:acid 189933, :name "Jards Macalé"}
+{:acid 945218, :name "Dave Mason & Cass Elliot"}
+{:acid 160980, :name "Manuela"}
+{:acid 324693, :name "Λουκιανός Κηλαηδόνης"}
+{:acid 255179, :name "Carlos do Carmo"}
+{:acid 777, :name "Kool & The Gang"}
+{:acid 15689, :name "George Jones"}
+{:acid 2259, :name "King Crimson"}
+{:acid 647560, :name "Joan Capri"}
+{:acid 768046, :name "岡林信康"}
+{:acid 124401, :name "Back Door"}
+{:acid 81421, :name "Third Ear Band"}
+{:acid 120885, :name "Redeye"}
+{:acid 115877, :name "Dory Previn"}
+{:acid 206980, :name "Harvey Scales & The Seven Sounds"}
+{:acid 444657, :name "Charlies"}
+{:acid 93225, :name "Duncan Browne"}
+{:acid 507377, :name "Gandalf The Grey"}
+{:acid 187316, :name "Gen Rosso"}
+{:acid 691243, :name "Margaret"}
+{:acid 187380, :name "Min Bul"}
+{:acid 653868, :name "Brethren"}
+{:acid 260657, :name "Tea & Symphony"}
+{:acid 335726, :name "Roscoe Mitchell"}
+{:acid 465785, :name "Hard Stuff"}
+{:acid 171934, :name "Orange Peel"}
+{:acid 32706, :name "The Tony Williams Lifetime"}
+{:acid 244457, :name "The Galaxies"}
+{:acid 804953, :name "Ambrose Slade"}
+{:acid 697913, :name "Pipo Y La Superior"}
+{:acid 240210, :name "Centipede"}
+{:acid 35721, :name "Quilapayún"}
+{:acid 137343, :name "Bonnie St. Claire"}
+{:acid 621130, :name "Denny King"}
+{:acid 705131, :name "Voces Amigas"}
+{:acid 164146, :name "Roberto Pregadio"}
+{:acid 6656, :name "Nic Jones"}
+{:acid 279655, :name "The First Edition"}
+{:acid 121043, :name "Aguaturbia"}
+{:acid 816219, :name "Brigitte Bardot & Serge Gainsbourg"}
+{:acid 20131, :name "P.P. Arnold"}
+{:acid 106831, :name "I Roy"}
+{:acid 132011, :name "The Lebron Brothers"}
+{:acid 49774, :name "Jimmy McGriff"}
+{:acid 6458, :name "McCoy Tyner"}
+{:acid 85414, :name "Irwin Goodman"}
+{:acid 24142, :name "Terry Callier"}
+{:acid 150766, :name "Baby Grandmothers"}
+{:acid 82150, :name "Joe Hill Louis"}
+{:acid 103672, :name "Isaac Stern"}
+{:acid 61507, :name "The Amboy Dukes"}
+{:acid 874959, :name "Ástor Piazzolla & Egle Martin"}
+{:acid 8844, :name "Them"}
+{:acid 11816, :name "The Zombies"}
+{:acid 550005, :name "Bob & Marcia"}
+{:acid 54562, :name "Ananda Shankar"}
+{:acid 12313, :name "Gladys Knight & The Pips"}
+{:acid 501150, :name "Ingo Insterburg"}
+{:acid 20959, :name "Captain Beefheart & His Magic Band"}
+{:acid 10086, :name "John Barry"}
+{:acid 143829, :name "The Sisters Love"}
+{:acid 22921, :name "María Dolores Pradera"}
+{:acid 36327, :name "Baden Powell"}
+{:acid 808129, :name "Chick Corea & Gary Burton"}
+{:acid 192540, :name "Helena Vondráčková"}
+{:acid 43811, :name "Don Ellis"}
+{:acid 2046, :name "Anne Murray"}
+{:acid 39363, :name "Claudine Longet"}
+{:acid 177979, :name "Hugues Aufray"}
+{:acid 167759, :name "The Mystic Moods Orchestra"}
+{:acid 38460, :name "Shocking Blue"}
+{:acid 36337, :name "Della Reese"}
+{:acid 817223, :name "David Holland / Barre Phillips"}
+{:acid 77362, :name "Hotlegs"}
+{:acid 121583, :name "Charles Wright"}
+{:acid 805768, :name "Dalida & Alain Delon"}
+{:acid 139348, :name "Beggars Opera"}
+{:acid 300060, :name "Lawrence Reynolds"}
+{:acid 469516, :name "Tomaž Pengov"}
+{:acid 515629, :name "Methuselah"}
+{:acid 274027, :name "Stu Gardner"}
+{:acid 438355, :name "Stanley Cowell Trio"}
+{:acid 354042, :name "Memphis Black"}
+{:acid 809472, :name "Jerry Lee Lewis and Linda Gail Lewis"}
+{:acid 700372, :name "Joe Acosta"}
+{:acid 580029, :name "Los Ros"}
+{:acid 604599, :name "Wazoo"}
+{:acid 183189, :name "US69"}
+{:acid 218030, :name "The Girls From Bahia"}
+{:acid 595891, :name "Harry Tierney"}
+{:acid 128706, :name "Scrugg"}
+{:acid 193324, :name "Andwella's Dream"}
+{:acid 258755, :name "Lyd"}
+{:acid 605005, :name "L.D. Mitchell & The Amalgamated Taxi Cab Service"}
+{:acid 334463, :name "Lee Moses"}
+{:acid 759752, :name "Lutha"}
+{:acid 75440, :name "O.C. Smith"}
+{:acid 254094, :name "Debbie Dean"}
+{:acid 300519, :name "Maxayn"}
+{:acid 65595, :name "Tasavallan Presidentti"}
+{:acid 183084, :name "Quatrain"}
+{:acid 608636, :name "Kako Y Su Combo"}
+{:acid 48242, :name "Andrew Hill"}
+{:acid 529872, :name "Epitome"}
+{:acid 330976, :name "Stringtronics"}
+{:acid 372501, :name "Purple Image"}
+{:acid 166081, :name "Deke Leonard"}
+{:acid 65756, :name "The Savage Rose"}
+{:acid 42254, :name "The Jaggerz"}
+{:acid 443946, :name "Ebi"}
+{:acid 104408, :name "The O'kaysions"}
+{:acid 731526, :name "Kimberley Briggs"}
+{:acid 206426, :name "Sammy Davis Jr."}
+{:acid 83516, :name "The Sylvers"}
+{:acid 88953, :name "Johnny \"Guitar\" Watson"}
+{:acid 830206, :name "Gary Burton & Stéphane Grappelli"}
+{:acid 481572, :name "The Earl Scruggs Revue"}
+{:acid 89834, :name "Dr. Seuss"}
+{:acid 261935, :name "Dulcimer"}
+{:acid 229109, :name "Underground Sunshine"}
+{:acid 52119, :name "Czesław Niemen"}
+{:acid 173660, :name "Doug Carn"}
+{:acid 860307, :name "Camarón de la Isla y Paco de Lucía"}
+{:acid 9262, :name "Bette Midler"}
+{:acid 55805, :name "The Equals"}
+{:acid 12078, :name "Tony Joe White"}
+{:acid 158346, :name "Paul Motian"}
+{:acid 38087, :name "Eddy Raven"}
+{:acid 63046, :name "MFSB"}
+{:acid 12403, :name "Neil Young & Crazy Horse"}
+{:acid 615958, :name "Anawa"}
+{:acid 267451, :name "Nada"}
+{:acid 76518, :name "Harpers Bizarre"}
+{:acid 39150, :name "Eddy Arnold"}
+{:acid 812814, :name "Spooky Tooth with Pierre Henry"}
+{:acid 846032, :name "Caetano Veloso & Gilberto Gil"}
+{:acid 65726, :name "Tim Hardin"}
+{:acid 35678, :name "Tommy James & The Shondells"}
+{:acid 132425, :name "Guy Pedersen"}
+{:acid 57991, :name "101 Strings Orchestra"}
+{:acid 204166, :name "وردة"}
+{:acid 950255, :name "Povl Dissing & Burnin Red Ivanhoe"}
+{:acid 971292, :name "Drs. P."}
+{:acid 381176, :name "Joe Cuba Sextet"}
+{:acid 16172, :name "Dionne Warwick"}
+{:acid 59979, :name "Cilla Black"}
+{:acid 6442, :name "Robert Johnson"}
+{:acid 45971, :name "The Young Rascals"}
+{:acid 65860, :name "BZN"}
+{:acid 3098, :name "Derek and the Dominos"}
+{:acid 281194, :name "Mikael Ramel"}
+{:acid 121262, :name "The Vibrations"}
+{:acid 493335, :name "De Maaskanters"}
+{:acid 489434, :name "New Jazz Trio + Streichquintett"}
+{:acid 525027, :name "Harold Land Quintet"}
+{:acid 515306, :name "The Legionnaires"}
+{:acid 67293, :name "Alan Sorrenti"}
+{:acid 165030, :name "Maurice & Mac"}
+{:acid 151239, :name "Ceasar Frazier"}
+{:acid 647098, :name "Hedzoleh Soundz"}
+{:acid 456898, :name "Left Side"}
+{:acid 433104, :name "Winston Sinclair"}
+{:acid 46743, :name "Spanky & Our Gang"}
+{:acid 820078, :name "山下勉 & 佐藤允彦"}
+{:acid 517792, :name "J.C.W. Ratfinks"}
+{:acid 607511, :name "House Guest Rated X"}
+{:acid 42816, :name "Ill Wind"}
+{:acid 602473, :name "Growing Concern"}
+{:acid 121666, :name "Brighter Side of Darkness"}
+{:acid 157588, :name "Annette Snell"}
+{:acid 120954, :name "Geraldo Vandré"}
+{:acid 589047, :name "Jerusalem"}
+{:acid 175117, :name "Little Royal"}
+{:acid 446818, :name "Sidney Pinchback & Schiller Street Gang"}
+{:acid 236666, :name "Séverine"}
+{:acid 438050, :name "Dežo Ursiny"}
+{:acid 792026,
+ :name "The San Francisco Conservatory New Music Ensemble"}
+{:acid 402020, :name "Edward's Hand"}
+{:acid 142665, :name "Bossa Rio"}
+{:acid 227190, :name "Módulo 1000"}
+{:acid 221464, :name "The Animated Egg"}
+{:acid 654193, :name "The Simon Kenyatta Troupe"}
+{:acid 48650, :name "Wigwam"}
+{:acid 90933, :name "Miel Cools"}
+{:acid 230153, :name "Pussy"}
+{:acid 46650, :name "Desmond Dekker & The Aces"}
+{:acid 826263, :name "Confusions / Dinosaurs"}
+{:acid 228854, :name "Flamenco"}
+{:acid 869192, :name "Mighty Sparrow & Byron Lee & The Dragonaires"}
+{:acid 210826, :name "Frankie Valli"}
+{:acid 45874, :name "Ohio Express"}
+{:acid 104397, :name "The Soul Children"}
+{:acid 240153, :name "Nico"}
+{:acid 344488, :name "The Jimi Hendrix Experience"}
+{:acid 160716, :name "Breakout"}
+{:acid 969456, :name "Aztecs"}
+{:acid 102647, :name "Bruce Haack"}
+{:acid 80223, :name "Chavela Vargas"}
+{:acid 1494, :name "Harry Chapin"}
+{:acid 356668, :name "Jimmie Rodgers"}
+{:acid 58822, :name "Mavis Staples"}
+{:acid 37730, :name "Γιώργος Νταλάρας"}
+{:acid 11540, :name "The Who"}
+{:acid 5196, :name "The Drifters"}
+{:acid 64853, :name "Peps Persson"}
+{:acid 41284, :name "Billy Connolly"}
+{:acid 32116, :name "Sun Ra"}
+{:acid 129190, :name "Marva Whitney"}
+{:acid 5604, :name "The Mixtures"}
+{:acid 514164, :name "Nino e Seu Trio Paranoá"}
+{:acid 314009, :name "Les Maledictus Sound"}
+{:acid 816451, :name "Isaac Hayes & David Porter"}
+{:acid 44914, :name "Classics IV"}
+{:acid 165388, :name "The Elvin Bishop Band"}
+{:acid 184846, :name "Hawk"}
+{:acid 536143, :name "Udo Lindenberg & Das Panikorchester"}
+{:acid 348007, :name "Gianfranco Plenizio"}
+{:acid 483954, :name "Oscar Benton Blues Band"}
+{:acid 229100, :name "The Hardtimes"}
+{:acid 320419, :name "The Phoenix Authority"}
+{:acid 287631, :name "Kossoff / Kirke / Tetsu / Rabbit"}
+{:acid 632910, :name "Clover"}
+{:acid 518171, :name "Sandra Haas"}
+{:acid 703214, :name "Willie Rodriguez And His Orchestra"}
+{:acid 165028, :name "Wayne Cochran"}
+{:acid 372567, :name "Derrick Harriott & The Crystalites"}
+{:acid 132010, :name "Monguito Santamaria"}
+{:acid 32564, :name "Michael Kamen"}
+{:acid 209192, :name "Arthur, Hurley & Gottlieb"}
+{:acid 42568, :name "The Paris Sisters"}
+{:acid 72123, :name "Friend & Lover"}
+{:acid 132739, :name "The Fantastic Johnny C"}
+{:acid 290448, :name "King Hannibal"}
+{:acid 128718, :name "Trader Horne"}
+{:acid 484934, :name "Reale Accademia di Musica"}
+{:acid 143107, :name "Roberto Roena y Su Apollo Sound"}
+{:acid 507653, :name "Toti Soler"}
+{:acid 160026, :name "Epitaph"}
+{:acid 156556, :name "Dr. Strangely Strange"}
+{:acid 234502, :name "The Peanut Butter Conspiracy"}
+{:acid 634968, :name "Boomerang"}
+{:acid 61496, :name "The Lollipop Shoppe"}
+{:acid 80854, :name "Just Brothers"}
+{:acid 841351, :name "Baby Whale"}
+{:acid 74927, :name "Ulrich Roski"}
+{:acid 30358, :name "Danny O'Keefe"}
+{:acid 23319, :name "Maureen McGovern"}
+{:acid 856203, :name "Stu Nunnery"}
+{:acid 149213, :name "Rahul Dev Burman"}
+{:acid 112070, :name "The Beau Brummels"}
+{:acid 206971, :name "Darondo"}
+{:acid 80407, :name "The Emotions"}
+{:acid 104395, :name "Frederick Knight"}
+{:acid 131, :name "Styx"}
+{:acid 11749, :name "Boby Lapointe"}
+{:acid 806343,
+ :name
+ "Δημήτρης Μητροπάνος, Γιώργος Κατσαρός, Ηλίας Λυμπερόπουλος & Χριστιάνα"}
+{:acid 219760, :name "Γιάννης Πάριος"}
+{:acid 12712, :name "John Hartford"}
+{:acid 41828, :name "Buddy Miles"}
+{:acid 21043, :name "Jimmy Smith"}
+{:acid 702956, :name "Warm Dust"}
+{:acid 24583, :name "Gene Clark"}
+{:acid 244660, :name "Volker Kriegel"}
+{:acid 69442, :name "Piero Piccioni"}
+{:acid 22839, :name "Jan Garbarek"}
+{:acid 10938, :name "The Mamas & the Papas"}
+{:acid 944809, :name "Varna Folk Ensemble"}
+{:acid 35358, :name "Wolfgang Ambros"}
+{:acid 97857, :name "כוורת"}
+{:acid 131333, :name "Eric Burdon & War"}
+{:acid 910, :name "ABBA"}
+{:acid 1699, :name "Steppenwolf"}
+{:acid 33855, :name "Mahalia Jackson"}
+{:acid 49611, :name "Roy Black"}
+{:acid 172476, :name "Peret"}
+{:acid 164611, :name "The Politicians"}
+{:acid 630259, :name "Furekaaben"}
+{:acid 80686, :name "Act 1"}
+{:acid 109256, :name "Ray Martin and His Orchestra"}
+{:acid 199455, :name "Capability Brown"}
+{:acid 150510, :name "Jan Hammarlund"}
+{:acid 446345, :name "George Melachrino"}
+{:acid 50157, :name "Rusty Bryant"}
+{:acid 542607, :name "Inner City Mission"}
+{:acid 120995, :name "Benny Hill"}
+{:acid 30321, :name "Spiral Starecase"}
+{:acid 978820, :name "Luke Gibson"}
+{:acid 527371, :name "The Helpful Soul"}
+{:acid 112301, :name "Plume Latraverse"}
+{:acid 197368, :name "Amparo Ochoa"}
+{:acid 679055, :name "Catherine Ribeiro + 2 Bis"}
+{:acid 445990, :name "Zakarrias"}
+{:acid 89930, :name "Gerald Wilson"}
+{:acid 214578, :name "Jerry O"}
+{:acid 691422, :name "Enno Velthuys"}
+{:acid 697664, :name "The Fifth"}
+{:acid 691247, :name "大原麗子"}
+{:acid 94937, :name "The Casuals"}
+{:acid 811673, :name "Tony Sheridan & The Beatles"}
+{:acid 88584, :name "The Dave Pike Set"}
+{:acid 137697, :name "Lesley Duncan"}
+{:acid 288181, :name "Little Boy Blues"}
+{:acid 41847, :name "Julie Driscoll, Brian Auger & The Trinity"}
+{:acid 64925, :name "Lenny Williams"}
+{:acid 818202, :name "Al Hirt & Ace Cannon"}
+{:acid 175116, :name "Bull and the Matadors"}
+{:acid 144284, :name "The John Cameron Quartet"}
+{:acid 130381, :name "Ingmar Nordströms"}
+{:acid 241909, :name "Freedom Singers"}
+{:acid 389508, :name "Triode"}
+{:acid 167391, :name "Toad"}
+{:acid 211188, :name "أم كلثوم"}
+{:acid 137293, :name "Johnny Hoes"}
+{:acid 145050, :name "Anthony Moore"}
+{:acid 7491, :name "Hot Tuna"}
+{:acid 670797, :name "Γιάννης Σπανός"}
+{:acid 49776, :name "Townes Van Zandt"}
+{:acid 21652, :name "Redbone"}
+{:acid 11628, :name "Spirit"}
+{:acid 70452, :name "The Bonzo Dog Band"}
+{:acid 127491, :name "Insterburg & Co."}
+{:acid 42415, :name "Bloodstone"}
+{:acid 70004, :name "Rob de Nijs"}
+{:acid 38924, :name "Barclay James Harvest"}
+{:acid 5381, :name "\"Brother\" Jack McDuff"}
+{:acid 227694, :name "Μαρινέλλα"}
+{:acid 294784, :name "Frank Gartner"}
+{:acid 38499, :name "The Moments"}
+{:acid 15963, :name "Sandie Shaw"}
+{:acid 421709, :name "Pinky & Perky"}
+{:acid 58678, :name "The Easybeats"}
+{:acid 1198, :name "William Shatner"}
+{:acid 9272, :name "Bob Seger"}
+{:acid 45442, :name "Mississippi Fred McDowell"}
+{:acid 79495, :name "The Clovers"}
+{:acid 61963, :name "Merry Clayton"}
+{:acid 47169, :name "Pooh"}
+{:acid 12725, :name "Billy Paul"}
+{:acid 941371, :name "Thabata"}
+{:acid 164630, :name "Rogier van Otterloo"}
+{:acid 42561, :name "New Trolls"}
+{:acid 182065, :name "Pierre-Alain Dahan"}
+{:acid 35366, :name "George Baker Selection"}
+{:acid 21661, :name "Christie"}
+{:acid 956, :name "David Bowie"}
+{:acid 33725, :name "Сергей Васильевич Рахманинов"}
+{:acid 59687, :name "Boudewijn de Groot"}
+{:acid 16162, :name "Brook Benton"}
+{:acid 322908, :name "Liquid Smoke"}
+{:acid 287375, :name "Johnny Thunder"}
+{:acid 727726, :name "Alpha Beta"}
+{:acid 149119, :name "Joe Hicks"}
+{:acid 725979, :name "Frankie Dymon Jr"}
+{:acid 211243, :name "Al Escobar & his Orchestra"}
+{:acid 395334, :name "Culpeper's Orchard"}
+{:acid 724807, :name "Edith H. Tarcov"}
+{:acid 562932, :name "Sonic Arts Union"}
+{:acid 538821, :name "Nuova idea"}
+{:acid 268919, :name "Coulson, Dean, McGuiness, Flint"}
+{:acid 52532, :name "Jimmie Spheeris"}
+{:acid 180767, :name "The Loading Zone"}
+{:acid 38496, :name "100 Proof (Aged in Soul)"}
+{:acid 183390, :name "Society's Bag"}
+{:acid 172276, :name "Clive Dunn"}
+{:acid 326858, :name "Melvin Bliss"}
+{:acid 424822, :name "The Avengers"}
+{:acid 216653, :name "Jeannie Lewis"}
+{:acid 4218, :name "Cold Blood"}
+{:acid 115249, :name "Rufus Harley"}
+{:acid 403308, :name "Thundermug"}
+{:acid 429287, :name "Fishbaugh, Fishbaugh & Zorn"}
+{:acid 776679, :name "Time"}
+{:acid 115163, :name "Black Ivory"}
+{:acid 747875, :name "Herb Wonder"}
+{:acid 220404, :name "Marie \"Queenie\" Lyons"}
+{:acid 179315, :name "Jimmy Roselli"}
+{:acid 525797, :name "The Churls"}
+{:acid 360336, :name "Fairfield Parlour"}
+{:acid 610722, :name "Rabbits & Carrots"}
+{:acid 7378, :name "J.J. Malone"}
+{:acid 205483, :name "Hampton Grease Band"}
+{:acid 489474, :name "Rudy van Dalm"}
+{:acid 601543, :name "Los Albas"}
+{:acid 248828, :name "The Wailers"}
+{:acid 503003, :name "Goodthunder"}
+{:acid 192989, :name "Trio Mocotó"}
+{:acid 46407, :name "Hugo Montenegro"}
+{:acid 179784, :name "Michel Magne"}
+{:acid 189290, :name "Brian Auger & The Trinity"}
+{:acid 307766, :name "ZAO"}
+{:acid 867397, :name "Asakawa Maki"}
+{:acid 48536, :name "Bobbie Gentry"}
+{:acid 54064, :name "Raimonds Pauls"}
+{:acid 83097, :name "Billy Stewart"}
+{:acid 103972, :name "Udo Jürgens"}
+{:acid 2325, :name "Jimmy Buffett"}
+{:acid 267240, :name "Julian's Treatment"}
+{:acid 1757, :name "The Doors"}
+{:acid 966753, :name "Samuel Saulus"}
+{:acid 308673, :name "McChurch Soundroom"}
+{:acid 83855, :name "Eyes of Blue"}
+{:acid 318000, :name "Alvin Robinson"}
+{:acid 282183, :name "Mogul Thrash"}
+{:acid 922149, :name "השלושרים"}
+{:acid 179785, :name "André Arpino"}
+{:acid 24503, :name "Percy Faith"}
+{:acid 136940, :name "はっぴいえんど"}
+{:acid 32737, :name "Andy Williams"}
+{:acid 214611, :name "Manassas"}
+{:acid 42420, :name "The Pipkins"}
+{:acid 582262, :name "The Pop-Corn Makers"}
+{:acid 2709, :name "Todd Rundgren"}
+{:acid 8852, :name "Ray Price"}
+{:acid 32799, :name "Nancy Wilson"}
+{:acid 24533, :name "The Fugs"}
+{:acid 331, :name "Acker Bilk"}
+{:acid 181579, :name "Los Machucambos"}
+{:acid 975497, :name "Λουκιανός Κηλαηδόνης & Κωστούλα Μητροπούλου"}
+{:acid 41238, :name "Michael Holliday"}
+{:acid 169160, :name "Santana"}
+{:acid 111875, :name "Earth and Fire"}
+{:acid 23412, :name "Thelonious Monk"}
+{:acid 438557, :name "Norman Candler"}
+{:acid 75458, :name "Hootenanny Singers"}
+{:acid 100768, :name "King Curtis & The Kingpins"}
+{:acid 382742, :name "Fausto Amodei"}
+{:acid 197616, :name "Jan Garbarek - Bobo Stenson Quartet"}
+{:acid 15936, :name "Motherlode"}
+{:acid 34667, :name "Allan Taylor"}
+{:acid 412363, :name "Backwards Sam Firk"}
+{:acid 396186, :name "Pell Mell"}
+{:acid 142104, :name "Ruby Murray"}
+{:acid 339049, :name "Tempest"}
+{:acid 356478, :name "Mushroom"}
+{:acid 346899, :name "ザ・フォーク・クルセダーズ"}
+{:acid 156860, :name "Julie Felix"}
+{:acid 751927, :name "String Cheese"}
+{:acid 104612, :name "The Precisions"}
+{:acid 470763, :name "Demian"}
+{:acid 252321, :name "Lazy Smoke"}
+{:acid 814759, :name "Cem Karaca & Apaşlar"}
+{:acid 402143, :name "Chuck Bridges & The L.A. Happening"}
+{:acid 47564, :name "The Imperials"}
+{:acid 711934, :name "The Mighty Brown Brothers"}
+{:acid 713644, :name "Little Free Rock"}
+{:acid 354229, :name "Mahjun"}
+{:acid 37958, :name "The Vogues"}
+{:acid 323883, :name "Spice"}
+{:acid 63431, :name "Kjell Höglund"}
+{:acid 52534, :name "Jody Grind"}
+{:acid 51922, :name "Alice Coltrane"}
+{:acid 596807, :name "Toon & Herman"}
+{:acid 546238, :name "Topsy Küppers und Georg Kreisler"}
+{:acid 251827, :name "Janko Nilovic"}
+{:acid 813548, :name "Lee Hazlewood & Ann-Margret"}
+{:acid 81818, :name "International Harvester"}
+{:acid 449945, :name "Sod"}
+{:acid 618260, :name "Peter Kelley"}
+{:acid 195899, :name "The Golden Toadstools"}
+{:acid 560931, :name "Chaparall Electric Sound Inc"}
+{:acid 123807, :name "Joe Bataan"}
+{:acid 9045, :name "Paul Williams"}
+{:acid 294078, :name "Fritz Widmer"}
+{:acid 21313, :name "The Intruders"}
+{:acid 557228, :name "Ellis Kaut"}
+{:acid 540498, :name "The Keith Mansfield Orchestra"}
+{:acid 114765, :name "Dennis Coffey"}
+{:acid 104634, :name "Bettye Swann"}
+{:acid 111325, :name "Black Nasty"}
+{:acid 3557, :name "Dave Edmunds"}
+{:acid 2829, :name "Sister Sledge"}
+{:acid 35976, :name "Martha and The Vandellas"}
+{:acid 33120, :name "Peter, Paul & Mary"}
+{:acid 20198, :name "Love"}
+{:acid 22227, :name "Gilbert O'Sullivan"}
+{:acid 71443, :name "Sir Joe Quarterman & Free Soul"}
+{:acid 921241, :name "Carl Perkins and NRBQ"}
+{:acid 260073, :name "Jeanette"}
+{:acid 16347, :name "Frumpy"}
+{:acid 1735, :name "Bad Company"}
+{:acid 12772, :name "The Spinners"}
+{:acid 67014, :name "Bruce Ruffin"}
+{:acid 105188, :name "Jimmie Haskell"}
+{:acid 6453, :name "Johnny Winter"}
+{:acid 1156, :name "Wes Montgomery"}
+{:acid 30692, :name "Don Cherry"}
+{:acid 813472, :name "Jim Jacobs & Warren Casey"}
+{:acid 974135, :name "P.A. Dahan & M. Camison"}
+{:acid 90065, :name "Esther Ofarim"}
+{:acid 1121, :name "John Denver"}
+{:acid 3418, :name "Fats Domino"}
+{:acid 431, :name "The Kinks"}
+{:acid 12779, :name "Bill Withers"}
+{:acid 42226, :name "Middle of the Road"}
+{:acid 151922, :name "Sutherland Brothers"}
+{:acid 609857, :name "The Spinners"}
+{:acid 76714, :name "The New Birth"}
+{:acid 362869, :name "Μαρίζα Κωχ"}
+{:acid 651018, :name "Nu-Sound Express, Ltd."}
+{:acid 53020, :name "White Witch"}
+{:acid 621605, :name "Mother Earth"}
+{:acid 38186, :name "Jonathan Edwards"}
+{:acid 645064, :name "Tuig"}
+{:acid 812456, :name "Joni Mitchell & James Taylor"}
+{:acid 794443, :name "Ian Carr with Nucleus"}
+{:acid 488996, :name "Captain Beefheart"}
+{:acid 175171, :name "The TnT Boys"}
+{:acid 230748, :name "Gordon Staples & The String Thing"}
+{:acid 676498, :name "Lars Åke Lundberg och barn från Vendelsö kyrka"}
+{:acid 172179, :name "Juice Leskinen & Coitus Int"}
+{:acid 637225, :name "Z"}
+{:acid 386685, :name "Graham Bond"}
+{:acid 76249, :name "Al Anderson"}
+{:acid 534616, :name "Alzo Fronte"}
+{:acid 57459, :name "Smile"}
+{:acid 214587, :name "The Whatnauts"}
+{:acid 295158, :name "Sá, Rodrix e Guarabyra"}
+{:acid 141958, :name "Krzysztof Komeda"}
+{:acid 96210, :name "KOM-teatteri"}
+{:acid 511480, :name "Hüsnü Özkartal Orkestrasi"}
+{:acid 577323, :name "Bon Scott With Fraternity"}
+{:acid 724678, :name "The Road Home"}
+{:acid 114058, :name "Martin Mull"}
+{:acid 375826, :name "Suni McGrath"}
+{:acid 478716, :name "Acid"}
+{:acid 243823, :name "Anders F Rönnblom"}
+{:acid 616080, :name "El Rey Carlos Y Su Corte"}
+{:acid 268043, :name "Lenni Sesar"}
+{:acid 184817, :name "Sergio Endrigo"}
+{:acid 464800, :name "Edgar Winter's White Trash"}
+{:acid 566564, :name "Blue Phantom"}
+{:acid 640088, :name "Chico Magnetic Band"}
+{:acid 372161, :name "Granicus"}
+{:acid 579624, :name "Valverde Brothers"}
+{:acid 130772, :name "Georges Garvarentz"}
+{:acid 325496, :name "Soul Flutes"}
+{:acid 784600, :name "The Children of Sunshine"}
+{:acid 318557, :name "Crowbar"}
+{:acid 33676, :name "Peter Sarstedt"}
+{:acid 883365,
+ :name "Roberto Goyeneche, Ernesto Baffa & Osvaldo Berlingeri"}
+{:acid 60088, :name "Tim Maia"}
+{:acid 837894, :name "Canarios"}
+{:acid 302224, :name "Fields"}
+{:acid 814483, :name "Mike Bloomfield, Al Kooper & Stephen Stills"}
+{:acid 458053, :name "Armando Trovajoli"}
+{:acid 953156, :name "Tiger B. Smith"}
+{:acid 50505, :name "The Sons Of Champlin"}
+{:acid 212305, :name "Dan the Banjo Man"}
+{:acid 163061, :name "Johnny O'Keefe"}
+{:acid 94525, :name "Louis Armstrong & His All-Stars"}
+{:acid 31805, :name "Quincy Jones and His Orchestra"}
+{:acid 985761, :name "Milionário & Jose Rico"}
+{:acid 32679, :name "Georges Moustaki"}
+{:acid 813599, :name "Porter Wagoner & Dolly Parton"}
+{:acid 47784, :name "J.D. Souther"}
+{:acid 47632, :name "Claudio Baglioni"}
+{:acid 47971, :name "David McWilliams"}
+{:acid 102416, :name "Passport"}
+{:acid 105813, :name "Buffy Sainte-Marie"}
+{:acid 16218, :name "Cannonball Adderley"}
+{:acid 603796, :name "Eric Weissberg & Deliverance"}
+{:acid 156959, :name "Bernard Lubat"}
+{:acid 53979, :name "Willie Colón"}
+{:acid 232732, :name "Bob Marley & The Wailers"}
+{:acid 30425, :name "Hues Corporation"}
+{:acid 122431, :name "Ferrante and Teicher"}
+{:acid 2550, :name "Ravi Shankar"}
+{:acid 590572, :name "Amish"}
+{:acid 811670, :name "Roy Black und Anita"}
+{:acid 378073, :name "Morgans"}
+{:acid 725997, :name "Drum Circus"}
+{:acid 63618, :name "Jerry Vale"}
+{:acid 35230, :name "Exuma"}
+{:acid 283460, :name "The Goodees"}
+{:acid 797886, :name "Pete Dello and Friends"}
+{:acid 109621, :name "The Giants of Jazz"}
+{:acid 51315, :name "Hurriganes"}
+{:acid 551882, :name "Jaime Brockett"}
+{:acid 180254, :name "Tobi Legend"}
+{:acid 58721, :name "Sammi Smith"}
+{:acid 453379, :name "Dashiell Hedayat"}
+{:acid 92488, :name "Sisters and Brothers"}
+{:acid 185578, :name "Lothar & The Hand People"}
+{:acid 950970,
+ :name "Elizeth Cardoso, Zimbo Trio, Jacob do Bandolim e Época de Ouro"}
+{:acid 194786, :name "The Wooden Glass"}
+{:acid 107312, :name "Impacto Crea"}
+{:acid 152352, :name "Ryan's Fancy"}
+{:acid 7014, :name "Seán Ó Riada"}
+{:acid 173285, :name "Bidu Sayão"}
+{:acid 726000, :name "Electric Mud"}
+{:acid 182071, :name "Eden Rose"}
+{:acid 810591, :name "Jacques Higelin & Areski Belkacem"}
+{:acid 338623, :name "Orchestra Harlow"}
+{:acid 393898, :name "The Checkmates, Ltd."}
+{:acid 461294, :name "川原正美とエキゾティック・サウンズ"}
+{:acid 815702, :name "Ismael Rivera con Kako y su Orquesta"}
+{:acid 280435, :name "Al Cook"}
+{:acid 701995, :name "Claudi Marti"}
+{:acid 31874, :name "Richard Pryor"}
+{:acid 104458, :name "Johnny Ace"}
+{:acid 31027, :name "Steve Harley & Cockney Rebel"}
+{:acid 511829, :name "Freedom"}
+{:acid 15245, :name "David Essex"}
+{:acid 144847, :name "Pekka Pohjola"}
+{:acid 21665, :name "Wadsworth Mansion"}
+{:acid 16152, :name "Roger Daltrey"}
+{:acid 676341, :name "Γιώργος Ζαμπέτας"}
+{:acid 72030, :name "The Peddlers"}
+{:acid 844717, :name "Friedhof"}
+{:acid 824507, :name "Archie Fisher & Barbara Dickson"}
+{:acid 63598, :name "Morgana King"}
+{:acid 41239, :name "Keith Mansfield"}
+{:acid 853759, :name "The Pioneers / The Creators"}
+{:acid 9783, :name "Magma"}
+{:acid 869988, :name "Ria Hendrikx"}
+{:acid 771563, :name "The Melachrino Strings"}
+{:acid 24057, :name "The Rascals"}
+{:acid 101940, :name "The Pretty Things"}
+{:acid 2257, :name "Jethro Tull"}
+{:acid 46257, :name "Chicken Shack"}
+{:acid 14904, :name "Bill Nelson"}
+{:acid 4528, :name "Bruno Nicolai"}
+{:acid 163351, :name "Martin Carthy & Dave Swarbrick"}
+{:acid 963521, :name "Ludwig van Beethoven; Guarneri Quartet"}
+{:acid 6081, :name "Kris Kristofferson"}
+{:acid 3753, :name "Magic Sam"}
+{:acid 3250, :name "Keith Jarrett"}
+{:acid 6080, :name "Waylon Jennings"}
+{:acid 218320, :name "Uno Loop"}
+{:acid 320511, :name "Raymond Guiot"}
+{:acid 39033, :name "Edu Lobo"}
+{:acid 96432, :name "Incredible Bongo Band"}
+{:acid 136695, :name "Pearls Before Swine"}
+{:acid 407, :name "Kraftwerk"}
+{:acid 649411, :name "Asgærd"}
+{:acid 37546, :name "Jacques Offenbach"}
+{:acid 38093, :name "The Yardbirds"}
+{:acid 540215, :name "Wojciech Młynarski"}
+{:acid 117921, :name "Carmen"}
+{:acid 348430, :name "Karen Beth"}
+{:acid 10034, :name "Looking Glass"}
+{:acid 38262, :name "The Ides of March"}
+{:acid 50437, :name "Neil Innes"}
+{:acid 596358, :name "The Eliminators"}
+{:acid 76430, :name "Lord Creator"}
+{:acid 104859, :name "Gershon Kingsley"}
+{:acid 157880, :name "Kaygısızlar"}
+{:acid 203840, :name "Gert & Hermien"}
+{:acid 711937, :name "Emmett Anderson"}
+{:acid 342753, :name "Rogério Duprat"}
+{:acid 3302, :name "Ginger Baker"}
+{:acid 114229, :name "Burundi Black"}
+{:acid 12151, :name "Kevin Coyne"}
+{:acid 199301, :name "Mario Tessuto"}
+{:acid 328724, :name "GRIMMS"}
+{:acid 731626, :name "Hasse Roséns orkester"}
+{:acid 305971, :name "Gene Russell"}
+{:acid 467933, :name "Al Carmines"}
+{:acid 640777, :name "Chris Barber & His Band"}
+{:acid 300975, :name "The Yetties"}
+{:acid 523691, :name "Pendulum"}
+{:acid 213607, :name "Leaf Hound"}
+{:acid 574609, :name "Ruth White"}
+{:acid 170004, :name "Raw Material"}
+{:acid 121685, :name "Jimmy Castor"}
+{:acid 233032, :name "The Travel Agency"}
+{:acid 339754, :name "Som Imaginário"}
+{:acid 272304, :name "Mauricio Kagel"}
+{:acid 131084, :name "The Sallyangie"}
+{:acid 31493, :name "Little Milton"}
+{:acid 840188, :name "В. Ливанов и Ю. Энтин"}
+{:acid 552343, :name "Ernan Roch & Las Voces Frescas"}
+{:acid 21122, :name "Tom Zé"}
+{:acid 94036, :name "Brigitte Bardot"}
+{:acid 824461, :name "Le Quatuor de Jazz Libre du Quebec"}
+{:acid 42004, :name "Oregon"}
+{:acid 850629, :name "Doug Snyder & Bob Thompson"}
+{:acid 853845, :name "Γιάννης Πάριος / Χάρις Αλεξίου"}
+{:acid 45764, :name "Jack Bruce"}
+{:acid 23635, :name "Blind Faith"}
+{:acid 49553, :name "The Dynamics"}
+{:acid 36555, :name "Moby Grape"}
+{:acid 32942, :name "Roberta Flack"}
+{:acid 22028, :name "Horace Silver"}
+{:acid 36371, :name "Roger McGuinn"}
+{:acid 9315, :name "Johnny Rivers"}
+{:acid 46447, :name "Loudon Wainwright III"}
+{:acid 40568, :name "The Pioneers"}
+{:acid 24246, :name "Claude Bolling"}
+{:acid 137333, :name "Liesbeth List"}
+{:acid 38498, :name "Joe Simon"}
+{:acid 99237, :name "Lieutenant Pigeon"}
+{:acid 30826, :name "Aphrodite's Child"}
+{:acid 91952, :name "Ron Goodwin"}
+{:acid 1810, :name "The Platters"}
+{:acid 2101, :name "Frank Zappa"}
+{:acid 2124, :name "Nick Drake"}
+{:acid 48245, :name "Rubén Blades"}
+{:acid 63360, :name "Dave Holland Quartet"}
+{:acid 419424, :name "Catherine Howe"}
+{:acid 362509, :name "Selda"}
+{:acid 304733, :name "William S. Fischer"}
+{:acid 56751, :name "Carlos Lyra"}
+{:acid 277239, :name "Head West"}
+{:acid 104611, :name "The Soul Clan"}
+{:acid 49168, :name "The Monitors"}
+{:acid 181399, :name "Telegraph Avenue"}
+{:acid 685536, :name "Εξαδάκτυλος"}
+{:acid 37977, :name "Galt MacDermot"}
+{:acid 624213, :name "Isabel Paton"}
+{:acid 369254, :name "Agincourt"}
+{:acid 725798, :name "Zippo Zetterlink"}
+{:acid 489663, :name "Deep Feeling"}
+{:acid 649311, :name "Alcatraz"}
+{:acid 79357, :name "Kevin Ayers & The Whole World"}
+{:acid 236776, :name "The Charlatans"}
+{:acid 9290, :name "Terry Riley"}
+{:acid 139597, :name "Pappo's Blues"}
+{:acid 528993, :name "Madura"}
+{:acid 402446, :name "Gomorrha"}
+{:acid 205367, :name "Pete Brown & His Battered Ornaments"}
+{:acid 338279, :name "Skid Row"}
+{:acid 276380, :name "Rasputin's Stash"}
+{:acid 808084, :name "Walter Adams & Ernest Henry"}
+{:acid 141613, :name "Beaver & Krause"}
+{:acid 640603, :name "ВИА Поющие гитары"}
+{:acid 619492, :name "Markolino Dimond & Angel Canales"}
+{:acid 535597, :name "Howard Riley"}
+{:acid 111553, :name "Ginette Reno"}
+{:acid 121720, :name "Dean Parrish"}
+{:acid 141702, :name "Ella Washington"}
+{:acid 103368, :name "Røde Mor"}
+{:acid 97859, :name "The Nite-Liters"}
+{:acid 561258, :name "Ted Atking & His Orchestra"}
+{:acid 216981, :name "Witthüser & Westrupp"}
+{:acid 203345, :name "Little Beaver"}
+{:acid 170230, :name "Sperrmüll"}
+{:acid 482237, :name "Marie Selander"}
+{:acid 55649, :name "Félix Leclerc"}
+{:acid 621482, :name "Spirits & Worm"}
+{:acid 593988, :name "Silver Metre"}
+{:acid 170109, :name "Donald Peers"}
+{:acid 63483, :name "Gunder Hägg"}
+{:acid 440612, :name "Milt Jackson Quintet"}
+{:acid 681009, :name "The China Ballet Troupe"}
+{:acid 583150, :name "Helmer Bryds Eminent Five Quartet"}
+{:acid 842712, :name "Free Action Inc."}
+{:acid 79879, :name "David \"Fathead\" Newman"}
+{:acid 173200, :name "Ashley Hutchings & Friends"}
+{:acid 46193, :name "Creative Source"}
+{:acid 15732, :name "Tim Buckley"}
+{:acid 220485, :name "Hoelderlin"}
+{:acid 40825, :name "Prince Buster"}
+{:acid 60979, :name "Pentagram"}
+{:acid 317247, :name "The Orient Express"}
+{:acid 49207, :name "The Miracles"}
+{:acid 10519, :name "Roxy Music"}
+{:acid 36027, :name "Stephen Stills"}
+{:acid 20117, :name "The Bar-Kays"}
+{:acid 54571, :name "Paddy Reilly"}
+{:acid 220483, :name "Bröselmaschine"}
+{:acid 104461, :name "Arthur Alexander"}
+{:acid 63387, :name "Hoola Bandoola Band"}
+{:acid 432512, :name "Marta Kubišová"}
+{:acid 205732, :name "Jule Styne"}
+{:acid 21153, :name "Percy Sledge"}
+{:acid 166620, :name "Hudson Ford"}
+{:acid 3758, :name "Snooky Pryor"}
+{:acid 121, :name "The Chieftains"}
+{:acid 193901, :name "Museo Rosenbach"}
+{:acid 73021, :name "Stanley Black"}
+{:acid 24040, :name "Vanilla Fudge"}
+{:acid 6518, :name "Herman's Hermits"}
+{:acid 3415, :name "Ray Charles"}
+{:acid 1671, :name "Muddy Waters"}
+{:acid 67276, :name "Boris Vian"}
+{:acid 30323, :name "Lou Rawls"}
+{:acid 322909, :name "The Young Vandals"}
+{:acid 470803, :name "Vangelis Papathanassiou"}
+{:acid 424815, :name "Petr Novák"}
+{:acid 495507, :name "Pigsty Hill Light Orchestra"}
+{:acid 125948, :name "Paul Geremia"}
+{:acid 265407, :name "Batdorf & Rodney"}
+{:acid 281450, :name "Jukka Tolonen"}
+{:acid 198977, :name "Cyril Davies"}
+{:acid 149968, :name "Spirogyra"}
+{:acid 127083, :name "The Cornell University Glee Club"}
+{:acid 122047, :name "W.C. Fields"}
+{:acid 655726, :name "The Independents"}
+{:acid 640844, :name "ВИА Голубые Гитары"}
+{:acid 222570, :name "The Nilsmen"}
+{:acid 571728, :name "Five Smooth Stones"}
+{:acid 173253, :name "Organisation"}
+{:acid 739190, :name "Juliet Lawson"}
+{:acid 731267, :name "Syrinx"}
+{:acid 462409, :name "Jorge Cafrune & Marito"}
+{:acid 42572, :name "Maurice Williams"}
+{:acid 221754, :name "Gilles Valiquette"}
+{:acid 626247, :name "Alden Shuman"}
+{:acid 57405, :name "Fraction"}
+{:acid 773671, :name "Azitis"}
+{:acid 15932, :name "Five Man Electrical Band"}
+{:acid 197632, :name "The Chubukos"}
+{:acid 795984, :name "Circus Maximus"}
+{:acid 126711, :name "ВИА \"Самоцветы\""}
+{:acid 56362, :name "Black Widow"}
+{:acid 134868, :name "Sight & Sound"}
+{:acid 135566, :name "C.A. Quintet"}
+{:acid 307697, :name "Snow"}
+{:acid 104932, :name "R.B. Greaves"}
+{:acid 526551, :name "Fantasy"}
+{:acid 41123, :name "Phil Upchurch"}
+{:acid 541534, :name "Elaine Brown"}
+{:acid 823216, :name "Wara"}
+{:acid 42374, :name "The Charlie Daniels Band"}
+{:acid 37985, :name "Luther Ingram"}
+{:acid 234439, :name "Sammy Kaye & His Orchestra"}
+{:acid 837027, :name "Araxes"}
+{:acid 373496, :name "Smash"}
+{:acid 4282, :name "Odetta"}
+{:acid 850028, :name "Live Experience Band"}
+{:acid 91899, :name "The Jazz Crusaders"}
+{:acid 1773, :name "Paul Simon"}
+{:acid 23794, :name "Astor Piazzolla"}
+{:acid 33872, :name "Thunderclap Newman"}
+{:acid 31442, :name "Johnny Mathis"}
+{:acid 22492, :name "B.B. King"}
+{:acid 31482, :name "Jimmy Rogers"}
+{:acid 40569, :name "Boris Gardiner"}
+{:acid 936752, :name "Rattles"}
+{:acid 2909, :name "Neil Diamond"}
+{:acid 65508, :name "Sven-Bertil Taube"}
+{:acid 1912, :name "Taj Mahal"}
+{:acid 16171, :name "Del Shannon"}
+{:acid 903804, :name "Werner Müller and His Orchestra"}
+{:acid 24080, :name "Richard Thompson"}
+{:acid 139240, :name "Hungária"}
+{:acid 9193, :name "Philip Glass"}
+{:acid 36648, :name "Earl Bostic"}
+{:acid 81946, :name "Mocedades"}
+{:acid 132065, :name "Alain Goraguer"}
+{:acid 3074, :name "Average White Band"}
+{:acid 14210, :name "John Prine"}
+{:acid 9696, :name "Rick Springfield"}
+{:acid 619926, :name "Klaus & Ferdl"}
+{:acid 437903, :name "Guy Lafitte"}
+{:acid 411496, :name "Pic-Nic"}
+{:acid 160819, :name "Vincent Bell"}
+{:acid 818501, :name "Roberta Flack & Donny Hathaway"}
+{:acid 687510, :name "Hedge & Donna"}
+{:acid 397473, :name "Bhupen Hazarika"}
+{:acid 99156, :name "Pierre Barouh"}
+{:acid 290953, :name "Kerrie Biddell"}
+{:acid 410886, :name "The Roots of Madness"}
+{:acid 128338, :name "Keef Hartley Band"}
+{:acid 192104, :name "Povl Dissing"}
+{:acid 414170, :name "Apollo"}
+{:acid 193373, :name "Barend Servet"}
+{:acid 750649, :name "Gamma"}
+{:acid 676154, :name "PYG"}
+{:acid 98452, :name "Los Íberos"}
+{:acid 396754, :name "笠井紀美子"}
+{:acid 462030, :name "Chester Thompson"}
+{:acid 402450, :name "Wonderland"}
+{:acid 710569, :name "The Liverpool Scene"}
+{:acid 183856, :name "Walter Wegmüller"}
+{:acid 288882, :name "Chaparro y su orquesta"}
+{:acid 669490, :name "Mittelwinternacht"}
+{:acid 548989, :name "Yeraltı Dörtlüsü"}
+{:acid 283496, :name "The Honeydrippers"}
+{:acid 316421, :name "Gerry Monroe"}
+{:acid 376437, :name "Stefan Demert"}
+{:acid 806862, :name "Pete & Louie"}
+{:acid 264966, :name "Moving Gelatine Plates"}
+{:acid 807067, :name "Barry DeVorzon & Perry Botkin Jr."}
+{:acid 473494, :name "The Knowbody Else"}
+{:acid 298728, :name "Louis Chachere"}
+{:acid 228331, :name "The New Jazz Orchestra"}
+{:acid 187441, :name "Blackfeather"}
+{:acid 557526, :name "Autosalvage"}
+{:acid 283178, :name "Jacky"}
+{:acid 327210, :name "Attila"}
+{:acid 629312, :name "Pacheco y Su Charanga"}
+{:acid 3517, :name "David Crosby"}
+{:acid 3718, :name "Johnnie Taylor"}
+{:acid 156783, :name "Cléo"}
+{:acid 155028, :name "Ike Turner's Kings of Rhythm"}
+{:acid 39274, :name "Luiz Bonfá"}
+{:acid 104644, :name "Doris Troy"}
+{:acid 42708, :name "Barrett Strong"}
+{:acid 1218, :name "Joni Mitchell"}
+{:acid 30721, :name "Iain Matthews"}
+{:acid 269422, :name "Lola Flores"}
+{:acid 4379, :name "Francis Lai"}
+{:acid 47367, :name "The Oak Ridge Boys"}
+{:acid 931580, :name "Gentle Soul"}
+{:acid 886792, :name "Basil Kirchin, John Coleman & Jack Nathan"}
+{:acid 6242, :name "Larry Coryell"}
+{:acid 557839, :name "Guitars Unlimited"}
+{:acid 968675, :name "Miss Linda George"}
+{:acid 41073, :name "Georgie Fame"}
+{:acid 198063, :name "Richard M. Sherman & Robert B. Sherman"}
+{:acid 37250, :name "Eumir Deodato"}
+{:acid 265878, :name "José José"}
+{:acid 22579, :name "CAN"}
+{:acid 3247, :name "Sesame Street"}
+{:acid 30042, :name "Cornelis Vreeswijk"}
+{:acid 4690, :name "Donovan"}
+{:acid 664452, :name "Voldemar Kuslap"}
+{:acid 36157, :name "Hank Mobley"}
+{:acid 3698, :name "Sonny Stitt"}
+{:acid 29, :name "Stevie Wonder"}
+{:acid 121476, :name "Rita Pavone"}
+{:acid 400608, :name "Harry Nilsson"}
+{:acid 3411, :name "Jimmy Reed"}
+{:acid 6472, :name "The Troggs"}
+{:acid 23395, :name "Игорь Фёдорович Стравинский"}
+{:acid 93332, :name "Alexis Korner"}
+{:acid 482356, :name "Göran Persson"}
+{:acid 632359, :name "Euphoria"}
+{:acid 42925, :name "Matteo Salvatore"}
+{:acid 350068, :name "The Hoctor Band"}
+{:acid 171049, :name "Candy & The Kisses"}
+{:acid 125138, :name "Emerson & Waldron"}
+{:acid 597752, :name "Derek"}
+{:acid 654518, :name "The Roy Meriwether Trio"}
+{:acid 83499, :name "Noel Paul Stookey"}
+{:acid 472669, :name "Nabay"}
+{:acid 187758, :name "Moe Koffman"}
+{:acid 92456, :name "Jeffrey Comanor"}
+{:acid 47966, :name "Wishful Thinking"}
+{:acid 50160, :name "Joe Thomas"}
+{:acid 369539, :name "Wolfgang Dauner Trio"}
+{:acid 599632, :name "Zoef Zoef & De Beevers"}
+{:acid 508850, :name "Jean Bouchéty"}
+{:acid 313875, :name "Módulos"}
+{:acid 90656, :name "Cluster"}
+{:acid 480932, :name "Paul Kantner & Jefferson Starship"}
+{:acid 735797, :name "Hall Brothers Jazz Band"}
+{:acid 461142, :name "The Alan Bown!"}
+{:acid 203302, :name "Michel Louvain"}
+{:acid 513898, :name "Keith Droste"}
+{:acid 411723, :name "Euphoria"}
+{:acid 99721, :name "David Porter"}
+{:acid 49550, :name "Hank Crawford"}
+{:acid 131534, :name "Roy Carmona"}
+{:acid 126767, :name "Lillebjørn Nilsen"}
+{:acid 722968, :name "Don McHan"}
+{:acid 385600, :name "Barry Miles"}
+{:acid 68661, :name "Roberto Ribeiro"}
+{:acid 582074, :name "Encarnita Polo"}
+{:acid 599104, :name "De Butlers"}
+{:acid 496626, :name "Chilli Willi and the Red Hot Peppers"}
+{:acid 296265, :name "The Bells"}
+{:acid 433180, :name "Wilma"}
+{:acid 542753, :name "Oberon"}
+{:acid 62136, :name "Los Ángeles Negros"}
+{:acid 453380, :name "Ron Davies"}
+{:acid 821651, :name "Charlie Mariano & The Chris Hinze Combination"}
+{:acid 702346, :name "Beppe Palomba"}
+{:acid 489435, :name "New Jazz Trio"}
+{:acid 30517, :name "The Archies"}
+{:acid 66046, :name "Johnny Pacheco"}
+{:acid 211577, :name "Frankie Armstrong"}
+{:acid 1631, :name "War"}
+{:acid 836875, :name "Johnny Farnham"}
+{:acid 340003, :name "The Moog Machine"}
+{:acid 606744, :name "Wind"}
+{:acid 41543, :name "Johnny Hallyday"}
+{:acid 888618, :name "Chris Roberts und Ireen Sheer"}
+{:acid 133964, :name "Hank Ballard"}
+{:acid 12103, :name "Crosby, Stills & Nash"}
+{:acid 51441, :name "Mike Bloomfield"}
+{:acid 42950, :name "Charley Pride"}
+{:acid 363635, :name "Hortto Kaalo"}
+{:acid 54302, :name "Luis Alberto Spinetta"}
+{:acid 356, :name "Monty Python"}
+{:acid 144280, :name "The Pete Jacques Orchestra And Singers"}
+{:acid 2734, :name "Wings"}
+{:acid 59009, :name "Atahualpa Yupanqui"}
+{:acid 3641, :name "Merle Haggard"}
+{:acid 974163, :name "Jean-Pierre Martin"}
+{:acid 1818, :name "Tom Jones"}
+{:acid 1766, :name "John Coltrane"}
+{:acid 975583, :name "Μανώλης Μητσιάς & Δήμητρα Γαλάνη"}
+{:acid 24465, :name "Antonio Vivaldi"}
+{:acid 10565, :name "Joe Pass"}
+{:acid 438228, :name "Kain"}
+{:acid 83381, :name "Judee Sill"}
+{:acid 567057, :name "Andrés Pajares"}
+{:acid 63806, :name "Ralph Carmichael"}
+{:acid 239041, :name "Cauby Peixoto"}
+{:acid 135839, :name "Lord Buckley"}
+{:acid 622144, :name "Spitting Image"}
+{:acid 412204, :name "The Glass House"}
+{:acid 53962, :name "Bill Coday"}
+{:acid 150764, :name "Pekka Streng"}
+{:acid 161268, :name "Jake Thackray"}
+{:acid 4507, :name "Bescol Records Compilations"}
+{:acid 105909, :name "Cyril Neville"}
+{:acid 670759, :name "T2"}
+{:acid 340931, :name "Fred van Zegveld"}
+{:acid 820927, :name "Mort Garson & Jacques Wilson"}
+{:acid 330638, :name "Thunder & Roses"}
+{:acid 47156, :name "Esperanto"}
+{:acid 208317, :name "Ed Askew"}
+{:acid 184485, :name "徐小鳳"}
+{:acid 207497, :name "Elephant's Memory"}
+{:acid 6489, :name "Brotherhood of Man"}
+{:acid 20134, :name "Detroit Emeralds"}
+{:acid 76702, :name "Odds & Ends"}
+{:acid 116300, :name "Merl Saunders"}
+{:acid 113707, :name "O'Donel Levy"}
+{:acid 843176, :name "Jimmy Smith & Wes Montgomery"}
+{:acid 837476, :name "Tartesos"}
+{:acid 58802, :name "Candies"}
+{:acid 61523, :name "The Other Half"}
+{:acid 2531, :name "Buffalo Springfield"}
+{:acid 9152, :name "Duane Eddy"}
+{:acid 21079, :name "Egberto Gismonti"}
+{:acid 47132, :name "Rotary Connection"}
+{:acid 4341, :name "Liza Minnelli"}
+{:acid 74829, :name "Raffaella Carrà"}
+{:acid 12701, :name "Diana Ross & The Supremes"}
+{:acid 10792, :name "Perry Como"}
+{:acid 39032, :name "Martinho da Vila"}
+{:acid 120986, :name "Gigliola Cinquetti"}
+{:acid 10170, :name "Camel"}
+{:acid 984948, :name "The Dave Brubeck Trio feat. Gerry Mulligan"}
+{:acid 1849, :name "Paco de Lucía"}
+{:acid 51230, :name "The Three Degrees"}
+{:acid 461110, :name "Black Grass"}
+{:acid 261346, :name "The Majestic Arrows"}
+{:acid 95928, :name "Leslie West"}
+{:acid 2383, :name "Hot Chocolate"}
+{:acid 858724, :name "Claude Dupras"}
+{:acid 3572, :name "Gentle Giant"}
+{:acid 3334, :name "Kim Fowley"}
+{:acid 139635, :name "Frida Boccara"}
+{:acid 105084, :name "Charlie Mariano"}
+{:acid 43695, :name "Soft Machine"}
+{:acid 110937, :name "Paul Piot"}
+{:acid 661394, :name "Μίμης Πλέσσας"}
+{:acid 1433, :name "The Animals"}
+{:acid 4347, :name "Jerry Herman"}
+{:acid 638853, :name "Gianni Dall'Aglio"}
+{:acid 353074, :name "Bodkin"}
+{:acid 45592, :name "Joe Zawinul"}
+{:acid 14582, :name "Delaney & Bonnie and Friends"}
+{:acid 61492, :name "The Rationals"}
+{:acid 267334, :name "Raccomandata con Ricevuta di Ritorno"}
+{:acid 262503, :name "The Pigeons"}
+{:acid 711938, :name "Lester Baker"}
+{:acid 269900, :name "Jaume Sisa"}
+{:acid 567694, :name "Anonymous Children of Today"}
+{:acid 263897, :name "The Peppermint Trolley Company"}
+{:acid 178531, :name "Quiet World"}
+{:acid 639922, :name "ВИА Поющие сердца"}
+{:acid 30866, :name "Jerry Garcia"}
+{:acid 507065, :name "Light"}
+{:acid 119186, :name "Norman Connors"}
+{:acid 252374, :name "The Blue Ridge Rangers"}
+{:acid 21657, :name "Hamilton, Joe Frank & Reynolds"}
+{:acid 144479, :name "Hector Rivera"}
+{:acid 415659, :name "Danny y Donna"}
+{:acid 105710, :name "Michael Garrick Trio"}
+{:acid 115164, :name "Southside Movement"}
+{:acid 422416, :name "Mythos"}
+{:acid 49663, :name "Grupo de Experimentación Sonora del ICAIC"}
+{:acid 34130, :name "The Weavers"}
+{:acid 230604, :name "The Blues Image"}
+{:acid 130108, :name "Arne Jansen"}
+{:acid 243633, :name "The Manhattan Transfer and Gene Pistilli"}
+{:acid 772348, :name "Días de blues"}
+{:acid 21663, :name "Vanity Fare"}
+{:acid 723105, :name "Group Thirty Orchestra"}
+{:acid 413560, :name "Ian Carr"}
+{:acid 276694, :name "Catapilla"}
+{:acid 817510, :name "George & Ethel McCoy"}
+{:acid 109556, :name "Doris"}
+{:acid 816200, :name "Μίμης Πλέσσας & Λευτέρης Παπαδόπουλος"}
+{:acid 308313, :name "Belita Woods"}
+{:acid 125517, :name "Enoch Light and the Light Brigade"}
+{:acid 22590, :name "Chris Smither"}
+{:acid 45736, :name "Larry Williams"}
+{:acid 38896, :name "John Farnham"}
+{:acid 36764, :name "Laura Nyro"}
+{:acid 49920, :name "The Ronettes"}
+{:acid 3709, :name "Earl Hooker"}
+{:acid 959549, :name "Quella vecchia locanda"}
+{:acid 48227, :name "James Carr"}
+{:acid 6027, :name "Mickey Newbury"}
+{:acid 91241, :name "Eddie Gale"}
+{:acid 14223, :name "Popol Vuh"}
+{:acid 193931, :name "Iggy & The Stooges"}
+{:acid 3525, :name "Roger Miller"}
+{:acid 10269, :name "The Originals"}
+{:acid 233259, :name "Burton Lane"}
+{:acid 3648, :name "Henry Mancini"}
+{:acid 66827, :name "Gary Puckett & The Union Gap"}
+{:acid 295181, :name "Blues Creation"}
+{:acid 1122, :name "Steely Dan"}
+{:acid 150036, :name "Lord Kitchener"}
+{:acid 15944, :name "Ian Thomas"}
+{:acid 942221, :name "Popol Vuh"}
+{:acid 83497, :name "Serge Reggiani"}
+{:acid 137578, :name "The Supremes"}
+{:acid 46, :name "Dusty Springfield"}
+{:acid 1601, :name "Blue Öyster Cult"}
+{:acid 187823, :name "Paul McCartney & Wings"}
+{:acid 5202, :name "Jackie Edwards"}
+{:acid 23156, :name "Stanley Clarke"}
+{:acid 1338, :name "Jerry Goldsmith"}
+{:acid 644239, :name "John White"}
+{:acid 585466, :name "Red Allen & The Allen Brothers"}
+{:acid 427318, :name "Linkin' Louisiana Peps"}
+{:acid 144482, :name "Sam Rivers"}
+{:acid 153044, :name "Flower Travellin' Band"}
+{:acid 36784, :name "Sutherland Brothers & Quiver"}
+{:acid 21658, :name "Climax"}
+{:acid 212258, :name "Roberto Y Su Nuevo Montuno"}
+{:acid 252324, :name "Patron Saints"}
+{:acid 156560, :name "Kak"}
+{:acid 552216, :name "Twink"}
+{:acid 775833, :name "Mtume Umoja Ensemble"}
+{:acid 978823, :name "David Rea"}
+{:acid 136000, :name "The Majestics"}
+{:acid 164446, :name "Arthur Lee"}
+{:acid 501562, :name "Locomotive"}
+{:acid 351907, :name "Flied Egg"}
+{:acid 119077, :name "Jim Carroll"}
+{:acid 39362, :name "Noel Harrison"}
+{:acid 806083, :name "Barbara Acklin & Gene Chandler"}
+{:acid 468466, :name "Sfinx"}
+{:acid 820443, :name "Rashied Ali & Frank Lowe"}
+{:acid 149260, :name "The Open Mind"}
+{:acid 489801, :name "Karelia"}
+{:acid 819317, :name "Eddy Mitchell & Zoo"}
+{:acid 413526, :name "The Cecil Holmes Soulful Sounds"}
+{:acid 821086, :name "Dorothy, Oma & Zelpha"}
+{:acid 540325, :name "Wind River Singers"}
+{:acid 237839, :name "Phil Spector"}
+{:acid 246915, :name "Billy Faier"}
+{:acid 43895, :name "Man"}
+{:acid 608279, :name "Black Velvet"}
+{:acid 152258, :name "Palito Ortega"}
+{:acid 2644, :name "Smokey Robinson"}
+{:acid 433409, :name "The Wake"}
+{:acid 827603, :name "Evan Parker, Derek Bailey & Han Bennink"}
+{:acid 30824, :name "Wishbone Ash"}
+{:acid 30270, :name "Brigitte Fontaine"}
+{:acid 42728, :name "Richard \"Groove\" Holmes"}
+{:acid 834746, :name "Paternoster"}
+{:acid 820500, :name "Nancy Sinatra & Lee Hazlewood"}
+{:acid 42534, :name "Tommy McCook"}
+{:acid 36098, :name "Archie Shepp"}
+{:acid 76097, :name "Bobby Sherman"}
+{:acid 219701, :name "Μάνος Λοΐζος"}
+{:acid 153144, :name "Tobben & Ero"}
+{:acid 876296, :name "The Touch"}
+{:acid 30116, :name "Frijid Pink"}
+{:acid 12679, :name "Bread"}
+{:acid 379, :name "Glen Campbell"}
+{:acid 2109, :name "Bobby Darin"}
+{:acid 99153, :name "Serge Lama"}
+{:acid 6738, :name "Clannad"}
+{:acid 12710, :name "Nilsson"}
+{:acid 553623, :name "Esquerita"}
+{:acid 56764, :name "Justin Hinds & The Dominoes"}
+{:acid 39141, :name "Commander Cody & His Lost Planet Airmen"}
+{:acid 84961, :name "Patti Drew"}
+{:acid 113481, :name "Harry J. All Stars"}
+{:acid 23903, :name "Rahsaan Roland Kirk"}
+{:acid 220297, :name "Μανώλης Μητσιάς"}
+{:acid 6220, :name "Mississippi John Hurt"}
+{:acid 7490, :name "The Flying Burrito Brothers"}
+{:acid 4898, :name "Daevid Allen"}
+{:acid 432499, :name "אריק איינשטיין"}
+{:acid 37575, :name "Rita Lee"}
+{:acid 1803, :name "Jerry Lee Lewis"}
+{:acid 55910, :name "Juliane Werding"}
+{:acid 3283, :name "Jean Michel Jarre"}
+{:acid 3225, :name "Nazareth"}
+{:acid 820, :name "Manfred Mann"}
+{:acid 523690, :name "Outrage"}
+{:acid 320373, :name "Jackie Harris & The Exciters"}
+{:acid 117948, :name "The Vibrettes"}
+{:acid 167729, :name "Kalle Sändare"}
+{:acid 434633, :name "La Cofradía de la Flor Solar"}
+{:acid 254263, :name "Judith Durham"}
+{:acid 724795, :name "Nancy Green"}
+{:acid 264211, :name "Peter Horton"}
+{:acid 649385, :name "Bram Stoker"}
+{:acid 16410, :name "Arthur Conley"}
+{:acid 162300, :name "Lotti Golden"}
+{:acid 197811, :name "前川陽子"}
+{:acid 175260, :name "Tempo 70"}
+{:acid 481918, :name "Rolando Laserie"}
+{:acid 685534, :name "Δέσποινα Γλέζου"}
+{:acid 635023, :name "Mats Glenngård"}
+{:acid 115011, :name "Jerry Wallace"}
+{:acid 156546, :name "Patty & The Emblems"}
+{:acid 481774, :name "Bobby Quesada Y Su Orquesta"}
+{:acid 469210, :name "Dennis Linde"}
+{:acid 248955, :name "Mort Garson"}
+{:acid 619547, :name "Terry Nelson"}
+{:acid 209476, :name "German Oak"}
+{:acid 513879, :name "Noca do Acordeon"}
+{:acid 498093, :name "Darryl Way's Wolf"}
+{:acid 509401, :name "The Lost Generation"}
+{:acid 308698, :name "My Indole Ring"}
+{:acid 203893, :name "Funk Inc."}
+{:acid 231381, :name "Tutti Camarata"}
+{:acid 356367, :name "Quill"}
+{:acid 43959, :name "Gypsy"}
+{:acid 476334, :name "Bobby Crush"}
+{:acid 74236, :name "Crazy Horse"}
+{:acid 35992, :name "Carman"}
+{:acid 331469, :name "Esengül"}
+{:acid 253805, :name "Nikhil Banerjee"}
+{:acid 274827, :name "Landslaget"}
+{:acid 98473, :name "Los Sirex"}
+{:acid 310659, :name "The Mystic Astrologic Crystal Band"}
+{:acid 548552, :name "Peter Sjardin"}
+{:acid 463713, :name "Leo den Hop"}
+{:acid 471815, :name "Pace-Setters"}
+{:acid 148995, :name "Gary Bartz"}
+{:acid 121970, :name "Machito y Su Orquesta"}
+{:acid 30387, :name "Dobie Gray"}
+{:acid 806747, :name "Vinicius de Moraes & Toquinho"}
+{:acid 834000, :name "Lal & Mike Waterson"}
+{:acid 210011, :name "Benito di Paula"}
+{:acid 853776, :name "Sir Gibbs"}
+{:acid 82456, :name "Fred Åkerström"}
+{:acid 463722, :name "De Heikrekels"}
+{:acid 871933, :name "Era di Acquario"}
+{:acid 16178, :name "The Tremeloes"}
+{:acid 210464, :name "Matthews' Southern Comfort"}
+{:acid 1641, :name "Herbie Hancock"}
+{:acid 1607, :name "Dolly Parton"}
+{:acid 121826, :name "Johnny \"Hammond\" Smith"}
+{:acid 23320, :name "Mercedes Sosa"}
+{:acid 203431, :name "The Cosmic Jokers"}
+{:acid 887888, :name "Hugh Portnow, Hugh Fraser & Tim Thomas"}
+{:acid 84814, :name "Karel Kryl"}
+{:acid 39987, :name "Brenda Lee"}
+{:acid 128703, :name "The Ugly's"}
+{:acid 11390, :name "Herman van Veen"}
+{:acid 31471, :name "Premiata Forneria Marconi"}
+{:acid 31488, :name "Eddie Boyd"}
+{:acid 184881, :name "Pekka Airaksinen"}
+{:acid 113778, :name "Duncan Lamont"}
+{:acid 986439, :name "Pop-Corn Makers"}
+{:acid 636435, :name "Crazy Horse"}
+{:acid 896778, :name "Mickie Finn"}
+{:acid 504193, :name "Flamengo"}
+{:acid 117574, :name "Μάνος Χατζιδάκις"}
+{:acid 145107, :name "The Smothers Brothers"}
+{:acid 11623, :name "George Duke"}
+{:acid 120607, :name "The Groundhogs"}
+{:acid 300780, :name "Gandalf"}
+{:acid 10025, :name "The Allman Brothers Band"}
+{:acid 12299, :name "London Symphony Orchestra"}
+{:acid 481, :name "Aerosmith"}
+{:acid 14549, :name "Thin Lizzy"}
+{:acid 11939, :name "Bessie Smith"}
+{:acid 64710, :name "Alton Ellis"}
+{:acid 21155, :name "Eddie Floyd"}
+{:acid 16210, :name "Anton Bruckner"}
+{:acid 9109, :name "Iron Butterfly"}
+{:acid 1317, :name "Glenn Miller"}
+{:acid 10032, :name "Barry Manilow"}
+{:acid 131763, :name "Matching Mole"}
+{:acid 443116, :name "Color Humano"}
+{:acid 229103, :name "She Trinity"}
+{:acid 327306, :name "Velvert Turner Group"}
+{:acid 697892, :name "Johnny Rivera and The Tequila Brass"}
+{:acid 12775, :name "Cornelius Brothers & Sister Rose"}
+{:acid 147309, :name "Trees"}
+{:acid 779805, :name "Zapata"}
+{:acid 449167, :name "Alpay"}
+{:acid 822372, :name "La Monte Young & Marian Zazeela"}
+{:acid 378399, :name "Mavi Işıklar"}
+{:acid 432509, :name "Daly Wilson Big Band"}
+{:acid 345159, :name "Finger 5"}
+{:acid 573693, :name "Et Cetera"}
+{:acid 193174, :name "David Whitaker"}
+{:acid 449097, :name "Bora Ayanoğlu"}
+{:acid 593405, :name "Emergency"}
+{:acid 66047, :name "Ismael Miranda"}
+{:acid 267353, :name "Group 1850"}
+{:acid 230650, :name "Pau Riba"}
+{:acid 171475, :name "Юрий Антонов"}
+{:acid 557614, :name "Living Strings"}
+{:acid 89885,
+ :name "Charles Wright & The Watts 103rd Street Rhythm Band"}
+{:acid 737469, :name "No Left Turn"}
+{:acid 147871, :name "The Mohawks"}
+{:acid 379781, :name "Hobo Jack Adkins"}
+{:acid 460828, :name "Harumi"}
+{:acid 484492, :name "De Mounties"}
+{:acid 307397, :name "Jean-Jacques Perrey & Gershon Kingsley"}
+{:acid 237866, :name "Björn Isfält"}
+{:acid 188935, :name "Toe Fat"}
+{:acid 105692, :name "The Peppermint Rainbow"}
+{:acid 696369, :name "Charley D. and Milo"}
+{:acid 760477, :name "Ashton, Gardner, Dyke & Co."}
+{:acid 361684, :name "Los Salvajes"}
+{:acid 724784, :name "Russell Hoban"}
+{:acid 183383, :name "The Fabulous Counts"}
+{:acid 375639, :name "Bachdenkel"}
+{:acid 461289, :name "Purple Shadows"}
+{:acid 768878, :name "L'ingegner Giovanni e Famiglia"}
+{:acid 631777, :name "Hurdy Gurdy"}
+{:acid 76512, :name "The Ramsey Lewis Trio"}
+{:acid 834964, :name "The Mothers"}
+{:acid 114771, :name "Louie Ramírez"}
+{:acid 248302, :name "The 50 Guitars of Tommy Garrett"}
+{:acid 149269, :name "Los Shakers"}
+{:acid 278784, :name "Ramases"}
+{:acid 358966, :name "Leopold Stokowski"}
+{:acid 875182, :name "Carla Bley & Paul Haines"}
+{:acid 38767, :name "Rick Derringer"}
+{:acid 47004, :name "Stephen Schwartz"}
+{:acid 9429, :name "Lenny Bruce"}
+{:acid 805693, :name "The Supremes & Four Tops"}
+{:acid 748667, :name "Аида Ведищева"}
+{:acid 99513, :name "Slim Smith"}
+{:acid 111321, :name "Honey Cone"}
+{:acid 11062, :name "George Benson"}
+{:acid 33980, :name "Lalo Schifrin"}
+{:acid 97155, :name "Love Unlimited"}
+{:acid 837095, :name "Howlin' Wolf, Muddy Waters & Bo Diddley"}
+{:acid 76523, :name "Merrilee Rush and The Turnabouts"}
+{:acid 46746, :name "Antonello Venditti"}
+{:acid 5794, :name "The Byrds"}
+{:acid 169014, :name "P.F. Sloan"}
+{:acid 98071, :name "Carlos"}
+{:acid 31859, :name "Jacques Higelin"}
+{:acid 60474, :name "Michel Sardou"}
+{:acid 56762, :name "The Ethiopians"}
+{:acid 1591, :name "Dan Hicks and The Hot Licks"}
+{:acid 9617, :name "Léo Ferré"}
+{:acid 3474, :name "Les Baxter"}
+{:acid 5880, :name "Dennis Brown"}
+{:acid 320455, :name "Eric Delaney"}
+{:acid 123806, :name "New Swing Sextet"}
+{:acid 484712, :name "A Child's Garden of Grass"}
+{:acid 22040, :name "Terry Reid"}
+{:acid 579942, :name "Bernie Schwartz"}
+{:acid 321880, :name "Dollar Brand Trio"}
+{:acid 384705, :name "Timur Selçuk"}
+{:acid 600365, :name "The True Reflection"}
+{:acid 335725, :name "Third World War"}
+{:acid 815263, :name "Jimmy McGriff & Junior Parker"}
+{:acid 725972, :name "Puppenhaus"}
+{:acid 161227, :name "Dave Burland"}
+{:acid 404379, :name "Billy Harper"}
+{:acid 298727, :name "Chester Randall's Soul Senders"}
+{:acid 161702, :name "Orquesta La Solución"}
+{:acid 78361, :name "Carl Carlton"}
+{:acid 121238, :name "Johnny Daye"}
+{:acid 546805, :name "The Sahib Shihab Quintet"}
+{:acid 505200, :name "Fred Lowery & Big Bo and The Arrows"}
+{:acid 65605, :name "Brita Borg"}
+{:acid 420040, :name "Ronnie Von"}
+{:acid 203099, :name "Randy Holden"}
+{:acid 65875, :name "Wolfgang Dauner Quintet"}
+{:acid 317545, :name "Marianne Mendt"}
+{:acid 41439, :name "Captain Beyond"}
+{:acid 478480, :name "Giant Crab"}
+{:acid 153667, :name "Siavash Ghomayshi"}
+{:acid 558771, :name "Ann Sexton & The Soul Masters"}
+{:acid 722276, :name "The Echoes"}
+{:acid 30555, :name "The Happenings"}
+{:acid 359558, :name "Markku Suominen"}
+{:acid 32548, :name "Shuggie Otis"}
+{:acid 844136, :name "Elizabeth"}
+{:acid 119080, :name "Eric Andersen"}
+{:acid 837893, :name "Queimada"}
+{:acid 32994, :name "Ronnie Milsap"}
+{:acid 861911, :name "The Habibiyya"}
+{:acid 869904, :name "Alie Roelvink"}
+{:acid 870447, :name "Élton Medeiros & Paulinho da Viola"}
+{:acid 54316, :name "The Nice"}
+{:acid 370444, :name "Bubblerock"}
+{:acid 46629, :name "The Move"}
+{:acid 674473, :name "Charlee"}
+{:acid 290361, :name "Dando Shaft"}
+{:acid 2210, :name "Vangelis"}
+{:acid 611682, :name "Δήμος Μούτσης"}
+{:acid 38594, :name "Tommy Roe"}
+{:acid 42037, :name "Gnidrolog"}
+{:acid 36913, :name "Gato Barbieri"}
+{:acid 162559, :name "許冠傑"}
+{:acid 91, :name "Bill Cosby"}
+{:acid 9133, :name "Traffic"}
+{:acid 112142, :name "Bonnie Dobson"}
+{:acid 966068, :name "Roy Rutanen"}
+{:acid 45639, :name "Víctor Jara"}
+{:acid 8751, :name "Horace Andy"}
+{:acid 941773, :name "Iggy Pop & The Stooges"}
+{:acid 118575, :name "Ougenweide"}
+{:acid 90068, :name "Airto Moreira"}
+{:acid 137543, :name "The Everly Brothers"}
+{:acid 214718, :name "Kalyanji Anandji"}
+{:acid 967, :name "Jefferson Airplane"}
+{:acid 9762, :name "Steve Miller Band"}
+{:acid 1918, :name "Creedence Clearwater Revival"}
+{:acid 20000, :name "Carl Orff"}
+{:acid 32056, :name "Quicksilver Messenger Service"}
+{:acid 355117, :name "Joseph Campbell Butler"}
+{:acid 807104, :name "King Curtis and Champion Jack Dupree"}
+{:acid 390693, :name "Derroll Adams"}
+{:acid 129898, :name "Blossom Toes"}
+{:acid 284099, :name "Cottonwood"}
+{:acid 201393, :name "Carl Story"}
+{:acid 253248, :name "Mickey & The Soul Generation"}
+{:acid 97506, :name "Sam Cooke & The Soul Stirrers"}
+{:acid 481644, :name "Chase"}
+{:acid 174841, :name "Nucleus & Ian Carr"}
+{:acid 178153, :name "Foxx"}
+{:acid 529177, :name "Don Preston & The South"}
+{:acid 45968, :name "Delaney and Bonnie"}
+{:acid 384757, :name "The Alan Copeland Singers"}
+{:acid 725974, :name "I.D. Company"}
+{:acid 721233, :name "Gruppo dell'almanacco popolare"}
+{:acid 501530,
+ :name "The People's International Silver String Macedonian Band"}
+{:acid 193644, :name "Paul Kantner & Grace Slick"}
+{:acid 66053, :name "La Lupe"}
+{:acid 143032, :name "Marvin, Welch & Farrar"}
+{:acid 440890, :name "Arbetets Söner och Döttrar"}
+{:acid 547059, :name "Lemon"}
+{:acid 469213, :name "Murray Roman"}
+{:acid 806594, :name "Leon Russell & Marc Benno"}
+{:acid 455548, :name "Flash"}
+{:acid 291590, :name "Günter Noris"}
+{:acid 6502, :name "The Legendary Stardust Cowboy"}
+{:acid 206708, :name "Dug Dug's"}
+{:acid 36839, :name "Ange"}
+{:acid 477139, :name "早川義夫"}
+{:acid 303344, :name "Manal"}
+{:acid 669268, :name "Cecilia"}
+{:acid 220263, :name "Jigs"}
+{:acid 220078, :name "Clifford Thornton"}
+{:acid 61459, :name "Sagittarius"}
+{:acid 359553, :name "Ernos"}
+{:acid 534795, :name "The Eclectic Mouse"}
+{:acid 77427, :name "Tim Weisberg"}
+{:acid 688938, :name "Circus"}
+{:acid 141857, :name "Lol Coxhill"}
+{:acid 284387, :name "Bill Fay"}
+{:acid 411318, :name "Clague"}
+{:acid 36886, :name "The Last Poets"}
+{:acid 117614, :name "Eric Gale"}
+{:acid 11790, :name "Warren Zevon"}
+{:acid 38028, :name "Seals & Crofts"}
+{:acid 809861, :name "Peter Cook & Dudley Moore"}
+{:acid 48278, :name "Michael Hurley"}
+{:acid 51913, :name "Joseph Spence"}
+{:acid 839655, :name "Rahsaan Roland Kirk & Al Hibbler"}
+{:acid 3575, :name "Black Oak Arkansas"}
+{:acid 48652, :name "Luis Bacalov"}
+{:acid 12157, :name "George Martin"}
+{:acid 545523, :name "Shango"}
+{:acid 21670, :name "Mark Lindsay"}
+{:acid 855710, :name "Space Opera"}
+{:acid 1633, :name "Loretta Lynn"}
+{:acid 886509, :name "W. Merrick Farran & Edgar M. Vetter"}
+{:acid 210411, :name "Roland Shaw & His Orchestra"}
+{:acid 193117, :name "Gianni Ferrio"}
+{:acid 14870, :name "Parliament"}
+{:acid 12230, :name "Charlie Haden"}
+{:acid 35133, :name "Gong"}
+{:acid 21001, :name "Junior Wells"}
+{:acid 828033, :name "Milton Nascimento & Lô Borges"}
+{:acid 9896, :name "The Swingle Singers"}
+{:acid 965589, :name "Pasunapoisid"}
+{:acid 42537, :name "Spike Jones"}
+{:acid 125707, :name "Edwin Birdsong"}
+{:acid 33964, :name "Floyd Cramer"}
+{:acid 404209, :name "Heron"}
+{:acid 3824, :name "Manu Dibango"}
+{:acid 269438, :name "Zülfü Livaneli"}
+{:acid 139638, :name "François Béranger"}
+{:acid 31049, :name "Rolf Harris"}
+{:acid 46947, :name "Hector Berlioz"}
+{:acid 47630, :name "Renato Zero"}
+{:acid 38345, :name "Virgil Fox"}
+{:acid 2863, :name "George Harrison"}
+{:acid 133749, :name "Les Crane"}
+{:acid 191483, :name "Lena Granhagen"}
+{:acid 121256, :name "The Carstairs"}
+{:acid 540588, :name "Wilburn Burchette"}
+{:acid 45530, :name "Peter Noone"}
+{:acid 162183, :name "Ralfi Pagán"}
+{:acid 351927, :name "Clark-Hutchinson"}
+{:acid 434752,
+ :name "Oscar Peterson, Joe Pass & Niels-Henning Ørsted Pedersen"}
+{:acid 558069, :name "Nite People"}
+{:acid 724256, :name "John Henry Kurtz"}
+{:acid 774561, :name "Şenay"}
+{:acid 5024, :name "Ash Ra Tempel"}
+{:acid 196201, :name "Gene Page"}
+{:acid 149275, :name "The Acid Gallery"}
+{:acid 132007, :name "Andy Harlow"}
+{:acid 528402, :name "The Fifth Avenue Band"}
+{:acid 582660, :name "The Apostles"}
+{:acid 171225, :name "Richard Ace"}
+{:acid 79792, :name "Johnny Mandel"}
+{:acid 380065, :name "Prúdy"}
+{:acid 598922, :name "George Guzman"}
+{:acid 156730, :name "Cromagnon"}
+{:acid 603103, :name "Appalachian Opera"}
+{:acid 678926, :name "Silberbart"}
+{:acid 810714, :name "Yvette Mimieux / Ustad Ali Akbar Khan"}
+{:acid 540853, :name "Johnny Zamot & His Latinos"}
+{:acid 816552, :name "The Five Stairsteps & Cubie"}
+{:acid 135513, :name "Ron"}
+{:acid 683599, :name "The New Apocalypse"}
+{:acid 295185, :name "佐藤允彦＆サウンド・ブレイカーズ"}
+{:acid 359265, :name "Seija Simola"}
+{:acid 360957, :name "Don Nix"}
+{:acid 196400, :name "Skip Battin"}
+{:acid 812999, :name "Jack Costanzo & Gerry Woo"}
+{:acid 60724, :name "Peter Sinfield"}
+{:acid 59145, :name "The J.B.'s"}
+{:acid 751931, :name "Svanfridur"}
+{:acid 433743, :name "William Castle"}
+{:acid 377185, :name "Ruphus"}
+{:acid 639858, :name "Валерий Ободзинский"}
+{:acid 105889, :name "Latte e miele"}
+{:acid 6134, :name "Blowfly"}
+{:acid 10220, :name "Clifford Brown"}
+{:acid 139776, :name "Steve Cropper"}
+{:acid 861421, :name "Strange"}
+{:acid 50643, :name "Electric Sandwich"}
+{:acid 3579, :name "Bill Monroe"}
+{:acid 15937, :name "The Band"}
+{:acid 16158, :name "Donny Hathaway"}
+{:acid 310, :name "Bryan Ferry"}
+{:acid 1435, :name "Cream"}
+{:acid 35448, :name "Donald Byrd"}
+{:acid 32752, :name "Ray Conniff"}
+{:acid 382720, :name "Brüder Grimm"}
+{:acid 32847, :name "Roberto Carlos"}
+{:acid 3531, :name "Humble Pie"}
+{:acid 48863, :name "Terje Rypdal"}
+{:acid 81437, :name "Dennis Alcapone"}
+{:acid 133696, :name "Lionel Bart"}
+{:acid 21659, :name "Lobo"}
+{:acid 1659, :name "Mott the Hoople"}
+{:acid 3529, :name "John Entwistle"}
+{:acid 4688, :name "Neil Sedaka"}
+{:acid 104813, :name "Adam & Eve"}
+{:acid 304729, :name "The Cake"}
+{:acid 24222, :name "The Five Satins"}
+{:acid 60728, :name "Le Orme"}
+{:acid 898246,
+ :name "Fela Ransome-Kuti and the Africa '70 with Ginger Baker"}
+{:acid 53508, :name "Gregg Allman"}
+{:acid 455483, :name "Kenny"}
+{:acid 3115, :name "Chico Buarque"}
+{:acid 10558, :name "Eddy Mitchell"}
+{:acid 105931, :name "New World"}
+{:acid 9716, :name "Richard Strauss"}
+{:acid 652774, :name "Woody Carr"}
+{:acid 292271, :name "Campo di Marte"}
+{:acid 162832, :name "Il balletto di bronzo"}
+{:acid 338543, :name "Jericho Jones"}
+{:acid 105904, :name "Peter Banks"}
+{:acid 810511, :name "Patti Page & Tom T. Hall"}
+{:acid 724947, :name "The Grodeck Whipperjenny"}
+{:acid 593980, :name "Mint Tattoo"}
+{:acid 387693, :name "Tanguito"}
+{:acid 367159, :name "Cargo"}
+{:acid 45440, :name "Alexander “Skip” Spence"}
+{:acid 549276, :name "Placebo"}
+{:acid 385749, :name "Brian Davison"}
+{:acid 180017, :name "Dayton Sidewinders"}
+{:acid 455258, :name "Lou Garno Trio"}
+{:acid 655995, :name "The Exotic Guitars"}
+{:acid 102332, :name "Henry Townsend"}
+{:acid 278757, :name "Manfred Mann Chapter Three"}
+{:acid 557318, :name "Chuck Trois & The National Bank"}
+{:acid 40456, :name "Charles Kynard"}
+{:acid 353261, :name "Ars Nova"}
+{:acid 34916, :name "The Shaggs"}
+{:acid 104369, :name "Armand"}
+{:acid 822031, :name "Gurney Adkins & Ray Goins"}
+{:acid 166617, :name "Ina van Faassen"}
+{:acid 805298, :name "Anders & Poncia"}
+{:acid 254038, :name "Noah Howard"}
+{:acid 538358, :name "Gayle Caldwell"}
+{:acid 561432, :name "Tom Pomposello"}
+{:acid 258438, :name "Kenny Smith & The Loveliters"}
+{:acid 756811, :name "Ustad Nathoo Khan"}
+{:acid 87463, :name "Alvin Stardust"}
+{:acid 824566, :name "Sean Fogarty & Patrick O'Neill"}
+{:acid 156207, :name "Mani Matter"}
+{:acid 143670, :name "Blodwyn Pig"}
+{:acid 227596, :name "Claudio Lolli"}
+{:acid 4325, :name "Carmen McRae"}
+{:acid 70002, :name "Lou Johnson"}
+{:acid 209865, :name "M.A. Numminen"}
+{:acid 860206, :name "Tony Randall and Jack Klugman"}
+{:acid 3073, :name "Argent"}
+{:acid 64218, :name "Mel Tormé"}
+{:acid 101539, :name "Stray"}
+{:acid 63948, :name "Bob Andy"}
+{:acid 33953, :name "Ray Anthony"}
+{:acid 670515, :name "Don Elliott"}
+{:acid 87462, :name "Alquin"}
+{:acid 177705, :name "Monty Alexander Trio"}
+{:acid 196127, :name "Conrad Schnitzler"}
+{:acid 35316, :name "Roberto Vecchioni"}
+{:acid 114999, :name "Bill Black's Combo"}
+{:acid 200654, :name "Albino Gorilla"}
+{:acid 1165, :name "Barbra Streisand"}
+{:acid 97619, :name "Peter Green"}
+{:acid 39112, :name "Silver Apples"}
+{:acid 153598, :name "Orhan Gencebay"}
+{:acid 948537, :name "Maurice Bénin"}
+{:acid 39787, :name "John Surman"}
+{:acid 65634, :name "Jesse Winchester"}
+{:acid 99705, :name "Michel Polnareff"}
+{:acid 5374, :name "Oscar Peterson"}
+{:acid 3331, :name "Little Richard"}
+{:acid 184, :name "Jimi Hendrix"}
+{:acid 39696, :name "Koko Taylor"}
+{:acid 446277, :name "Robin Kenyatta"}
+{:acid 168675, :name "Mayo Thompson"}
+{:acid 118935, :name "SRC"}
+{:acid 297289, :name "The Otto Donner Treatment"}
+{:acid 116783, :name "Alamo"}
+{:acid 344560, :name "Billy Cox"}
+{:acid 37504, :name "Paco Peña"}
+{:acid 133114, :name "Frankie Dante & Orquesta Flamboyan"}
+{:acid 131785, :name "Abraham & The Casanovas"}
+{:acid 196396, :name "The Hillmen"}
+{:acid 334101, :name "George Kerr"}
+{:acid 731761, :name "Killing Floor"}
+{:acid 818577, :name "Johnny & Lillemor"}
+{:acid 15922, :name "Keith Tippett"}
+{:acid 240789, :name "Alan Shorter"}
+{:acid 668496, :name "Απόστολος Καλδάρας"}
+{:acid 256906, :name "Haikara"}
+{:acid 141483, :name "Badger"}
+{:acid 728707, :name "Sweet Salvation"}
+{:acid 182189, :name "Dirty Blues Band"}
+{:acid 38157, :name "Dorothy Ashby"}
+{:acid 762516, :name "Mount Airy"}
+{:acid 170401, :name "Semiramis"}
+{:acid 727746, :name "Διόσκουροι"}
+{:acid 730554, :name "Benninghoff's Bad Rock Blues Band"}
+{:acid 108235, :name "Les Luthiers"}
+{:acid 114764, :name "The Propositions"}
+{:acid 813554, :name "Ewan MacColl & Peggy Seeger"}
+{:acid 406751, :name "October Country"}
+{:acid 821876, :name "Don Harper, Li De La Russe & Nikki St. George"}
+{:acid 484160, :name "Morah Blanka"}
+{:acid 11991, :name "Dave Grusin"}
+{:acid 41610, :name "Roy Ayers"}
+{:acid 53967, :name "Roy Wood"}
+{:acid 61504, :name "The Shadows of Knight"}
+{:acid 41434, :name "Bloodrock"}
+{:acid 32928, :name "The Delfonics"}
+{:acid 35231, :name "Family"}
+{:acid 141498, :name "Barrabás"}
+{:acid 247862, :name "Solera"}
+{:acid 819670, :name "John Lennon & The Plastic Ono Band"}
+{:acid 42658, :name "Luciano Berio"}
+{:acid 104804, :name "Katja Ebstein"}
+{:acid 9121, :name "Little Feat"}
+{:acid 1645, :name "Linda Ronstadt"}
+{:acid 10436, :name "Al Stewart"}
+{:acid 73304, :name "Roy Clark"}
+{:acid 2292, :name "Buddy Guy"}
+{:acid 3002, :name "Hugh Masekela"}
+{:acid 21106, :name "Paulinho da Viola"}
+{:acid 581507, :name "Ted Nugent & The Amboy Dukes"}
+{:acid 116456, :name "梶芽衣子"}
+{:acid 38537, :name "Armando Manzanero"}
+{:acid 487410, :name "Percy Faith & His Orchestra & Chorus"}
+{:acid 218322, :name "Jaak Joala"}
+{:acid 287209, :name "Jimmy Van Heusen"}
+{:acid 167237, :name "Stelvio Cipriani"}
+{:acid 222705, :name "Annexus Quam"}
+{:acid 59069, :name "Agape"}
+{:acid 3532, :name "Robin Trower"}
+{:acid 58717, :name "Brewer & Shipley"}
+{:acid 33878, :name "Phil Ochs"}
+{:acid 22848, :name "Wayne Shorter"}
+{:acid 2894, :name "Orleans"}
+{:acid 949621, :name "Lawrence Welk and his Champagne Music Makers"}
+{:acid 35676, :name "Blue Mink"}
+{:acid 61711, :name "Björn Skifs"}
+{:acid 36095, :name "The Firesign Theatre"}
+{:acid 43364, :name "Demis Roussos"}
+{:acid 106010, :name "Johnny Jenkins"}
+{:acid 125004, :name "Sounds Orchestral"}
+{:acid 257497, :name "Peter Schickele"}
+{:acid 547048, :name "Los Javaloyas"}
+{:acid 593992, :name "Leigh Stephens"}
+{:acid 293390, :name "Muhal Richard Abrams"}
+{:acid 502339, :name "Komintern"}
+{:acid 145680, :name "The Harvey Averne Dozen"}
+{:acid 31097, :name "Lyn Collins"}
+{:acid 606390, :name "Will Glahé und sein Orchester"}
+{:acid 510853, :name "Antonio Barros"}
+{:acid 54567, :name "Rare Bird"}
+{:acid 612091, :name "Lyn Roman"}
+{:acid 514371, :name "Don Robertson"}
+{:acid 345993, :name "The Appletree Theatre"}
+{:acid 266119, :name "The Brass Ring"}
+{:acid 246516, :name "John J. Francis"}
+{:acid 229933, :name "Wailing Wall"}
+{:acid 599118, :name "Food"}
+{:acid 171734, :name "Naná Vasconcelos"}
+{:acid 475080, :name "Eulenspygel"}
+{:acid 167239, :name "Franco Micalizzi"}
+{:acid 632103, :name "Zior"}
+{:acid 150030, :name "The Cables"}
+{:acid 294519, :name "Ronnie Lane’s Slim Chance"}
+{:acid 57227, :name "Betty Davis"}
+{:acid 714743, :name "Canaan"}
+{:acid 178477, :name "Jean Wells"}
+{:acid 360342, :name "Fanny"}
+{:acid 35221, :name "Ali Akbar Khan"}
+{:acid 139600, :name "Vox Dei"}
+{:acid 458955, :name "Konstantin Raudive"}
+{:acid 819114, :name "Herb Ellis and Joe Pass"}
+{:acid 104632, :name "Lorraine Ellison"}
+{:acid 538845, :name "The Dream"}
+{:acid 813086, :name "Jerry Butler & Jerry Peters"}
+{:acid 156731, :name "Don Covay & The Jefferson Lemon Blues Band"}
+{:acid 96186, :name "Michel Colombier"}
+{:acid 202760, :name "The Masqueraders"}
+{:acid 697570, :name "Masterfleet"}
+{:acid 830910, :name "Shirley Collins & The Albion Country Band"}
+{:acid 838636, :name "The Jivers / Brother Dan All Stars"}
+{:acid 36141, :name "Bobby Hutcherson"}
+{:acid 867443,
+ :name "Jacques Berrocal / Dominique Coster / Roger Ferlet"}
+{:acid 50561, :name "Luther Allison"}
+{:acid 16437, :name "Dion"}
+{:acid 31653, :name "Mountain"}
+{:acid 39598, :name "Wilbert Harrison"}
+{:acid 3515, :name "Emerson, Lake & Palmer"}
+{:acid 75179, :name "Bonga"}
+{:acid 32481, :name "Bill Evans Trio"}
+{:acid 38925, :name "Ben Sidran"}
+{:acid 130558, :name "Denise LaSalle"}
+{:acid 56534, :name "Marcos Valle"}
+{:acid 194781, :name "Slim And The Soulful Saints"}
+{:acid 121671, :name "The 8th Day"}
+{:acid 45527, :name "Syl Johnson"}
+{:acid 2494, :name "Lou Reed"}
+{:acid 38520, :name "Return to Forever"}
+{:acid 320336, :name "Les DeMerle"}
+{:acid 726817, :name "Anneke Konings"}
+{:acid 905864, :name "Tequila Brass"}
+{:acid 676844, :name "浅田美代子"}
+{:acid 466045, :name "Marsupilami"}
+{:acid 54171, :name "Dick Gregory"}
+{:acid 98175, :name "Kiki Dee"}
+{:acid 976608, :name "Gaó Gurgel & Mauricio de Souza"}
+{:acid 67071, :name "Riccardo Cocciante"}
+{:acid 11285, :name "Wolfgang Amadeus Mozart"}
+{:acid 83, :name "Frédéric Chopin"}
+{:acid 1809, :name "The O'Jays"}
+{:acid 10570, :name "The Meters"}
+{:acid 93021, :name "Lorna Bennett"}
+{:acid 136588, :name "Ocho"}
+{:acid 634729, :name "Zafer Dilek"}
+{:acid 121537, :name "Laura Lee"}
+{:acid 663243, :name "Mantis"}
+{:acid 279628, :name "The Aztecs"}
+{:acid 76528, :name "Oliver"}
+{:acid 158828, :name "Archie Whitewater"}
+{:acid 77540, :name "The Wurzels"}
+{:acid 104625, :name "Cliff Nobles & Co."}
+{:acid 191125, :name "The Millennium"}
+{:acid 750471, :name "Louisville Orchestra"}
+{:acid 528579, :name "Bobby High"}
+{:acid 131775, :name "Ann Alford"}
+{:acid 551324, :name "Levynhävittäjät"}
+{:acid 810096, :name "מתי כספי ושלמה גרוניך"}
+{:acid 428253, :name "Markus Kelly & The Impassions"}
+{:acid 261802, :name "Nicole Rieu"}
+{:acid 92929, :name "Lennie Hibbert"}
+{:acid 464254, :name "Harmonica Paul"}
+{:acid 447508, :name "John Tchicai and Cadentia Nova Danica"}
+{:acid 194583, :name "Jackson Heights"}
+{:acid 211832, :name "Leon Spencer"}
+{:acid 807981, :name "Pierre Ström & Finn Zetterholm"}
+{:acid 154366, :name "The Godz"}
+{:acid 546307, :name "Amral's Trinidad Cavaliers Steel Orchestra"}
+{:acid 523015, :name "Joanne Vent"}
+{:acid 282827, :name "The Lundstroms"}
+{:acid 83836, :name "The Humblebums"}
+{:acid 817118, :name "Carlos Santana & John McLaughlin"}
+{:acid 333992, :name "Gli Alluminogeni"}
+{:acid 486840, :name "Garybaldi"}
+{:acid 82432, :name "Anita Harris"}
+{:acid 160739, :name "2 plus 1"}
+{:acid 50159, :name "Willie Hutch"}
+{:acid 16176, :name "The Buoys"}
+{:acid 158385, :name "The Chants"}
+{:acid 443423, :name "Willis Jackson"}
+{:acid 166218, :name "Wendy & Bonnie"}
+{:acid 15841, :name "Véronique Sanson"}
+{:acid 82100, :name "Wim Sonneveld"}
+{:acid 41966, :name "The Box Tops"}
+{:acid 48229, :name "Chuck Jackson"}
+{:acid 5382, :name "Stéphane Grappelli"}
+{:acid 16289, :name "Wilson Pickett"}
+{:acid 46900, :name "The Pentangle"}
+{:acid 199457, :name "Robin Williamson"}
+{:acid 923965, :name "Reverend Gary Davis"}
+{:acid 48420, :name "Tom T. Hall"}
+{:acid 778716, :name "Thrice Mice"}
+{:acid 205528, :name "Μάρκος Βαμβακάρης"}
+{:acid 211204, :name "The Jay Boys"}
+{:acid 205942, :name "Valerie Simpson"}
+{:acid 14199, :name "Pete Townshend"}
+{:acid 819747, :name "Paco de Lucía y Ramón de Algeciras"}
+{:acid 133070, :name "Arnold Schönberg"}
+{:acid 112766, :name "Enzo Jannacci"}
+{:acid 951501, :name "The Jackson 5"}
+{:acid 47864, :name "Clyde McPhatter"}
+{:acid 64270, :name "Pugh Rogefeldt"}
+{:acid 972336, :name "Tõnu Naissoo trio, Els Himma & Avo Joala"}
+{:acid 47881, :name "Paul Hindemith"}
+{:acid 10729, :name "Antonín Dvořák"}
+{:acid 3422, :name "Lightnin' Hopkins"}
+{:acid 10689, :name "The Shadows"}
+{:acid 1806, :name "Mungo Jerry"}
+{:acid 815, :name "John Lennon"}
+{:acid 45444, :name "Mance Lipscomb"}
+{:acid 1135, :name "The Beach Boys"}
+{:acid 289122, :name "Στέλιος Καζαντζίδης"}
+{:acid 14360, :name "Leo Sayer"}
+{:acid 16345, :name "Babe Ruth"}
+{:acid 195847, :name "The Backyard Heavies"}
+{:acid 92614, :name "Glass Harp"}
+{:acid 403047, :name "Dunn and McCashen"}
+{:acid 816046, :name "Hammel-Varga-Hladík"}
+{:acid 3711, :name "Ted Taylor"}
+{:acid 241743, :name "Suomen Talvisota 1939-1940"}
+{:acid 1294, :name "Lighthouse"}
+{:acid 313887, :name "Buddy Miles Express"}
+{:acid 818856, :name "Thelonious Monk & John Coltrane"}
+{:acid 902548, :name "Gabriel et Marie Yacoub"}
+{:acid 37970, :name "Shorty Long"}
+{:acid 116968, :name "Nighttrain"}
+{:acid 201815, :name "Laghonia"}
+{:acid 212913, :name "The Salsa All Stars"}
+{:acid 104740, :name "Fred Hughes"}
+{:acid 521549, :name "Lone Star"}
+{:acid 747866, :name "Tomorrow Come Someday"}
+{:acid 180233, :name "Los Pekenikes"}
+{:acid 818876, :name "Henry Mancini & Doc Severinsen"}
+{:acid 370370, :name "Madder Lake"}
+{:acid 224404, :name "Acqua fragile"}
+{:acid 83735, :name "The Blue Sky Boys"}
+{:acid 129068, :name "Maceo and All the King's Men"}
+{:acid 679046, :name "Orang-Utan"}
+{:acid 517157, :name "Paulo Sergio"}
+{:acid 103910, :name "Randy Weston"}
+{:acid 177423, :name "John Schroeder"}
+{:acid 300459, :name "Luther Grosvenor"}
+{:acid 617600, :name "All Saved Freak Band"}
+{:acid 205343, :name "Ronee Blakley"}
+{:acid 801215, :name "Sounds Galactic"}
+{:acid 168006, :name "Afrique"}
+{:acid 100294, :name "Gnags"}
+{:acid 108951, :name "Socrates"}
+{:acid 62362, :name "Ernie & the Top Notes"}
+{:acid 815330, :name "אריק איינשטיין ושלום חנוך"}
+{:acid 286802, :name "The Power of Zeus"}
+{:acid 48582, :name "McGuinness Flint"}
+{:acid 140307, :name "Johnny Pate"}
+{:acid 385337, :name "The Gary Moore Band"}
+{:acid 92605, :name "Tim Rose"}
+{:acid 368849, :name "Grassella Oliphant"}
+{:acid 529869, :name "Rosie's Boy"}
+{:acid 221277, :name "Günter Kallmann Chor"}
+{:acid 169369, :name "Bill Elliot & The Elastic Oz Band"}
+{:acid 60317, :name "Georg Danzer"}
+{:acid 771910, :name "Kalacakra"}
+{:acid 80906, :name "NRBQ"}
+{:acid 847714, :name "Alice and John Coltrane"}
+{:acid 141000, :name "Jackie Lomax"}
+{:acid 192529, :name "Jacqueline Perez"}
+{:acid 859730,
+ :name "Stanley Black Conducting London Philharmonic Orchestra"}
+{:acid 867734, :name "Ansambel bratov Avsenik"}
+{:acid 871406, :name "Black Unity Trio"}
+{:acid 16163, :name "The Sweet Inspirations"}
+{:acid 37413, :name "Dave Mason"}
+{:acid 14293, :name "Slade"}
+{:acid 4761, :name "LaVern Baker"}
+{:acid 1086, :name "Jackson Browne"}
+{:acid 42711, :name "Gryphon"}
+{:acid 99136, :name "Yves Simon"}
+{:acid 187885, :name "Les Charlots"}
+{:acid 35461, :name "Atomic Rooster"}
+{:acid 37023, :name "Garland Jeffreys"}
+{:acid 42507, :name "Jr. Walker & The All Stars"}
+{:acid 560341, :name "Il paese dei balocchi"}
+{:acid 335818, :name "Freedom Express"}
+{:acid 12087, :name "Reinhard Mey"}
+{:acid 40570, :name "The Melodians"}
+{:acid 32257, :name "Professor Longhair"}
+{:acid 35114, :name "The Incredible String Band"}
+{:acid 113186, :name "Alberto Castillo"}
+{:acid 118096, :name "Brian Bennett"}
+{:acid 12181, :name "Johannes Brahms"}
+{:acid 67000, :name "Squallor"}
+{:acid 343921, :name "Софія Ротару"}
+{:acid 3695, :name "Fontella Bass"}
+{:acid 541130, :name "Thirsty Moon"}
+{:acid 320014, :name "Charlie Daniels"}
+{:acid 6266, :name "New York Dolls"}
+{:acid 5881, :name "Delroy Wilson"}
+{:acid 388, :name "Led Zeppelin"}
+{:acid 430, :name "Gordon Lightfoot"}
+{:acid 509063, :name "Michael Garrick Sextet"}
+{:acid 30117, :name "Brownsville Station"}
+{:acid 264047, :name "Pepe Jaramillo"}
+{:acid 105032, :name "Bruno Spoerri"}
+{:acid 707936, :name "Limbus 3"}
+{:acid 439284, :name "Electrophon"}
+{:acid 510606, :name "Touch"}
+{:acid 354977, :name "Santitos y Meñique"}
+{:acid 131778, :name "Gene Anderson"}
+{:acid 132002, :name "Ray Olan Y Su Sason"}
+{:acid 816004, :name "Judy Clay & William Bell"}
+{:acid 653204, :name "Stuffin'"}
+{:acid 317250, :name "Dada"}
+{:acid 606514, :name "Ora"}
+{:acid 133672, :name "Ralph Robles"}
+{:acid 116352, :name "Tammi Terrell"}
+{:acid 200995, :name "The Fourmyula"}
+{:acid 183386, :name "Mark Putney"}
+{:acid 165204, :name "Henk Elsink"}
+{:acid 163982, :name "Stone & Charden"}
+{:acid 96114, :name "Stark Reality"}
+{:acid 254577, :name "Gravy Train"}
+{:acid 356276, :name "Alan Silva"}
+{:acid 342713, :name "Tonto's Expanding Head Band"}
+{:acid 486618, :name "אחרית הימים"}
+{:acid 182645, :name "Cowboy"}
+{:acid 644394, :name "The Night Strings"}
+{:acid 724960, :name "The Jules Blattner Group"}
+{:acid 355025, :name "Barry Dransfield"}
+{:acid 51896, :name "Tommie Young"}
+{:acid 325654, :name "Session"}
+{:acid 184872, :name "Magical Power Mako"}
+{:acid 109905, :name "The Partridge Family"}
+{:acid 114452, :name "Δημήτρης Μητροπάνος"}
+{:acid 817945, :name "The Beatles with Billy Preston"}
+{:acid 21340, :name "Lonnie Mack"}
+{:acid 4533, :name "Melvin Van Peebles"}
+{:acid 127723, :name "Clean Living"}
+{:acid 404861, :name "The GTO's"}
+{:acid 5417, :name "Ray Barretto"}
+{:acid 121127, :name "André Kostelanetz"}
+{:acid 103516, :name "John Phillips"}
+{:acid 9999, :name "Robin Gibb"}
+{:acid 32051, :name "Dion & The Belmonts"}
+{:acid 130060, :name "Knutsen & Ludvigsen"}
+{:acid 853968, :name "The Souls of Inspyration"}
+{:acid 873260, :name "Herbie Flowers & Barry Morgan"}
+{:acid 36425, :name "Jackie Mittoo"}
+{:acid 36792, :name "Ken Boothe"}
+{:acid 20291, :name "Charlie Rich"}
+{:acid 48225, :name "Erma Franklin"}
+{:acid 4281, :name "Alirio Diaz"}
+{:acid 419989, :name "Kim Tolliver"}
+{:acid 20422, :name "Julio Iglesias"}
+{:acid 32763, :name "James Last"}
+{:acid 37411, :name "The Dave Clark Five"}
+{:acid 131788, :name "The Counts"}
+{:acid 1812, :name "Roy Orbison"}
+{:acid 22910, :name "William Sheller"}
+{:acid 959158, :name "Procession"}
+{:acid 969457, :name "Christopher Neil"}
+{:acid 63434, :name "Gudibrallan"}
+{:acid 23489, :name "The Crusaders"}
+{:acid 933216, :name "Collage"}
+{:acid 55191, :name "Karen Dalton"}
+{:acid 853816, :name "Γιάννης Πάριος / Δώρος Γεωργιάδης"}
+{:acid 141488, :name "Bakerloo"}
+{:acid 85174, :name "The Tymes"}
+{:acid 1539, :name "Elvis Presley"}
+{:acid 20157, :name "Jean Sibelius"}
+{:acid 14259, :name "Procol Harum"}
+{:acid 76721, :name "Graham Central Station"}
+{:acid 87617, :name "The Aces"}
+{:acid 259541, :name "Poobah"}
+{:acid 37391, :name "Ohio State University Marching Band"}
+{:acid 661413, :name "Morly Grey"}
+{:acid 580151, :name "Los Buenos"}
+{:acid 225677, :name "Paul Butterfield's Better Days"}
+{:acid 349931, :name "麻丘めぐみ"}
+{:acid 180964, :name "Rhoda Scott"}
+{:acid 527940, :name "John Braden"}
+{:acid 371035, :name "Grupo Circuela"}
+{:acid 266338, :name "Arturo Benedetti Michelangeli"}
+{:acid 141593, :name "Sir Lord Baltimore"}
+{:acid 63436, :name "Bo Hansson"}
+{:acid 684841, :name "Πελόμα Μποκιού"}
+{:acid 817215, :name "G. Wayne Thomas and The Crystal Voyager Band"}
+{:acid 156878, :name "Blonde on Blonde"}
+{:acid 520696, :name "Sami Jo"}
+{:acid 640812, :name "Markus Rauschner"}
+{:acid 376417, :name "Bernt Staf"}
+{:acid 370916, :name "FNL-grupperna"}
+{:acid 469515, :name "Harold Flake"}
+{:acid 349247, :name "Brainstorm"}
+{:acid 647876, :name "Les Reed Orchestra & Eddie Lester Singers"}
+{:acid 243654, :name "Roger Nichols"}
+{:acid 610453, :name "Krakel Spektakel"}
+{:acid 112148, :name "Stackridge"}
+{:acid 516322, :name "Bill Plummer & The Cosmic Brotherhood"}
+{:acid 468530, :name "Marek i Wacek"}
+{:acid 122548, :name "The Soul Society"}
+{:acid 115247, :name "Johnny Lytle"}
+{:acid 727754, :name "Ανάδελτα"}
+{:acid 538306, :name "Arco Iris"}
+{:acid 42567, :name "Christophe"}
+{:acid 58158, :name "Jack Jones"}
+{:acid 112477, :name "Symarip"}
+{:acid 24112, :name "CCS"}
+{:acid 104626, :name "Darrell Banks"}
+{:acid 9305, :name "Lee Morgan"}
+{:acid 812661, :name "Loretta Lynn & Conway Twitty"}
+{:acid 842760, :name "The Woods Band"}
+{:acid 91790, :name "Sivuca"}
+{:acid 842162, :name "Don Ellis and his Orchestra"}
+{:acid 831661, :name "Good God"}
+{:acid 844734, :name "Santiago Ausó"}
+{:acid 40043, :name "Jagjit Singh"}
+{:acid 853884, :name "The Love Depression"}
+{:acid 873975,
+ :name "Ali Kocatepe, Bora Ayanoğlu, Esin Engin & Hümeyra"}
+{:acid 39080, :name "Evie Sands"}
+{:acid 327362, :name "National Head Band"}
+{:acid 10112, :name "Maria Bethânia"}
+{:acid 90941, :name "Willem Vermandere"}
+{:acid 115359, :name "Ronnie Hawkins"}
+{:acid 45843, :name "Eddie Palmieri"}
+{:acid 12540, :name "The Marshall Tucker Band"}
+{:acid 121132, :name "Caravelli"}
+{:acid 240467, :name "Josipa Lisac"}
+{:acid 51265, :name "Julie Driscoll"}
+{:acid 98866, :name "Leapy Lee"}
+{:acid 888977, :name "アグネス・チャン"}
+{:acid 240413, :name "LaBelle"}
+{:acid 42741, :name "Edoardo Bennato"}
+{:acid 958168, :name "The Golden Dawn"}
+{:acid 283903, :name "Ame Son"}
+{:acid 974211, :name "Georges Chatelain & Hervé Roy"}
+{:acid 974238, :name "Georges Chatelain & Hervé Roy"}
+{:acid 42570, :name "Sonny James"}
+{:acid 6439, :name "Howlin' Wolf"}
+{:acid 1419, :name "Black Sabbath"}
+{:acid 117407, :name "Jeremy Spencer"}
+{:acid 4541, :name "Rod Stewart"}
+{:acid 35398, :name "Sweet"}
+{:acid 6768, :name "Billy Cobham"}
+{:acid 532584, :name "Riff Raff"}
+{:acid 206683, :name "Jobriath"}
+{:acid 209638, :name "Billy Harner"}
+{:acid 809635, :name "Bobby Cruz & Jimmy Sabater"}
+{:acid 263, :name "Area"}
+{:acid 35361, :name "Frankie Miller"}
+{:acid 341209, :name "Between"}
+{:acid 568863, :name "Gilda & Johnny"}
+{:acid 6902, :name "The Clancy Brothers"}
+{:acid 60123, :name "Marcel Dadi"}
+{:acid 589655, :name "Tinkerbells Fairydust"}
+{:acid 184727, :name "André Moss"}
+{:acid 278756, :name "Clear Blue Sky"}
+{:acid 73539, :name "The Friends of Distinction"}
+{:acid 478368, :name "Michael Nesmith & The Second National Band"}
+{:acid 209990, :name "The Lafayette Afro Rock Band"}
+{:acid 579830, :name "Shelly y Nueva Generación"}
+{:acid 59867, :name "Lenny Breau"}
+{:acid 693557, :name "Sawbuck"}
+{:acid 469036, :name "The Outlaw Blues Band"}
+{:acid 392124, :name "Joël Daydé"}
+{:acid 165536, :name "Crazy Elephant"}
+{:acid 426801, :name "Contact"}
+{:acid 519569, :name "The Flow"}
+{:acid 276375, :name "Johnny Cameron & The Camerons"}
+{:acid 423536, :name "Danny Davis and The Nashville Brass"}
+{:acid 135997, :name "Latin Breed"}
+{:acid 509870, :name "Al Brown"}
+{:acid 93223, :name "Solution"}
+{:acid 782614, :name "Bill Destler"}
+{:acid 213650, :name "The Chris Hinze Combination"}
+{:acid 489925, :name "Pepe Jaramillo and His Latin America Rhythm"}
+{:acid 979379,
+ :name
+ "Frédéric Chopin, Franz Liszt; London Symphony Orchestra, Claudio Abbado, Martha Argerich"}
+{:acid 143830, :name "The Wild Magnolias"}
+{:acid 534308, :name "Khampagar Monastery"}
+{:acid 21671, :name "Marvin Hamlisch"}
+{:acid 828125, :name "Archie Fisher, Barbara Dickson & John MacKinnon"}
+{:acid 20203, :name "Gram Parsons"}
+{:acid 101938, :name "Tomorrow"}
+{:acid 831965, :name "Dolores Vargas \"La Terremoto\""}
+{:acid 160542, :name "East of Eden"}
+{:acid 345838, :name "Made in Sweden"}
+{:acid 55083, :name "オフコース"}
+{:acid 16531, :name "Jimmy Webb"}
+{:acid 472217, :name "Lou Bandy"}
+{:acid 60683, :name "Marmalade"}
+{:acid 21982, :name "John McLaughlin"}
+{:acid 33897, :name "The Dells"}
+{:acid 142613, :name "Wolfgang Dauner"}
+{:acid 640434, :name "Jeff Cooper & The Stoned Wings"}
+{:acid 132, :name "The Temptations"}
+{:acid 52898, :name "Paul Dukas"}
+{:acid 60489, :name "Percy Faith & His Orchestra"}
+{:acid 121626, :name "The Prophets"}
+{:acid 226425, :name "Pete Bardens"}
+{:acid 159104, :name "Johnny Johnson & The Bandwagon"}
+{:acid 42495, :name "Royal Philharmonic Orchestra"}
+{:acid 3822, :name "Tito Puente"}
+{:acid 104367, :name "The Motions"}
+{:acid 111322, :name "Weldon Irvine"}
+{:acid 728376, :name "The Witch"}
+{:acid 111164, :name "Leonard Rosenman"}
+{:acid 81737, :name "Fred Neil"}
+{:acid 118887, :name "The BBC Radiophonic Workshop"}
+{:acid 964, :name "Neil Young"}
+{:acid 130561, :name "Dennis Coffey & The Detroit Guitar Band"}
+{:acid 31092, :name "The Chi-Lites"}
+{:acid 3702, :name "Ike & Tina Turner"}
+{:acid 6440, :name "Osibisa"}
+{:acid 2997, :name "Ennio Morricone"}
