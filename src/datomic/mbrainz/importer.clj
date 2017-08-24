@@ -247,6 +247,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
                  :langs (load "langs.edn")
                  :scripts (load "scripts.edn")}))]
     (conform! ::importer conv)
+    (io/make-parents basedir "batches" "dummy")
     conv))
 
 (def import-schema
