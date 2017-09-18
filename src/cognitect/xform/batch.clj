@@ -47,12 +47,11 @@ identified by its tx-attr value"
   "Returns the set of values for batch-id-attr already in the database,
 or an anomaly map"
   [conn batch-id-attr]
-  (->> (d/q conn
-                 {:query '[:find ?v
-                           :in $ ?batch-id-attr
-                           :where [_ ?batch-id-attr ?v]]
-                  :limit -1
-                  :args [(d/db conn) batch-id-attr]})
+  (->> (d/q {:query '[:find ?v
+                      :in $ ?batch-id-attr
+                      :where [_ ?batch-id-attr ?v]]
+             :limit -1
+             :args [(d/db conn) batch-id-attr]})
        (a/transduce
         (comp
          (halt-when ::anom/category)

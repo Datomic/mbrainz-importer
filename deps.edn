@@ -1,0 +1,12 @@
+{:deps
+ {local/dev {:type :file :path "src"}
+  local/resources {:type :file :path "resources"}
+  ch.qos.logback/logback-classic {:type :mvn, :version "1.0.13"},
+  com.cognitect/transcriptor {:type :mvn, :version "0.1.5"},
+  com.datomic/client-impl-pro {:type :mvn, :version "0.8.11"},
+  com.datomic/client {:type :mvn, :version "0.8.33"},
+  com.datomic/client-impl-cloud {:type :mvn, :version "0.8.33"},
+  org.clojure/clojure {:type :mvn, :version "1.9.0-beta1"}
+  org.clojure/core.async {:type :mvn, :version "0.3.442"},
+  org.clojure/test.check {:type :mvn, :version "0.9.0"},
+  org.clojure/tools.namespace {:type :mvn, :version "0.2.11"}}}
