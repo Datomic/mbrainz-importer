@@ -320,4 +320,7 @@ Idempotent. Prints to stdout as it goes, throws on error."
          (doseq [type import-order]
            (println "Loading batch file for " type)
            (time
-            (pp/pprint (<!! (load-type concurrency conn importer type))))))))))
+            (pp/pprint (<!! (load-type concurrency conn importer type)))))))))
+
+  ;; until close API
+  (System/exit 0))
