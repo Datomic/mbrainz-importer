@@ -13,6 +13,6 @@
  '[cognitect.xform.transducers :as xform]
  '[datomic.mbrainz.importer :as imp]
  '[datomic.mbrainz.importer.entities :as ent]
- '[datomic.client.impl.pro :as pro]
+ #_'[datomic.client.impl.pro :as pro]
  '[datomic.client.api.alpha :as d]
  '[datomic.client.api.async.alpha :as dasync])
