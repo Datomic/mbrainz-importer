@@ -15,7 +15,7 @@
    [cognitect.xform.async-edn :as aedn :refer (with-ex-anom)]
    [cognitect.xform.transducers :refer (dot)]
    [cognitect.xform.spec :refer (conform!)]
-   [datomic.client.api.alpha :as d]
+   [datomic.client.api :as d]
    [datomic.mbrainz.importer.entities :as ent]))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

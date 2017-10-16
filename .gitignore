@@ -2,3 +2,4 @@ target/*
 log/*
 .DS_Store
 .cpcache
+config/manifest.edn

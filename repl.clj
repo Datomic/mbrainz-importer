@@ -12,7 +12,8 @@
  '[cognitect.xform.eio :as eio :refer (top)]
  '[cognitect.xform.transducers :as xform]
  '[datomic.mbrainz.importer :as imp]
+ '[datomic.mbrainz.importer.batch :as ibatch]
  '[datomic.mbrainz.importer.entities :as ent]
  #_'[datomic.client.impl.pro :as pro]
- '[datomic.client.api.alpha :as d]
- '[datomic.client.api.async.alpha :as dasync])
+ '[datomic.client.api :as d]
+ '[datomic.client.api.async :as dasync])

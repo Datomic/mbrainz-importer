@@ -1,0 +1,10 @@
+{:client-cfg {:region "us-east-1"
+              :server-type :cloud
+              :system "datomic-1"
+              :query-group "datomic-1"
+              :endpoint "http://entry.datomic-1.us-east-1.datomic.net:8182"
+              :proxy-host "localhost"
+              :proxy-port 8888}
+ :db-name "mbrainz-subset"
+ :basedir "subsets"
+ :concurrency 3}

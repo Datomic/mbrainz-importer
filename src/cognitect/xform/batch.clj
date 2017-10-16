@@ -8,7 +8,7 @@
    [clojure.string :as str]
    [cognitect.anomalies :as anom]
    [cognitect.xform.async :refer (drain)]
-   [datomic.client.api.async.alpha :as d]))
+   [datomic.client.api.async :as d]))
 
 (set! *warn-on-reflection* true)
 

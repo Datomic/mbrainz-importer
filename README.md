@@ -2,13 +2,13 @@
 
 ## Importing the Mbrainz Subset
 
-    clojure -m datomic.mbrainz.importer {manifest-file}
+Create a config/manifest.edn file based on
+config/manifest.edn.example. You will need to set the map under the
+`client-cfg` key to be the args you use for `d/client`. Then
 
-Example
+    clojure -m datomic.mbrainz.importer config/manifest.edn
 
-    clojure -m datomic.mbrainz.importer examples/manifest.edn
-
-## Changing the Batch Size
+## ADVANCED: Changing the Batch Size
 
 Don't do this unless you know what you are doing. Don't import
 at different batch sizes into the same db.
