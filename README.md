@@ -1,5 +1,7 @@
 # Datomic Cloud Mbrainz Importer
 
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/oOON--g1PyU/0.jpg)](https://www.youtube.com/watch?v=oOON--g1PyU "Simplifying ETL with Clojure and Datomic")
+
 ## Importing the Mbrainz Subset
 
 Create a config/manifest.edn file based on
