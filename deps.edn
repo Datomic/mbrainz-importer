@@ -3,8 +3,8 @@
  :deps
  {ch.qos.logback/logback-classic {:mvn/version "1.0.13"},
   com.cognitect/transcriptor {:mvn/version "0.1.5"},
-  com.datomic/client-cloud {:mvn/version "0.8.46"},
-  org.clojure/clojure {:mvn/version "1.9.0"}
+  com.datomic/client-cloud {:mvn/version "0.8.78"},
+  org.clojure/clojure {:mvn/version "1.10.0"}
   org.clojure/core.async {:mvn/version "0.3.442"},
   org.clojure/test.check {:mvn/version "0.9.0"},
   org.clojure/tools.namespace {:mvn/version "0.2.11"}}}
