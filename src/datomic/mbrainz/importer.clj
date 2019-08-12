@@ -181,8 +181,9 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
   "xform from enums.edn to tx-data"
   (comp (map second)
         cat
-        (map (fn [[_ attr-name]]
-               {:db/ident attr-name}))))
+        (map (fn [[str-val attr-name]]
+               {:db/ident attr-name
+                (keyword (namespace attr-name) "name") str-val}))))
 
 (def super-enums->tx-data
   "xform from countries.edn, langs.edn, scripts.edn to tx-data"
