@@ -1,175 +1,496 @@
-{"Knda" {:db/ident :script/Knda, :script/name "Kannada"},
- "Cakm" {:db/ident :script/Cakm, :script/name "Chakma"},
- "Orkh" {:db/ident :script/Orkh, :script/name "Old Turkish"},
- "Zzzz"
- {:db/ident :script/Zzzz, :script/name "Code for uncoded script"},
- "Moon" {:db/ident :script/Moon, :script/name "Moon"},
- "Geor" {:db/ident :script/Geor, :script/name "Georgian"},
- "Phlv" {:db/ident :script/Phlv, :script/name "Book Pahlavi"},
- "Xpeo" {:db/ident :script/Xpeo, :script/name "Old Persian"},
- "Phnx" {:db/ident :script/Phnx, :script/name "Phoenician"},
- "Java" {:db/ident :script/Java, :script/name "Javanese"},
- "Syrn"
- {:db/ident :script/Syrn, :script/name "Syriac (Eastern variant)"},
- "Khmr" {:db/ident :script/Khmr, :script/name "Khmer"},
- "Ugar" {:db/ident :script/Ugar, :script/name "Ugaritic"},
- "Cans" {:db/ident :script/Cans, :script/name "Canadian Syllabics"},
- "Narb" {:db/ident :script/Narb, :script/name "Old North Arabian"},
- "Ogam" {:db/ident :script/Ogam, :script/name "Ogham"},
- "Mroo" {:db/ident :script/Mroo, :script/name "Mro, Mru"},
- "Olck" {:db/ident :script/Olck, :script/name "Ol Chiki"},
- "Tale" {:db/ident :script/Tale, :script/name "Tai Le"},
- "Tang" {:db/ident :script/Tang, :script/name "Tangut"},
- "Elba" {:db/ident :script/Elba, :script/name "Elbasan"},
- "Hung" {:db/ident :script/Hung, :script/name "Old Hungarian"},
- "Zmth" {:db/ident :script/Zmth, :script/name "Mathematical notation"},
- "Nbat" {:db/ident :script/Nbat, :script/name "Nabataean"},
- "Tibt" {:db/ident :script/Tibt, :script/name "Tibetan"},
- "Bamu" {:db/ident :script/Bamu, :script/name "Bamum"},
- "Latf"
- {:db/ident :script/Latf, :script/name "Latin (Fraktur variant)"},
- "Runr" {:db/ident :script/Runr, :script/name "Runic"},
- "Shrd" {:db/ident :script/Shrd, :script/name "Sharada"},
- "Tagb" {:db/ident :script/Tagb, :script/name "Tagbanwa"},
- "Cirt" {:db/ident :script/Cirt, :script/name "Cirth"},
- "Lana" {:db/ident :script/Lana, :script/name "Tai Tham"},
+{"Limb"
+ {:db/ident :script/Limb, :script/name "Limbu", :script/code "Limb"},
+ "Lyci"
+ {:db/ident :script/Lyci, :script/name "Lycian", :script/code "Lyci"},
+ "Bali"
+ {:db/ident :script/Bali,
+  :script/name "Balinese",
+  :script/code "Bali"},
+ "Ethi"
+ {:db/ident :script/Ethi,
+  :script/name "Ethiopic",
+  :script/code "Ethi"},
+ "Telu"
+ {:db/ident :script/Telu, :script/name "Telugu", :script/code "Telu"},
+ "Elba"
+ {:db/ident :script/Elba, :script/name "Elbasan", :script/code "Elba"},
+ "Ogam"
+ {:db/ident :script/Ogam, :script/name "Ogham", :script/code "Ogam"},
+ "Armi"
+ {:db/ident :script/Armi,
+  :script/name "Imperial Aramaic",
+  :script/code "Armi"},
+ "Kthi"
+ {:db/ident :script/Kthi, :script/name "Kaithi", :script/code "Kthi"},
+ "Sara"
+ {:db/ident :script/Sara, :script/name "Sarati", :script/code "Sara"},
+ "Yiii"
+ {:db/ident :script/Yiii, :script/name "Yi", :script/code "Yiii"},
+ "Hrkt"
+ {:db/ident :script/Hrkt,
+  :script/name "Japanese syllabaries",
+  :script/code "Hrkt"},
+ "Palm"
+ {:db/ident :script/Palm,
+  :script/name "Palmyrene",
+  :script/code "Palm"},
+ "Moon"
+ {:db/ident :script/Moon, :script/name "Moon", :script/code "Moon"},
+ "Afak"
+ {:db/ident :script/Afak, :script/name "Afaka", :script/code "Afak"},
+ "Dsrt"
+ {:db/ident :script/Dsrt, :script/name "Deseret", :script/code "Dsrt"},
+ "Brai"
+ {:db/ident :script/Brai, :script/name "Braille", :script/code "Brai"},
+ "Jurc"
+ {:db/ident :script/Jurc, :script/name "Jurchen", :script/code "Jurc"},
+ "Sora"
+ {:db/ident :script/Sora,
+  :script/name "Sora Sompeng",
+  :script/code "Sora"},
+ "Visp"
+ {:db/ident :script/Visp,
+  :script/name "Visible Speech",
+  :script/code "Visp"},
+ "Vaii"
+ {:db/ident :script/Vaii, :script/name "Vai", :script/code "Vaii"},
  "Latg"
- {:db/ident :script/Latg, :script/name "Latin (Gaelic variant)"},
- "Zinh"
- {:db/ident :script/Zinh, :script/name "Code for inherited script"},
- "Kana" {:db/ident :script/Kana, :script/name "Katakana"},
- "Merc" {:db/ident :script/Merc, :script/name "Meroitic Cursive"},
- "Sylo" {:db/ident :script/Sylo, :script/name "Syloti Nagri"},
- "Teng" {:db/ident :script/Teng, :script/name "Tengwar"},
- "Kthi" {:db/ident :script/Kthi, :script/name "Kaithi"},
- "Mand" {:db/ident :script/Mand, :script/name "Mandaic"},
- "Orya" {:db/ident :script/Orya, :script/name "Oriya"},
- "Mtei" {:db/ident :script/Mtei, :script/name "Meitei Mayek"},
- "Vaii" {:db/ident :script/Vaii, :script/name "Vai"},
- "Shaw" {:db/ident :script/Shaw, :script/name "Shavian"},
- "Saur" {:db/ident :script/Saur, :script/name "Saurashtra"},
- "Sora" {:db/ident :script/Sora, :script/name "Sora Sompeng"},
- "Tavt" {:db/ident :script/Tavt, :script/name "Tai Viet"},
- "Tirh" {:db/ident :script/Tirh, :script/name "Tiruta"},
- "Tfng" {:db/ident :script/Tfng, :script/name "Tifinagh"},
- "Glag" {:db/ident :script/Glag, :script/name "Glagolitic"},
- "Taml" {:db/ident :script/Taml, :script/name "Tamil"},
- "Kpel" {:db/ident :script/Kpel, :script/name "Kpelle"},
- "Lepc" {:db/ident :script/Lepc, :script/name "Lepcha"},
- "Sind" {:db/ident :script/Sind, :script/name "Khudawadi"},
- "Deva" {:db/ident :script/Deva, :script/name "Devanagari"},
- "Bopo" {:db/ident :script/Bopo, :script/name "Bopomofo"},
- "Zsym" {:db/ident :script/Zsym, :script/name "Symbols"},
- "Armi" {:db/ident :script/Armi, :script/name "Imperial Aramaic"},
- "Hebr" {:db/ident :script/Hebr, :script/name "Hebrew"},
- "Dupl" {:db/ident :script/Dupl, :script/name "Duployan shorthand"},
- "Egyd" {:db/ident :script/Egyd, :script/name "Egyptian demotic"},
- "Plrd" {:db/ident :script/Plrd, :script/name "Miao"},
- "Mend" {:db/ident :script/Mend, :script/name "Mende"},
- "Khar" {:db/ident :script/Khar, :script/name "Kharoshthi"},
- "Tglg" {:db/ident :script/Tglg, :script/name "Tagalog"},
- "Buhd" {:db/ident :script/Buhd, :script/name "Buhid"},
- "Mani" {:db/ident :script/Mani, :script/name "Manichaean"},
- "Latn" {:db/ident :script/Latn, :script/name "Latin"},
- "Afak" {:db/ident :script/Afak, :script/name "Afaka"},
- "Cprt" {:db/ident :script/Cprt, :script/name "Cypriot"},
- "Lina" {:db/ident :script/Lina, :script/name "Linear A"},
- "Yiii" {:db/ident :script/Yiii, :script/name "Yi"},
- "Visp" {:db/ident :script/Visp, :script/name "Visible Speech"},
- "Cyrl" {:db/ident :script/Cyrl, :script/name "Cyrillic"},
- "Ethi" {:db/ident :script/Ethi, :script/name "Ethiopic"},
- "Qaaa" {:db/ident :script/Qaaa, :script/name "[Multiple scripts]"},
- "Sinh" {:db/ident :script/Sinh, :script/name "Sinhala"},
- "Hira" {:db/ident :script/Hira, :script/name "Hiragana"},
- "Perm" {:db/ident :script/Perm, :script/name "Old Permic"},
- "Copt" {:db/ident :script/Copt, :script/name "Coptic"},
- "Linb" {:db/ident :script/Linb, :script/name "Linear B"},
- "Mymr" {:db/ident :script/Mymr, :script/name "Myanmar"},
- "Rjng" {:db/ident :script/Rjng, :script/name "Rejang"},
- "Wole" {:db/ident :script/Wole, :script/name "Woleai"},
- "Grek" {:db/ident :script/Grek, :script/name "Greek"},
- "Dsrt" {:db/ident :script/Dsrt, :script/name "Deseret"},
- "Egyh" {:db/ident :script/Egyh, :script/name "Egyptian hieratic"},
- "Cham" {:db/ident :script/Cham, :script/name "Cham"},
- "Guru" {:db/ident :script/Guru, :script/name "Gurmukhi"},
- "Arab" {:db/ident :script/Arab, :script/name "Arabic"},
- "Hang" {:db/ident :script/Hang, :script/name "Hangul"},
- "Nshu" {:db/ident :script/Nshu, :script/name "Nüshu"},
- "Armn" {:db/ident :script/Armn, :script/name "Armenian"},
- "Lydi" {:db/ident :script/Lydi, :script/name "Lydian"},
- "Palm" {:db/ident :script/Palm, :script/name "Palmyrene"},
- "Cher" {:db/ident :script/Cher, :script/name "Cherokee"},
- "Limb" {:db/ident :script/Limb, :script/name "Limbu"},
- "Jpan" {:db/ident :script/Jpan, :script/name "Japanese"},
- "Hrkt" {:db/ident :script/Hrkt, :script/name "Japanese syllabaries"},
- "Samr" {:db/ident :script/Samr, :script/name "Samaritan"},
- "Mlym" {:db/ident :script/Mlym, :script/name "Malayalam"},
- "Kali" {:db/ident :script/Kali, :script/name "Kayah Li"},
- "Lyci" {:db/ident :script/Lyci, :script/name "Lycian"},
+ {:db/ident :script/Latg,
+  :script/name "Latin (Gaelic variant)",
+  :script/code "Latg"},
+ "Kpel"
+ {:db/ident :script/Kpel, :script/name "Kpelle", :script/code "Kpel"},
+ "Tagb"
+ {:db/ident :script/Tagb,
+  :script/name "Tagbanwa",
+  :script/code "Tagb"},
+ "Syre"
+ {:db/ident :script/Syre,
+  :script/name "Syriac (Estrangelo variant)",
+  :script/code "Syre"},
+ "Mymr"
+ {:db/ident :script/Mymr, :script/name "Myanmar", :script/code "Mymr"},
+ "Latn"
+ {:db/ident :script/Latn, :script/name "Latin", :script/code "Latn"},
+ "Phlv"
+ {:db/ident :script/Phlv,
+  :script/name "Book Pahlavi",
+  :script/code "Phlv"},
+ "Egyh"
+ {:db/ident :script/Egyh,
+  :script/name "Egyptian hieratic",
+  :script/code "Egyh"},
+ "Hans"
+ {:db/ident :script/Hans,
+  :script/name "Han (Simplified variant)",
+  :script/code "Hans"},
+ "Copt"
+ {:db/ident :script/Copt, :script/name "Coptic", :script/code "Copt"},
+ "Lepc"
+ {:db/ident :script/Lepc, :script/name "Lepcha", :script/code "Lepc"},
+ "Hira"
+ {:db/ident :script/Hira,
+  :script/name "Hiragana",
+  :script/code "Hira"},
  "Hani"
- {:db/ident :script/Hani, :script/name "Han (Hanzi, Kanji, Hanja)"},
- "Inds" {:db/ident :script/Inds, :script/name "Indus"},
- "Takr" {:db/ident :script/Takr, :script/name "Takri"},
- "Thaa" {:db/ident :script/Thaa, :script/name "Thaana"},
- "Blis" {:db/ident :script/Blis, :script/name "Blissymbols"},
- "Bugi" {:db/ident :script/Bugi, :script/name "Buginese"},
- "Phli" {:db/ident :script/Phli, :script/name "Inscriptional Pahlavi"},
- "Mero" {:db/ident :script/Mero, :script/name "Meroitic Hieroglyphs"},
- "Laoo" {:db/ident :script/Laoo, :script/name "Lao"},
- "Cari" {:db/ident :script/Cari, :script/name "Carian"},
- "Talu" {:db/ident :script/Talu, :script/name "New Tai Lue"},
- "Avst" {:db/ident :script/Avst, :script/name "Avestan"},
- "Ital" {:db/ident :script/Ital, :script/name "Old Italic"},
- "Gujr" {:db/ident :script/Gujr, :script/name "Gujarati"},
- "Batk" {:db/ident :script/Batk, :script/name "Batak"},
+ {:db/ident :script/Hani,
+  :script/name "Han (Hanzi, Kanji, Hanja)",
+  :script/code "Hani"},
+ "Mani"
+ {:db/ident :script/Mani,
+  :script/name "Manichaean",
+  :script/code "Mani"},
+ "Phli"
+ {:db/ident :script/Phli,
+  :script/name "Inscriptional Pahlavi",
+  :script/code "Phli"},
+ "Batk"
+ {:db/ident :script/Batk, :script/name "Batak", :script/code "Batk"},
+ "Bamu"
+ {:db/ident :script/Bamu, :script/name "Bamum", :script/code "Bamu"},
+ "Mlym"
+ {:db/ident :script/Mlym,
+  :script/name "Malayalam",
+  :script/code "Mlym"},
+ "Lisu"
+ {:db/ident :script/Lisu,
+  :script/name "Lisu (Fraser)",
+  :script/code "Lisu"},
+ "Blis"
+ {:db/ident :script/Blis,
+  :script/name "Blissymbols",
+  :script/code "Blis"},
+ "Maya"
+ {:db/ident :script/Maya,
+  :script/name "Mayan hieroglyphs",
+  :script/code "Maya"},
+ "Takr"
+ {:db/ident :script/Takr, :script/name "Takri", :script/code "Takr"},
+ "Arab"
+ {:db/ident :script/Arab, :script/name "Arabic", :script/code "Arab"},
+ "Hmng"
+ {:db/ident :script/Hmng,
+  :script/name "Pahawh Hmong",
+  :script/code "Hmng"},
+ "Ugar"
+ {:db/ident :script/Ugar,
+  :script/name "Ugaritic",
+  :script/code "Ugar"},
+ "Mero"
+ {:db/ident :script/Mero,
+  :script/name "Meroitic Hieroglyphs",
+  :script/code "Mero"},
+ "Khar"
+ {:db/ident :script/Khar,
+  :script/name "Kharoshthi",
+  :script/code "Khar"},
  "Prti"
- {:db/ident :script/Prti, :script/name "Inscriptional Parthian"},
- "Brah" {:db/ident :script/Brah, :script/name "Brahmi"},
+ {:db/ident :script/Prti,
+  :script/name "Inscriptional Parthian",
+  :script/code "Prti"},
+ "Jpan"
+ {:db/ident :script/Jpan,
+  :script/name "Japanese",
+  :script/code "Jpan"},
+ "Bugi"
+ {:db/ident :script/Bugi,
+  :script/name "Buginese",
+  :script/code "Bugi"},
+ "Nshu"
+ {:db/ident :script/Nshu, :script/name "Nüshu", :script/code "Nshu"},
+ "Latf"
+ {:db/ident :script/Latf,
+  :script/name "Latin (Fraktur variant)",
+  :script/code "Latf"},
+ "Tale"
+ {:db/ident :script/Tale, :script/name "Tai Le", :script/code "Tale"},
+ "Dupl"
+ {:db/ident :script/Dupl,
+  :script/name "Duployan shorthand",
+  :script/code "Dupl"},
+ "Phag"
+ {:db/ident :script/Phag,
+  :script/name "Phags-pa",
+  :script/code "Phag"},
+ "Tirh"
+ {:db/ident :script/Tirh, :script/name "Tiruta", :script/code "Tirh"},
+ "Merc"
+ {:db/ident :script/Merc,
+  :script/name "Meroitic Cursive",
+  :script/code "Merc"},
  "Cyrs"
  {:db/ident :script/Cyrs,
-  :script/name "Cyrillic (Old Church Slavonic variant)"},
- "Loma" {:db/ident :script/Loma, :script/name "Loma"},
- "Kore" {:db/ident :script/Kore, :script/name "Korean"},
- "Syrc" {:db/ident :script/Syrc, :script/name "Syriac"},
- "Khoj" {:db/ident :script/Khoj, :script/name "Khojki"},
- "Brai" {:db/ident :script/Brai, :script/name "Braille"},
- "Gran" {:db/ident :script/Gran, :script/name "Grantha"},
- "Osma" {:db/ident :script/Osma, :script/name "Osmanya"},
- "Nkgb" {:db/ident :script/Nkgb, :script/name "Nakhi Geba"},
- "Sund" {:db/ident :script/Sund, :script/name "Sundanese"},
- "Wara" {:db/ident :script/Wara, :script/name "Warang Citi"},
- "Syre"
- {:db/ident :script/Syre, :script/name "Syriac (Estrangelo variant)"},
- "Egyp" {:db/ident :script/Egyp, :script/name "Egyptian hieroglyphs"},
- "Hano" {:db/ident :script/Hano, :script/name "Hanunoo"},
- "Roro" {:db/ident :script/Roro, :script/name "Rongorongo"},
- "Geok" {:db/ident :script/Geok, :script/name "Khutsuri"},
- "Telu" {:db/ident :script/Telu, :script/name "Telugu"},
- "Mong" {:db/ident :script/Mong, :script/name "Mongolian"},
- "Jurc" {:db/ident :script/Jurc, :script/name "Jurchen"},
- "Beng" {:db/ident :script/Beng, :script/name "Bengali"},
- "Goth" {:db/ident :script/Goth, :script/name "Gothic"},
- "Phlp" {:db/ident :script/Phlp, :script/name "Psalter Pahlavi"},
- "Thai" {:db/ident :script/Thai, :script/name "Thai"},
- "Bali" {:db/ident :script/Bali, :script/name "Balinese"},
- "Maya" {:db/ident :script/Maya, :script/name "Mayan hieroglyphs"},
- "Nkoo" {:db/ident :script/Nkoo, :script/name "N'ko"},
- "Sara" {:db/ident :script/Sara, :script/name "Sarati"},
- "Sgnw" {:db/ident :script/Sgnw, :script/name "SignWriting"},
- "Phag" {:db/ident :script/Phag, :script/name "Phags-pa"},
- "Hans"
- {:db/ident :script/Hans, :script/name "Han (Simplified variant)"},
- "Sarb" {:db/ident :script/Sarb, :script/name "Old South Arabian"},
- "Hmng" {:db/ident :script/Hmng, :script/name "Pahawh Hmong"},
+  :script/name "Cyrillic (Old Church Slavonic variant)",
+  :script/code "Cyrs"},
+ "Sgnw"
+ {:db/ident :script/Sgnw,
+  :script/name "SignWriting",
+  :script/code "Sgnw"},
+ "Zmth"
+ {:db/ident :script/Zmth,
+  :script/name "Mathematical notation",
+  :script/code "Zmth"},
+ "Thaa"
+ {:db/ident :script/Thaa, :script/name "Thaana", :script/code "Thaa"},
+ "Perm"
+ {:db/ident :script/Perm,
+  :script/name "Old Permic",
+  :script/code "Perm"},
+ "Narb"
+ {:db/ident :script/Narb,
+  :script/name "Old North Arabian",
+  :script/code "Narb"},
+ "Ital"
+ {:db/ident :script/Ital,
+  :script/name "Old Italic",
+  :script/code "Ital"},
+ "Samr"
+ {:db/ident :script/Samr,
+  :script/name "Samaritan",
+  :script/code "Samr"},
+ "Shaw"
+ {:db/ident :script/Shaw, :script/name "Shavian", :script/code "Shaw"},
+ "Knda"
+ {:db/ident :script/Knda, :script/name "Kannada", :script/code "Knda"},
+ "Teng"
+ {:db/ident :script/Teng, :script/name "Tengwar", :script/code "Teng"},
  "Zxxx"
- {:db/ident :script/Zxxx, :script/name "Code for unwritten documents"},
- "Xsux"
- {:db/ident :script/Xsux, :script/name "Cuneiform, Sumero-Akkadian"},
- "Syrj"
- {:db/ident :script/Syrj, :script/name "Syriac (Western variant)"},
+ {:db/ident :script/Zxxx,
+  :script/name "Code for unwritten documents",
+  :script/code "Zxxx"},
+ "Inds"
+ {:db/ident :script/Inds, :script/name "Indus", :script/code "Inds"},
+ "Cher"
+ {:db/ident :script/Cher,
+  :script/name "Cherokee",
+  :script/code "Cher"},
+ "Sinh"
+ {:db/ident :script/Sinh, :script/name "Sinhala", :script/code "Sinh"},
+ "Armn"
+ {:db/ident :script/Armn,
+  :script/name "Armenian",
+  :script/code "Armn"},
+ "Grek"
+ {:db/ident :script/Grek, :script/name "Greek", :script/code "Grek"},
+ "Nkgb"
+ {:db/ident :script/Nkgb,
+  :script/name "Nakhi Geba",
+  :script/code "Nkgb"},
+ "Lana"
+ {:db/ident :script/Lana,
+  :script/name "Tai Tham",
+  :script/code "Lana"},
+ "Saur"
+ {:db/ident :script/Saur,
+  :script/name "Saurashtra",
+  :script/code "Saur"},
+ "Qaaa"
+ {:db/ident :script/Qaaa,
+  :script/name "[Multiple scripts]",
+  :script/code "Qaaa"},
+ "Lydi"
+ {:db/ident :script/Lydi, :script/name "Lydian", :script/code "Lydi"},
  "Hant"
- {:db/ident :script/Hant, :script/name "Han (Traditional variant)"},
- "Lisu" {:db/ident :script/Lisu, :script/name "Lisu (Fraser)"},
+ {:db/ident :script/Hant,
+  :script/name "Han (Traditional variant)",
+  :script/code "Hant"},
+ "Sund"
+ {:db/ident :script/Sund,
+  :script/name "Sundanese",
+  :script/code "Sund"},
+ "Wara"
+ {:db/ident :script/Wara,
+  :script/name "Warang Citi",
+  :script/code "Wara"},
+ "Taml"
+ {:db/ident :script/Taml, :script/name "Tamil", :script/code "Taml"},
+ "Xpeo"
+ {:db/ident :script/Xpeo,
+  :script/name "Old Persian",
+  :script/code "Xpeo"},
+ "Guru"
+ {:db/ident :script/Guru,
+  :script/name "Gurmukhi",
+  :script/code "Guru"},
+ "Phlp"
+ {:db/ident :script/Phlp,
+  :script/name "Psalter Pahlavi",
+  :script/code "Phlp"},
+ "Sylo"
+ {:db/ident :script/Sylo,
+  :script/name "Syloti Nagri",
+  :script/code "Sylo"},
+ "Glag"
+ {:db/ident :script/Glag,
+  :script/name "Glagolitic",
+  :script/code "Glag"},
+ "Hebr"
+ {:db/ident :script/Hebr, :script/name "Hebrew", :script/code "Hebr"},
+ "Tibt"
+ {:db/ident :script/Tibt, :script/name "Tibetan", :script/code "Tibt"},
+ "Gran"
+ {:db/ident :script/Gran, :script/name "Grantha", :script/code "Gran"},
+ "Buhd"
+ {:db/ident :script/Buhd, :script/name "Buhid", :script/code "Buhd"},
+ "Bass"
+ {:db/ident :script/Bass,
+  :script/name "Bassa Vah",
+  :script/code "Bass"},
+ "Geor"
+ {:db/ident :script/Geor,
+  :script/name "Georgian",
+  :script/code "Geor"},
+ "Linb"
+ {:db/ident :script/Linb,
+  :script/name "Linear B",
+  :script/code "Linb"},
+ "Kali"
+ {:db/ident :script/Kali,
+  :script/name "Kayah Li",
+  :script/code "Kali"},
+ "Orya"
+ {:db/ident :script/Orya, :script/name "Oriya", :script/code "Orya"},
+ "Sarb"
+ {:db/ident :script/Sarb,
+  :script/name "Old South Arabian",
+  :script/code "Sarb"},
+ "Loma"
+ {:db/ident :script/Loma, :script/name "Loma", :script/code "Loma"},
+ "Hung"
+ {:db/ident :script/Hung,
+  :script/name "Old Hungarian",
+  :script/code "Hung"},
+ "Xsux"
+ {:db/ident :script/Xsux,
+  :script/name "Cuneiform, Sumero-Akkadian",
+  :script/code "Xsux"},
+ "Cari"
+ {:db/ident :script/Cari, :script/name "Carian", :script/code "Cari"},
+ "Olck"
+ {:db/ident :script/Olck,
+  :script/name "Ol Chiki",
+  :script/code "Olck"},
+ "Hang"
+ {:db/ident :script/Hang, :script/name "Hangul", :script/code "Hang"},
+ "Sind"
+ {:db/ident :script/Sind,
+  :script/name "Khudawadi",
+  :script/code "Sind"},
+ "Tglg"
+ {:db/ident :script/Tglg, :script/name "Tagalog", :script/code "Tglg"},
+ "Nkoo"
+ {:db/ident :script/Nkoo, :script/name "N'ko", :script/code "Nkoo"},
+ "Beng"
+ {:db/ident :script/Beng, :script/name "Bengali", :script/code "Beng"},
+ "Osma"
+ {:db/ident :script/Osma, :script/name "Osmanya", :script/code "Osma"},
+ "Bopo"
+ {:db/ident :script/Bopo,
+  :script/name "Bopomofo",
+  :script/code "Bopo"},
+ "Syrn"
+ {:db/ident :script/Syrn,
+  :script/name "Syriac (Eastern variant)",
+  :script/code "Syrn"},
+ "Cakm"
+ {:db/ident :script/Cakm, :script/name "Chakma", :script/code "Cakm"},
+ "Tang"
+ {:db/ident :script/Tang, :script/name "Tangut", :script/code "Tang"},
+ "Egyd"
+ {:db/ident :script/Egyd,
+  :script/name "Egyptian demotic",
+  :script/code "Egyd"},
+ "Laoo"
+ {:db/ident :script/Laoo, :script/name "Lao", :script/code "Laoo"},
+ "Geok"
+ {:db/ident :script/Geok,
+  :script/name "Khutsuri",
+  :script/code "Geok"},
+ "Deva"
+ {:db/ident :script/Deva,
+  :script/name "Devanagari",
+  :script/code "Deva"},
+ "Talu"
+ {:db/ident :script/Talu,
+  :script/name "New Tai Lue",
+  :script/code "Talu"},
  "Zyyy"
- {:db/ident :script/Zyyy, :script/name "Code for undetermined script"},
- "Bass" {:db/ident :script/Bass, :script/name "Bassa Vah"}}
+ {:db/ident :script/Zyyy,
+  :script/name "Code for undetermined script",
+  :script/code "Zyyy"},
+ "Java"
+ {:db/ident :script/Java,
+  :script/name "Javanese",
+  :script/code "Java"},
+ "Gujr"
+ {:db/ident :script/Gujr,
+  :script/name "Gujarati",
+  :script/code "Gujr"},
+ "Cirt"
+ {:db/ident :script/Cirt, :script/name "Cirth", :script/code "Cirt"},
+ "Kana"
+ {:db/ident :script/Kana,
+  :script/name "Katakana",
+  :script/code "Kana"},
+ "Cyrl"
+ {:db/ident :script/Cyrl,
+  :script/name "Cyrillic",
+  :script/code "Cyrl"},
+ "Hano"
+ {:db/ident :script/Hano, :script/name "Hanunoo", :script/code "Hano"},
+ "Cham"
+ {:db/ident :script/Cham, :script/name "Cham", :script/code "Cham"},
+ "Avst"
+ {:db/ident :script/Avst, :script/name "Avestan", :script/code "Avst"},
+ "Mong"
+ {:db/ident :script/Mong,
+  :script/name "Mongolian",
+  :script/code "Mong"},
+ "Cprt"
+ {:db/ident :script/Cprt, :script/name "Cypriot", :script/code "Cprt"},
+ "Mand"
+ {:db/ident :script/Mand, :script/name "Mandaic", :script/code "Mand"},
+ "Rjng"
+ {:db/ident :script/Rjng, :script/name "Rejang", :script/code "Rjng"},
+ "Kore"
+ {:db/ident :script/Kore, :script/name "Korean", :script/code "Kore"},
+ "Mend"
+ {:db/ident :script/Mend, :script/name "Mende", :script/code "Mend"},
+ "Zsym"
+ {:db/ident :script/Zsym, :script/name "Symbols", :script/code "Zsym"},
+ "Brah"
+ {:db/ident :script/Brah, :script/name "Brahmi", :script/code "Brah"},
+ "Tfng"
+ {:db/ident :script/Tfng,
+  :script/name "Tifinagh",
+  :script/code "Tfng"},
+ "Lina"
+ {:db/ident :script/Lina,
+  :script/name "Linear A",
+  :script/code "Lina"},
+ "Roro"
+ {:db/ident :script/Roro,
+  :script/name "Rongorongo",
+  :script/code "Roro"},
+ "Shrd"
+ {:db/ident :script/Shrd, :script/name "Sharada", :script/code "Shrd"},
+ "Cans"
+ {:db/ident :script/Cans,
+  :script/name "Canadian Syllabics",
+  :script/code "Cans"},
+ "Orkh"
+ {:db/ident :script/Orkh,
+  :script/name "Old Turkish",
+  :script/code "Orkh"},
+ "Plrd"
+ {:db/ident :script/Plrd, :script/name "Miao", :script/code "Plrd"},
+ "Runr"
+ {:db/ident :script/Runr, :script/name "Runic", :script/code "Runr"},
+ "Zzzz"
+ {:db/ident :script/Zzzz,
+  :script/name "Code for uncoded script",
+  :script/code "Zzzz"},
+ "Egyp"
+ {:db/ident :script/Egyp,
+  :script/name "Egyptian hieroglyphs",
+  :script/code "Egyp"},
+ "Mroo"
+ {:db/ident :script/Mroo,
+  :script/name "Mro, Mru",
+  :script/code "Mroo"},
+ "Syrc"
+ {:db/ident :script/Syrc, :script/name "Syriac", :script/code "Syrc"},
+ "Nbat"
+ {:db/ident :script/Nbat,
+  :script/name "Nabataean",
+  :script/code "Nbat"},
+ "Zinh"
+ {:db/ident :script/Zinh,
+  :script/name "Code for inherited script",
+  :script/code "Zinh"},
+ "Tavt"
+ {:db/ident :script/Tavt,
+  :script/name "Tai Viet",
+  :script/code "Tavt"},
+ "Wole"
+ {:db/ident :script/Wole, :script/name "Woleai", :script/code "Wole"},
+ "Mtei"
+ {:db/ident :script/Mtei,
+  :script/name "Meitei Mayek",
+  :script/code "Mtei"},
+ "Goth"
+ {:db/ident :script/Goth, :script/name "Gothic", :script/code "Goth"},
+ "Khmr"
+ {:db/ident :script/Khmr, :script/name "Khmer", :script/code "Khmr"},
+ "Thai"
+ {:db/ident :script/Thai, :script/name "Thai", :script/code "Thai"},
+ "Phnx"
+ {:db/ident :script/Phnx,
+  :script/name "Phoenician",
+  :script/code "Phnx"},
+ "Syrj"
+ {:db/ident :script/Syrj,
+  :script/name "Syriac (Western variant)",
+  :script/code "Syrj"},
+ "Khoj"
+ {:db/ident :script/Khoj, :script/name "Khojki", :script/code "Khoj"}}
