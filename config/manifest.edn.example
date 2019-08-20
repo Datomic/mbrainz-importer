@@ -5,6 +5,6 @@
               :endpoint "http://entry.datomic-1.us-east-1.datomic.net:8182"
               :proxy-host "localhost"
               :proxy-port 8888}
- :db-name "mbrainz-subset"
+ :db-name "mbrainz-1968-1973"
  :basedir "subsets"
  :concurrency 3}
