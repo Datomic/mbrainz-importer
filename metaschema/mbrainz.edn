@@ -1,0 +1,32 @@
+{:tables ;; :membership-attr->opts
+ {:abstractRelease/gid {}
+  :artist/gid {}
+  :country/name {}
+  :artist.type/name {}
+  :artist.gender/name {}
+  :label.type/name {}
+  :label/gid {}
+  :language/name {}
+  :medium.format/name {}
+  :release.packaging/name {}
+  :medium/format {}
+  :release/gid {}
+  :script/name {}
+  :track/name {}}
+ 
+ :joins ;;ref-attr -> tablename
+ {:abstractRelease/artists artist
+  :label/country country
+  :label/type label_type
+  :release/country country
+  :release/language language
+  :release/script script
+  :release/packaging release_packaging
+  :release/artists artist
+  :release/labels label
+  :artist/country country
+  :artist/gender artist_gender
+  :artist/type artist_type
+  :medium/format medium_format
+  :medium/tracks track
+  :track/artists artist}}
