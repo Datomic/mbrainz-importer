@@ -8,6 +8,7 @@
    [clojure.java.io :as io]
    [clojure.pprint :as pp]
    [clojure.spec.alpha :as s]
+   [clojure.string :as str]
    [cognitect.anomalies :as anom]
    [cognitect.xform.batch :as batch :refer (already-transacted filter-batches
                                             load-parallel reverse? tx-data->batches)]
@@ -130,6 +131,8 @@ of that type."
    :length :track/duration
    :artist [:track/artists :artist/gid]})
 
+(def track-tempid-keys [:id :tracknum])
+
 (def release-artist-attrs
   "Name translation, see transform-entity."
   {:release [:db/id :release/gid]
@@ -152,6 +155,11 @@ of that type."
   (as-super-enum [_ ent attr-name v] "Convert value v for attr-name in ent into a super-enum keyword.")
   (entity-data->tx-data [_ type] "Given an entity type, return a transducer from that type into tx-data.")
   (entity-data->ch [_ type ch] "Puts entity data for type onto ch, closing ch when data is done."))
+
+(defn create-tempid
+  "Create a tempid for entity based on values of ks."
+  [entity prefix ks]
+  (str prefix "-" (str/join "-" (map entity ks))))
 
 (defn transform-entity
   "Transform entity e from input format to tx-data map.
@@ -223,11 +231,18 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
          :areleases (map #(transform-entity this % arelease-attrs)) 
          :releases (map #(transform-entity this % release-attrs))
          :labels (map #(transform-entity this % label-attrs))
-         :media (map
-                 (fn [ent]
-                   (assoc (transform-entity this ent medium-attrs)
-                     :medium/tracks
-                     (transform-entity this ent track-attrs))))
+         :media (comp
+                 (partition-by :id)  ;; group tracks by medium
+                 (map
+                  (fn [ents]
+                    (reduce
+                     (fn [medium ent]
+                       (update medium :medium/tracks conj
+                               (assoc (transform-entity this ent track-attrs)
+                                 ;; make a per-track-artist tempid so multi-artist tracks coalesce
+                                 :db/id (create-tempid ent "track" track-tempid-keys))))
+                     (transform-entity this (first ents) medium-attrs)
+                     ents))))
          :releases-artists (map #(transform-entity this % release-artist-attrs))
          :areleases-artists (map #(transform-entity this % arelease-artist-attrs))))
   (entity-data->ch
