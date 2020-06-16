@@ -178,7 +178,7 @@ Handles Datomic specifics: db/ids, refs, reverse refs."
              (if (reverse? id)
                (assoc ent id [uniq v])
                (assoc ent id {uniq v}))))
-         (assoc ent attr (or (as-enum importer ent attr v )
+         (assoc ent attr (or (as-enum importer ent attr v)
                              (as-super-enum importer ent attr v)
                              v)))
        ent))
@@ -294,7 +294,10 @@ the reader and writer threads."
        ::anom/message (.getMessage t)}))))
 
 (defn load-type
-  "Loads data of type"
+  "Loads data of type (keyword) to connection conn with concurrency n using
+  importer. Returns a channel that contains a map with keys
+  :process and :result, each of which contains the results of the reader and
+  writer, respectively when successful or an anomaly if failure."
   [n conn importer type]
   (go
    (with-ex-anom
@@ -336,7 +339,10 @@ Idempotent. Prints to stdout as it goes, throws on error."
          (doseq [type import-order]
            (println "Loading batch file for " type)
            (time
-            (pp/pprint (<!! (load-type concurrency conn importer type)))))))))
+             (let [result (<!! (load-type concurrency conn importer type))]
+               (if (::anom/category (:result result))
+                 (throw (ex-info "Import failed" (:result result)))
+                 (pp/pprint result)))))))))
 
   ;; until close API
   (System/exit 0))
