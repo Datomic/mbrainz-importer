@@ -34,7 +34,8 @@
 (s/def ::super-enums (s/map-of ::super-type ::super-enum))
 (s/def ::importer (s/keys :req-un [::enums ::super-enums]))
 
-(s/def ::manifest (s/keys :req-un [::client-cfg ::db-name ::basedir ::concurrency]))
+(s/def ::manifest (s/keys :req-un [::client-cfg ::db-name ::basedir ::concurrency]
+                          :opt-un [::import-order]))
 
 (def import-order
   "Order of import for data types."
@@ -320,6 +321,7 @@ the reader and writer threads."
 :db-name           database name
 :basedir           directory with batch data
 :concurrency       number of batches in flight at a time, suggest 3
+:import-order      override the default import-order - optional
 
 The subsets directory of this project is a suitable basedir.
 
@@ -329,7 +331,8 @@ Idempotent. Prints to stdout as it goes, throws on error."
   [manifest-file & [opt]]
   (let [manifest (-> manifest-file slurp edn/read-string)]
     (conform! ::manifest manifest)
-    (let [{:keys [client-cfg db-name basedir batch-size concurrency]} manifest
+    (let [{:keys [client-cfg db-name basedir batch-size concurrency]
+           import-order :import-order :or {import-order import-order}} manifest
           client (d/client client-cfg)
           importer (create-importer basedir)]
       (d/create-database client {:db-name db-name})
