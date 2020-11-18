@@ -101,7 +101,8 @@ of that type."
    :barcode :release/barcode
    :date_year :release/year
    :date_month :release/month
-   :date_day :release/day})
+   :date_day :release/day
+   :release_group [:release/abstractRelease :abstractRelease/gid]})
 
 (def label-attrs
   "Name translation, see transform-entity."

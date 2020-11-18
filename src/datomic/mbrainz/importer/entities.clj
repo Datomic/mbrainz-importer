@@ -31,12 +31,14 @@
 (s/def ::length pos-int?)
 (s/def ::release uuid?)
 (s/def ::artist uuid?)
+(s/def ::release_group uuid?)
+
 
 (s/def ::artist-ent (s/keys :req-un [::gid ::sortname ::name]
                             :opt-un [::type ::gender ::country
                                      ::begin_date_year ::begin_date_month ::begin_date_day
                                      ::end_date_year ::end_date_month ::end_date_day]))
-(s/def ::release-ent (s/keys :req-un [::gid ::name]
+(s/def ::release-ent (s/keys :req-un [::gid ::name ::release_group]
                          :opt-un [::artist_credit ::label ::packaging ::status ::country
                                   ::script ::barcode ::date_year ::date_month ::date_day]))
 (s/def ::arelease-ent (s/keys :req-un [::gid ::name ::artist_credit]
