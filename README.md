@@ -1,8 +1,8 @@
 # Datomic Cloud Mbrainz Importer
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/oOON--g1PyU/0.jpg)](https://www.youtube.com/watch?v=oOON--g1PyU "Simplifying ETL with Clojure and Datomic")
+Import the mbrainz sample data set.
 
-## Importing the Mbrainz Subset
+# Importing the Mbrainz Subset
 
 Create a config/manifest.edn file based on
 config/manifest.edn.example. You will need to set the map under the
@@ -10,7 +10,11 @@ config/manifest.edn.example. You will need to set the map under the
 
     clojure -M -m datomic.mbrainz.importer config/manifest.edn
 
-## ADVANCED: Changing the Batch Size
+# Watch the Video
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/oOON--g1PyU/0.jpg)](https://www.youtube.com/watch?v=oOON--g1PyU "Simplifying ETL with Clojure and Datomic")
+
+# ADVANCED: Changing the Batch Size
 
 Don't do this unless you know what you are doing. Never import
 at different batch sizes into the same db.
