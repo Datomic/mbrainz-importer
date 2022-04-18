@@ -74,8 +74,8 @@ of that type."
    :type :artist/type
    :gender :artist/gender
    :begin_date_year :artist/startYear
-   :begin_data_month :artist/startMonth
-   :begin_date_date :artist/startDay
+   :begin_date_month :artist/startMonth
+   :begin_date_day :artist/startDay
    :end_date_year :artist/endYear
    :end_date_month :artist/endMonth
    :end_date_day :artist/endDay})
