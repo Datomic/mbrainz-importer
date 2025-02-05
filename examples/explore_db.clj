@@ -32,7 +32,7 @@
 
 (defn batch-entity
   [batch-id]
-  (str/replace batch-id #"-.*" ""))
+  (str/replace batch-id #"-[^-]*$" ""))
 
 (->> (client/q conn {:query '[:find ?id
                               :where [_ :mbrainz.initial-import/batch-id ?id]]
